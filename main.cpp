@@ -6,9 +6,9 @@ using namespace std;
 
 
 int main() {
-    vector<int> numbers{2, 10, 1, 0, 11, 5, 3};
+    vector<int> numbers{2, 3, 5, 4, 3, 2, 6, 7};
     int duplicate_number;
-    bool result = duplicate(numbers, duplicate_number);
+    bool result = get_duplicate(numbers, duplicate_number);
     if (result)
         cout << duplicate_number << endl;
     else
