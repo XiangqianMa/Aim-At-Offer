@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Aim_At_Offer.dir/main.cpp.o CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.o  -o Aim_At_Offer 

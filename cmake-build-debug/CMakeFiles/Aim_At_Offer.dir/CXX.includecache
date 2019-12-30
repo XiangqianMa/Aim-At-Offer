@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/mxq/project/Projects/algorithem/Aim-At-Offer/duplicate_number/duplicate.cpp
+duplicate.h
+/media/mxq/project/Projects/algorithem/Aim-At-Offer/duplicate_number/duplicate.h
+
+/media/mxq/project/Projects/algorithem/Aim-At-Offer/duplicate_number/duplicate.h
+iostream
+-
+vector
+-
+
+/media/mxq/project/Projects/algorithem/Aim-At-Offer/main.cpp
+iostream
+-
+vector
+-
+duplicate_number/duplicate.h
+/media/mxq/project/Projects/algorithem/Aim-At-Offer/duplicate_number/duplicate.h
+
