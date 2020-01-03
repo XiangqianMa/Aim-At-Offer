@@ -150,6 +150,33 @@ duplicate_number/duplicate.cpp.s:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.s
 .PHONY : duplicate_number/duplicate.cpp.s
 
+find_number_in_matrix/find_number_in_matrix.o: find_number_in_matrix/find_number_in_matrix.cpp.o
+
+.PHONY : find_number_in_matrix/find_number_in_matrix.o
+
+# target to build an object file
+find_number_in_matrix/find_number_in_matrix.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/find_number_in_matrix/find_number_in_matrix.cpp.o
+.PHONY : find_number_in_matrix/find_number_in_matrix.cpp.o
+
+find_number_in_matrix/find_number_in_matrix.i: find_number_in_matrix/find_number_in_matrix.cpp.i
+
+.PHONY : find_number_in_matrix/find_number_in_matrix.i
+
+# target to preprocess a source file
+find_number_in_matrix/find_number_in_matrix.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/find_number_in_matrix/find_number_in_matrix.cpp.i
+.PHONY : find_number_in_matrix/find_number_in_matrix.cpp.i
+
+find_number_in_matrix/find_number_in_matrix.s: find_number_in_matrix/find_number_in_matrix.cpp.s
+
+.PHONY : find_number_in_matrix/find_number_in_matrix.s
+
+# target to generate assembly for a file
+find_number_in_matrix/find_number_in_matrix.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/find_number_in_matrix/find_number_in_matrix.cpp.s
+.PHONY : find_number_in_matrix/find_number_in_matrix.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -177,6 +204,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+string/replace_black.o: string/replace_black.cpp.o
+
+.PHONY : string/replace_black.o
+
+# target to build an object file
+string/replace_black.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/string/replace_black.cpp.o
+.PHONY : string/replace_black.cpp.o
+
+string/replace_black.i: string/replace_black.cpp.i
+
+.PHONY : string/replace_black.i
+
+# target to preprocess a source file
+string/replace_black.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/string/replace_black.cpp.i
+.PHONY : string/replace_black.cpp.i
+
+string/replace_black.s: string/replace_black.cpp.s
+
+.PHONY : string/replace_black.s
+
+# target to generate assembly for a file
+string/replace_black.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/string/replace_black.cpp.s
+.PHONY : string/replace_black.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -189,9 +243,15 @@ help:
 	@echo "... duplicate_number/duplicate.o"
 	@echo "... duplicate_number/duplicate.i"
 	@echo "... duplicate_number/duplicate.s"
+	@echo "... find_number_in_matrix/find_number_in_matrix.o"
+	@echo "... find_number_in_matrix/find_number_in_matrix.i"
+	@echo "... find_number_in_matrix/find_number_in_matrix.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... string/replace_black.o"
+	@echo "... string/replace_black.i"
+	@echo "... string/replace_black.s"
 .PHONY : help
 
 

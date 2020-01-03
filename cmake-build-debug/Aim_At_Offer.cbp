@@ -90,7 +90,19 @@
 		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/duplicate_number/duplicate.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
+		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/find_number_in_matrix/find_number_in_matrix.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/find_number_in_matrix/find_number_in_matrix.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
 		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/main.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/string/replace_black.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/string/replace_black.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
 		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/CMakeLists.txt">

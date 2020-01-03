@@ -15,22 +15,25 @@ bool find_number(vector<vector<int>> matrix, int height, int width, int number)
     int x = 0;
     int y = width - 1;
     bool found = false;
-    while (x <= height-1 || y >= 0){
-        if (number == matrix[x][y]) {
-            found = true;
-            break;
+
+    if (!matrix.empty() || height > 0 || width > 0) {
+        while (x <= height - 1 && y >= 0) {
+            if (number == matrix[x][y]) {
+                found = true;
+                break;
+            }
+            // 只剩余最后一个元素，且不相等，则不存在
+            if (x == height - 1 && y == 0) {
+                found = false;
+                break;
+            }
+            if (number > matrix[x][y])
+                // 剔除当前行
+                x++;
+            else
+                // 剔除当前列
+                y--;
         }
-        // 只剩余最后一个元素，且不相等，则不存在
-        if (x == height - 1 && y == 0){
-            found = false;
-            break;
-        }
-        if (number > matrix[x][y])
-            // 剔除当前行
-            x++;
-        else
-            // 剔除当前列
-            y--;
     }
     return found;
 }
