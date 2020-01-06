@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/find_number_in_matrix/find_number_in_matrix.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/string/replace_black.cpp.o"
+  "CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o"
+  "CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o"
   "Aim_At_Offer.pdb"
   "Aim_At_Offer"
 )

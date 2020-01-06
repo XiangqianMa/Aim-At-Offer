@@ -6,8 +6,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/media/mxq/project/Projects/algorithem/Aim-At-Offer/duplicate_number/duplicate.cpp" "/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.o"
   "/media/mxq/project/Projects/algorithem/Aim-At-Offer/find_number_in_matrix/find_number_in_matrix.cpp" "/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/find_number_in_matrix/find_number_in_matrix.cpp.o"
+  "/media/mxq/project/Projects/algorithem/Aim-At-Offer/list/print_list_reverse.cpp" "/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o"
   "/media/mxq/project/Projects/algorithem/Aim-At-Offer/main.cpp" "/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/main.cpp.o"
   "/media/mxq/project/Projects/algorithem/Aim-At-Offer/string/replace_black.cpp" "/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/string/replace_black.cpp.o"
+  "/media/mxq/project/Projects/algorithem/Aim-At-Offer/tree/construct_tree.cpp" "/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

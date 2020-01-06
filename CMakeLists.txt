@@ -3,4 +3,4 @@ project(Aim_At_Offer)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Aim_At_Offer main.cpp duplicate_number/duplicate.cpp duplicate_number/duplicate.h find_number_in_matrix/find_number_in_matrix.cpp find_number_in_matrix/find_number_in_matrix.h string/replace_black.cpp string/replace_black.h)
+add_executable(Aim_At_Offer main.cpp duplicate_number/duplicate.cpp duplicate_number/duplicate.h find_number_in_matrix/find_number_in_matrix.cpp find_number_in_matrix/find_number_in_matrix.h string/replace_black.cpp string/replace_black.h list/print_list_reverse.cpp list/print_list_reverse.h tree/construct_tree.cpp tree/construct_tree.h)

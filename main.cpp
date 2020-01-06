@@ -3,9 +3,10 @@
 #include "duplicate_number/duplicate.h"
 #include "find_number_in_matrix/find_number_in_matrix.h"
 #include "string/replace_black.h"
+#include "list/print_list_reverse.h"
+#include "tree/construct_tree.h"
 
 using namespace std;
-
 
 int main() {
     // 查找数组中的重复数字
@@ -33,6 +34,22 @@ int main() {
         cout << string << endl;
     else
         cout << "Replace string failure." << endl;
+
+    // 反向打印链表中的元素
+    ListNode* list_head = nullptr;
+    add_to_tail(&list_head, 10);
+    add_to_tail(&list_head, 9);
+    add_to_tail(&list_head, 8);
+    add_to_tail(&list_head, 7);
+    add_to_tail(&list_head, 6);
+
+    print_list_reverse_iterative(list_head);
+    print_list_reverse_recursive(list_head);
+
+    // 从前序遍历序列和中序遍历序列中构建二叉树
+    vector<int> preorder{1, 2, 4, 7, 3, 5, 6, 8};
+    vector<int> inorder{4, 7, 2, 1, 5, 3, 8, 6};
+    BinaryTreeNode *binary_tree_node = ConstructTree(preorder, inorder);
 
     return 0;
 }

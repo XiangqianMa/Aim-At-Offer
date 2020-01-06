@@ -109,12 +109,40 @@ CMakeFiles/Aim_At_Offer.dir/string/replace_black.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/string/replace_black.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/mxq/project/Projects/algorithem/Aim-At-Offer/string/replace_black.cpp -o CMakeFiles/Aim_At_Offer.dir/string/replace_black.cpp.s
 
+CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o: ../list/print_list_reverse.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o -c /media/mxq/project/Projects/algorithem/Aim-At-Offer/list/print_list_reverse.cpp
+
+CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/mxq/project/Projects/algorithem/Aim-At-Offer/list/print_list_reverse.cpp > CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/mxq/project/Projects/algorithem/Aim-At-Offer/list/print_list_reverse.cpp -o CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o: ../tree/construct_tree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o -c /media/mxq/project/Projects/algorithem/Aim-At-Offer/tree/construct_tree.cpp
+
+CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/mxq/project/Projects/algorithem/Aim-At-Offer/tree/construct_tree.cpp > CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/mxq/project/Projects/algorithem/Aim-At-Offer/tree/construct_tree.cpp -o CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.s
+
 # Object files for target Aim_At_Offer
 Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/main.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/find_number_in_matrix/find_number_in_matrix.cpp.o" \
-"CMakeFiles/Aim_At_Offer.dir/string/replace_black.cpp.o"
+"CMakeFiles/Aim_At_Offer.dir/string/replace_black.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o"
 
 # External object files for target Aim_At_Offer
 Aim_At_Offer_EXTERNAL_OBJECTS =
@@ -123,9 +151,11 @@ Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/main.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/find_number_in_matrix/find_number_in_matrix.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/string/replace_black.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/build.make
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Aim_At_Offer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable Aim_At_Offer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Aim_At_Offer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

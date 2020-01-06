@@ -177,6 +177,33 @@ find_number_in_matrix/find_number_in_matrix.cpp.s:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/find_number_in_matrix/find_number_in_matrix.cpp.s
 .PHONY : find_number_in_matrix/find_number_in_matrix.cpp.s
 
+list/print_list_reverse.o: list/print_list_reverse.cpp.o
+
+.PHONY : list/print_list_reverse.o
+
+# target to build an object file
+list/print_list_reverse.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o
+.PHONY : list/print_list_reverse.cpp.o
+
+list/print_list_reverse.i: list/print_list_reverse.cpp.i
+
+.PHONY : list/print_list_reverse.i
+
+# target to preprocess a source file
+list/print_list_reverse.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.i
+.PHONY : list/print_list_reverse.cpp.i
+
+list/print_list_reverse.s: list/print_list_reverse.cpp.s
+
+.PHONY : list/print_list_reverse.s
+
+# target to generate assembly for a file
+list/print_list_reverse.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.s
+.PHONY : list/print_list_reverse.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -231,6 +258,33 @@ string/replace_black.cpp.s:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/string/replace_black.cpp.s
 .PHONY : string/replace_black.cpp.s
 
+tree/construct_tree.o: tree/construct_tree.cpp.o
+
+.PHONY : tree/construct_tree.o
+
+# target to build an object file
+tree/construct_tree.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o
+.PHONY : tree/construct_tree.cpp.o
+
+tree/construct_tree.i: tree/construct_tree.cpp.i
+
+.PHONY : tree/construct_tree.i
+
+# target to preprocess a source file
+tree/construct_tree.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.i
+.PHONY : tree/construct_tree.cpp.i
+
+tree/construct_tree.s: tree/construct_tree.cpp.s
+
+.PHONY : tree/construct_tree.s
+
+# target to generate assembly for a file
+tree/construct_tree.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.s
+.PHONY : tree/construct_tree.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -246,12 +300,18 @@ help:
 	@echo "... find_number_in_matrix/find_number_in_matrix.o"
 	@echo "... find_number_in_matrix/find_number_in_matrix.i"
 	@echo "... find_number_in_matrix/find_number_in_matrix.s"
+	@echo "... list/print_list_reverse.o"
+	@echo "... list/print_list_reverse.i"
+	@echo "... list/print_list_reverse.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
 	@echo "... string/replace_black.o"
 	@echo "... string/replace_black.i"
 	@echo "... string/replace_black.s"
+	@echo "... tree/construct_tree.o"
+	@echo "... tree/construct_tree.i"
+	@echo "... tree/construct_tree.s"
 .PHONY : help
 
 
