@@ -135,6 +135,32 @@ CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/mxq/project/Projects/algorithem/Aim-At-Offer/tree/construct_tree.cpp -o CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.s
 
+CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.o: ../tree/binary_tree_find_next_node.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.o -c /media/mxq/project/Projects/algorithem/Aim-At-Offer/tree/binary_tree_find_next_node.cpp
+
+CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/mxq/project/Projects/algorithem/Aim-At-Offer/tree/binary_tree_find_next_node.cpp > CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/mxq/project/Projects/algorithem/Aim-At-Offer/tree/binary_tree_find_next_node.cpp -o CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.o: ../stack_and_queue/Queue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.o -c /media/mxq/project/Projects/algorithem/Aim-At-Offer/stack_and_queue/Queue.cpp
+
+CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/mxq/project/Projects/algorithem/Aim-At-Offer/stack_and_queue/Queue.cpp > CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/mxq/project/Projects/algorithem/Aim-At-Offer/stack_and_queue/Queue.cpp -o CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.s
+
 # Object files for target Aim_At_Offer
 Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/main.cpp.o" \
@@ -142,7 +168,9 @@ Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/find_number_in_matrix/find_number_in_matrix.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/string/replace_black.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o" \
-"CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o"
+"CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.o"
 
 # External object files for target Aim_At_Offer
 Aim_At_Offer_EXTERNAL_OBJECTS =
@@ -153,9 +181,11 @@ Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/find_number_in_matrix/find_number_in_m
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/string/replace_black.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/build.make
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable Aim_At_Offer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable Aim_At_Offer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Aim_At_Offer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

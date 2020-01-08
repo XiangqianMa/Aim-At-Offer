@@ -1,10 +1,4 @@
-#include <iostream>
-#include <vector>
-#include "duplicate_number/duplicate.h"
-#include "find_number_in_matrix/find_number_in_matrix.h"
-#include "string/replace_black.h"
-#include "list/print_list_reverse.h"
-#include "tree/construct_tree.h"
+#include "include.h"
 
 using namespace std;
 
@@ -50,6 +44,18 @@ int main() {
     vector<int> preorder{1, 2, 4, 7, 3, 5, 6, 8};
     vector<int> inorder{4, 7, 2, 1, 5, 3, 8, 6};
     BinaryTreeNode *binary_tree_node = ConstructTree(preorder, inorder);
+
+    // 使用双栈模拟队列操作
+    Queue<int> queue;
+    queue.AppendTail(2);
+    queue.AppendTail(3);
+    queue.AppendTail(4);
+    queue.AppendTail(5);
+
+    while (!queue.is_empty()){
+        int head = queue.DeleteHead();
+        cout << head << endl;
+    }
 
     return 0;
 }

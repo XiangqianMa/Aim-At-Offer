@@ -6,7 +6,6 @@
 #include "construct_tree.h"
 
 
-
 BinaryTreeNode *ConstructTree(vector<int> preorder, vector<int> inorder)
 {
     if (preorder.empty() || inorder.empty())

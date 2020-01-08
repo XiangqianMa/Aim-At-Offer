@@ -231,6 +231,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+stack_and_queue/Queue.o: stack_and_queue/Queue.cpp.o
+
+.PHONY : stack_and_queue/Queue.o
+
+# target to build an object file
+stack_and_queue/Queue.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.o
+.PHONY : stack_and_queue/Queue.cpp.o
+
+stack_and_queue/Queue.i: stack_and_queue/Queue.cpp.i
+
+.PHONY : stack_and_queue/Queue.i
+
+# target to preprocess a source file
+stack_and_queue/Queue.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.i
+.PHONY : stack_and_queue/Queue.cpp.i
+
+stack_and_queue/Queue.s: stack_and_queue/Queue.cpp.s
+
+.PHONY : stack_and_queue/Queue.s
+
+# target to generate assembly for a file
+stack_and_queue/Queue.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.s
+.PHONY : stack_and_queue/Queue.cpp.s
+
 string/replace_black.o: string/replace_black.cpp.o
 
 .PHONY : string/replace_black.o
@@ -257,6 +284,33 @@ string/replace_black.s: string/replace_black.cpp.s
 string/replace_black.cpp.s:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/string/replace_black.cpp.s
 .PHONY : string/replace_black.cpp.s
+
+tree/binary_tree_find_next_node.o: tree/binary_tree_find_next_node.cpp.o
+
+.PHONY : tree/binary_tree_find_next_node.o
+
+# target to build an object file
+tree/binary_tree_find_next_node.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.o
+.PHONY : tree/binary_tree_find_next_node.cpp.o
+
+tree/binary_tree_find_next_node.i: tree/binary_tree_find_next_node.cpp.i
+
+.PHONY : tree/binary_tree_find_next_node.i
+
+# target to preprocess a source file
+tree/binary_tree_find_next_node.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.i
+.PHONY : tree/binary_tree_find_next_node.cpp.i
+
+tree/binary_tree_find_next_node.s: tree/binary_tree_find_next_node.cpp.s
+
+.PHONY : tree/binary_tree_find_next_node.s
+
+# target to generate assembly for a file
+tree/binary_tree_find_next_node.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.s
+.PHONY : tree/binary_tree_find_next_node.cpp.s
 
 tree/construct_tree.o: tree/construct_tree.cpp.o
 
@@ -306,9 +360,15 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... stack_and_queue/Queue.o"
+	@echo "... stack_and_queue/Queue.i"
+	@echo "... stack_and_queue/Queue.s"
 	@echo "... string/replace_black.o"
 	@echo "... string/replace_black.i"
 	@echo "... string/replace_black.s"
+	@echo "... tree/binary_tree_find_next_node.o"
+	@echo "... tree/binary_tree_find_next_node.i"
+	@echo "... tree/binary_tree_find_next_node.s"
 	@echo "... tree/construct_tree.o"
 	@echo "... tree/construct_tree.i"
 	@echo "... tree/construct_tree.s"

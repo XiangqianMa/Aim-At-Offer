@@ -96,6 +96,9 @@
 		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/find_number_in_matrix/find_number_in_matrix.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
+		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/include.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
 		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/list/print_list_reverse.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
@@ -105,10 +108,22 @@
 		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/main.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
+		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/stack_and_queue/Queue.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/stack_and_queue/Queue.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
 		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/string/replace_black.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
 		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/string/replace_black.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/tree/binary_tree_find_next_node.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/tree/binary_tree_find_next_node.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
 		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/tree/construct_tree.cpp">
