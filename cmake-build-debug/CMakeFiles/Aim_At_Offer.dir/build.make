@@ -161,6 +161,32 @@ CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/mxq/project/Projects/algorithem/Aim-At-Offer/stack_and_queue/Queue.cpp -o CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.s
 
+CMakeFiles/Aim_At_Offer.dir/fibonacci/fibonacci.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/fibonacci/fibonacci.cpp.o: ../fibonacci/fibonacci.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Aim_At_Offer.dir/fibonacci/fibonacci.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/fibonacci/fibonacci.cpp.o -c /media/mxq/project/Projects/algorithem/Aim-At-Offer/fibonacci/fibonacci.cpp
+
+CMakeFiles/Aim_At_Offer.dir/fibonacci/fibonacci.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/fibonacci/fibonacci.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/mxq/project/Projects/algorithem/Aim-At-Offer/fibonacci/fibonacci.cpp > CMakeFiles/Aim_At_Offer.dir/fibonacci/fibonacci.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/fibonacci/fibonacci.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/fibonacci/fibonacci.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/mxq/project/Projects/algorithem/Aim-At-Offer/fibonacci/fibonacci.cpp -o CMakeFiles/Aim_At_Offer.dir/fibonacci/fibonacci.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/find_min_in_rotate_array/find_min_in_roate_array.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/find_min_in_rotate_array/find_min_in_roate_array.cpp.o: ../find_min_in_rotate_array/find_min_in_roate_array.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Aim_At_Offer.dir/find_min_in_rotate_array/find_min_in_roate_array.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/find_min_in_rotate_array/find_min_in_roate_array.cpp.o -c /media/mxq/project/Projects/algorithem/Aim-At-Offer/find_min_in_rotate_array/find_min_in_roate_array.cpp
+
+CMakeFiles/Aim_At_Offer.dir/find_min_in_rotate_array/find_min_in_roate_array.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/find_min_in_rotate_array/find_min_in_roate_array.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/mxq/project/Projects/algorithem/Aim-At-Offer/find_min_in_rotate_array/find_min_in_roate_array.cpp > CMakeFiles/Aim_At_Offer.dir/find_min_in_rotate_array/find_min_in_roate_array.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/find_min_in_rotate_array/find_min_in_roate_array.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/find_min_in_rotate_array/find_min_in_roate_array.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/mxq/project/Projects/algorithem/Aim-At-Offer/find_min_in_rotate_array/find_min_in_roate_array.cpp -o CMakeFiles/Aim_At_Offer.dir/find_min_in_rotate_array/find_min_in_roate_array.cpp.s
+
 # Object files for target Aim_At_Offer
 Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/main.cpp.o" \
@@ -170,7 +196,9 @@ Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.o" \
-"CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.o"
+"CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/fibonacci/fibonacci.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/find_min_in_rotate_array/find_min_in_roate_array.cpp.o"
 
 # External object files for target Aim_At_Offer
 Aim_At_Offer_EXTERNAL_OBJECTS =
@@ -183,9 +211,11 @@ Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/fibonacci/fibonacci.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/find_min_in_rotate_array/find_min_in_roate_array.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/build.make
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable Aim_At_Offer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable Aim_At_Offer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Aim_At_Offer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

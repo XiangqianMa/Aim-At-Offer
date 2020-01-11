@@ -13,4 +13,7 @@
 #include "list/print_list_reverse.h"
 #include "tree/construct_tree.h"
 #include "stack_and_queue/Queue.h"
+#include "fibonacci/fibonacci.h"
+#include "find_min_in_rotate_array/find_min_in_roate_array.h"
+
 #endif //AIM_AT_OFFER_INCLUDE_H

@@ -90,6 +90,18 @@
 		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/duplicate_number/duplicate.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
+		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/fibonacci/fibonacci.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/fibonacci/fibonacci.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/find_min_in_rotate_array/find_min_in_roate_array.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/find_min_in_rotate_array/find_min_in_roate_array.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
 		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/find_number_in_matrix/find_number_in_matrix.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>

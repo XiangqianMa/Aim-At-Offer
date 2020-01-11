@@ -57,5 +57,15 @@ int main() {
         cout << head << endl;
     }
 
+    // 斐波那契数列
+    long long fibonacci_result = FibonacciIterative(50);
+    cout << fibonacci_result << endl;
+    long long fill_rectangle_result = FillRectangle(3);
+    cout << fill_rectangle_result << endl;
+
+    // 旋转数组
+    vector<int> roate_array = {1};
+    int min_number = FindMinInRoateArray(roate_array);
+    cout << min_number << endl;
     return 0;
 }

@@ -150,6 +150,60 @@ duplicate_number/duplicate.cpp.s:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.s
 .PHONY : duplicate_number/duplicate.cpp.s
 
+fibonacci/fibonacci.o: fibonacci/fibonacci.cpp.o
+
+.PHONY : fibonacci/fibonacci.o
+
+# target to build an object file
+fibonacci/fibonacci.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/fibonacci/fibonacci.cpp.o
+.PHONY : fibonacci/fibonacci.cpp.o
+
+fibonacci/fibonacci.i: fibonacci/fibonacci.cpp.i
+
+.PHONY : fibonacci/fibonacci.i
+
+# target to preprocess a source file
+fibonacci/fibonacci.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/fibonacci/fibonacci.cpp.i
+.PHONY : fibonacci/fibonacci.cpp.i
+
+fibonacci/fibonacci.s: fibonacci/fibonacci.cpp.s
+
+.PHONY : fibonacci/fibonacci.s
+
+# target to generate assembly for a file
+fibonacci/fibonacci.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/fibonacci/fibonacci.cpp.s
+.PHONY : fibonacci/fibonacci.cpp.s
+
+find_min_in_rotate_array/find_min_in_roate_array.o: find_min_in_rotate_array/find_min_in_roate_array.cpp.o
+
+.PHONY : find_min_in_rotate_array/find_min_in_roate_array.o
+
+# target to build an object file
+find_min_in_rotate_array/find_min_in_roate_array.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/find_min_in_rotate_array/find_min_in_roate_array.cpp.o
+.PHONY : find_min_in_rotate_array/find_min_in_roate_array.cpp.o
+
+find_min_in_rotate_array/find_min_in_roate_array.i: find_min_in_rotate_array/find_min_in_roate_array.cpp.i
+
+.PHONY : find_min_in_rotate_array/find_min_in_roate_array.i
+
+# target to preprocess a source file
+find_min_in_rotate_array/find_min_in_roate_array.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/find_min_in_rotate_array/find_min_in_roate_array.cpp.i
+.PHONY : find_min_in_rotate_array/find_min_in_roate_array.cpp.i
+
+find_min_in_rotate_array/find_min_in_roate_array.s: find_min_in_rotate_array/find_min_in_roate_array.cpp.s
+
+.PHONY : find_min_in_rotate_array/find_min_in_roate_array.s
+
+# target to generate assembly for a file
+find_min_in_rotate_array/find_min_in_roate_array.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/find_min_in_rotate_array/find_min_in_roate_array.cpp.s
+.PHONY : find_min_in_rotate_array/find_min_in_roate_array.cpp.s
+
 find_number_in_matrix/find_number_in_matrix.o: find_number_in_matrix/find_number_in_matrix.cpp.o
 
 .PHONY : find_number_in_matrix/find_number_in_matrix.o
@@ -351,6 +405,12 @@ help:
 	@echo "... duplicate_number/duplicate.o"
 	@echo "... duplicate_number/duplicate.i"
 	@echo "... duplicate_number/duplicate.s"
+	@echo "... fibonacci/fibonacci.o"
+	@echo "... fibonacci/fibonacci.i"
+	@echo "... fibonacci/fibonacci.s"
+	@echo "... find_min_in_rotate_array/find_min_in_roate_array.o"
+	@echo "... find_min_in_rotate_array/find_min_in_roate_array.i"
+	@echo "... find_min_in_rotate_array/find_min_in_roate_array.s"
 	@echo "... find_number_in_matrix/find_number_in_matrix.o"
 	@echo "... find_number_in_matrix/find_number_in_matrix.i"
 	@echo "... find_number_in_matrix/find_number_in_matrix.s"
