@@ -15,5 +15,6 @@
 #include "stack_and_queue/Queue.h"
 #include "fibonacci/fibonacci.h"
 #include "find_min_in_rotate_array/find_min_in_roate_array.h"
+#include "backtracking/path_in_matrix.h"
 
 #endif //AIM_AT_OFFER_INCLUDE_H

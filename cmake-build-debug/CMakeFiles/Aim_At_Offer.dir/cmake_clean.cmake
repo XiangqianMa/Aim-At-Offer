@@ -9,6 +9,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/fibonacci/fibonacci.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/find_min_in_rotate_array/find_min_in_roate_array.cpp.o"
+  "CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o"
   "Aim_At_Offer.pdb"
   "Aim_At_Offer"
 )

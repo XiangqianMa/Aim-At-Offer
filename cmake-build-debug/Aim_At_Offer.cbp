@@ -84,6 +84,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/backtracking/path_in_matrix.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/backtracking/path_in_matrix.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
 		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/duplicate_number/duplicate.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>

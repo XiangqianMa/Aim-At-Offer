@@ -6,6 +6,16 @@
 
 #IncludeRegexTransform: 
 
+/media/mxq/project/Projects/algorithem/Aim-At-Offer/backtracking/path_in_matrix.h
+iostream
+-
+vector
+-
+memory
+-
+cstring
+-
+
 /media/mxq/project/Projects/algorithem/Aim-At-Offer/duplicate_number/duplicate.h
 iostream
 -
@@ -47,6 +57,8 @@ fibonacci/fibonacci.h
 /media/mxq/project/Projects/algorithem/Aim-At-Offer/fibonacci/fibonacci.h
 find_min_in_rotate_array/find_min_in_roate_array.h
 /media/mxq/project/Projects/algorithem/Aim-At-Offer/find_min_in_rotate_array/find_min_in_roate_array.h
+backtracking/path_in_matrix.h
+/media/mxq/project/Projects/algorithem/Aim-At-Offer/backtracking/path_in_matrix.h
 
 /media/mxq/project/Projects/algorithem/Aim-At-Offer/list/print_list_reverse.h
 stack

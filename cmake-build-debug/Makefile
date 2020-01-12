@@ -123,6 +123,33 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/build
 .PHONY : Aim_At_Offer/fast
 
+backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
+
+.PHONY : backtracking/path_in_matrix.o
+
+# target to build an object file
+backtracking/path_in_matrix.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o
+.PHONY : backtracking/path_in_matrix.cpp.o
+
+backtracking/path_in_matrix.i: backtracking/path_in_matrix.cpp.i
+
+.PHONY : backtracking/path_in_matrix.i
+
+# target to preprocess a source file
+backtracking/path_in_matrix.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.i
+.PHONY : backtracking/path_in_matrix.cpp.i
+
+backtracking/path_in_matrix.s: backtracking/path_in_matrix.cpp.s
+
+.PHONY : backtracking/path_in_matrix.s
+
+# target to generate assembly for a file
+backtracking/path_in_matrix.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.s
+.PHONY : backtracking/path_in_matrix.cpp.s
+
 duplicate_number/duplicate.o: duplicate_number/duplicate.cpp.o
 
 .PHONY : duplicate_number/duplicate.o
@@ -402,6 +429,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Aim_At_Offer"
+	@echo "... backtracking/path_in_matrix.o"
+	@echo "... backtracking/path_in_matrix.i"
+	@echo "... backtracking/path_in_matrix.s"
 	@echo "... duplicate_number/duplicate.o"
 	@echo "... duplicate_number/duplicate.i"
 	@echo "... duplicate_number/duplicate.s"
