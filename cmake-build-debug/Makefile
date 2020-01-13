@@ -150,6 +150,33 @@ backtracking/path_in_matrix.cpp.s:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.s
 .PHONY : backtracking/path_in_matrix.cpp.s
 
+backtracking/robot_attend_aray.o: backtracking/robot_attend_aray.cpp.o
+
+.PHONY : backtracking/robot_attend_aray.o
+
+# target to build an object file
+backtracking/robot_attend_aray.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/backtracking/robot_attend_aray.cpp.o
+.PHONY : backtracking/robot_attend_aray.cpp.o
+
+backtracking/robot_attend_aray.i: backtracking/robot_attend_aray.cpp.i
+
+.PHONY : backtracking/robot_attend_aray.i
+
+# target to preprocess a source file
+backtracking/robot_attend_aray.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/backtracking/robot_attend_aray.cpp.i
+.PHONY : backtracking/robot_attend_aray.cpp.i
+
+backtracking/robot_attend_aray.s: backtracking/robot_attend_aray.cpp.s
+
+.PHONY : backtracking/robot_attend_aray.s
+
+# target to generate assembly for a file
+backtracking/robot_attend_aray.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/backtracking/robot_attend_aray.cpp.s
+.PHONY : backtracking/robot_attend_aray.cpp.s
+
 duplicate_number/duplicate.o: duplicate_number/duplicate.cpp.o
 
 .PHONY : duplicate_number/duplicate.o
@@ -432,6 +459,9 @@ help:
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"
+	@echo "... backtracking/robot_attend_aray.o"
+	@echo "... backtracking/robot_attend_aray.i"
+	@echo "... backtracking/robot_attend_aray.s"
 	@echo "... duplicate_number/duplicate.o"
 	@echo "... duplicate_number/duplicate.i"
 	@echo "... duplicate_number/duplicate.s"

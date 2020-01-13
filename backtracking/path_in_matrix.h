@@ -45,6 +45,7 @@ bool HasPath(T *matrix, int rows, int cols, T *path, int path_length)
             }
         }
     }
+    delete[] visited;
     return false;
 }
 

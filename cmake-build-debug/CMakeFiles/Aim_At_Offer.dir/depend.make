@@ -4,6 +4,9 @@
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.cpp
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.h
 
+CMakeFiles/Aim_At_Offer.dir/backtracking/robot_attend_aray.cpp.o: ../backtracking/robot_attend_aray.cpp
+CMakeFiles/Aim_At_Offer.dir/backtracking/robot_attend_aray.cpp.o: ../backtracking/robot_attend_aray.h
+
 CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.o: ../duplicate_number/duplicate.cpp
 CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.o: ../duplicate_number/duplicate.h
 
@@ -20,6 +23,7 @@ CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o: ../list/print_list_re
 CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o: ../list/print_list_reverse.h
 
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/path_in_matrix.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/robot_attend_aray.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../duplicate_number/duplicate.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../fibonacci/fibonacci.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../find_min_in_rotate_array/find_min_in_roate_array.h
