@@ -3,8 +3,6 @@
 using namespace std;
 
 int main() {
-    int count = RobotMovingCount(0, 10, 10);
-    cout << count << endl;
-
+    Print1ToMaxOfNDigitsRecursively(3);
     return 0;
 }

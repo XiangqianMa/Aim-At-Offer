@@ -4,20 +4,22 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/media/mxq/project/Projects/algorithem/Aim-At-Offer/backtracking/path_in_matrix.cpp" "/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o"
-  "/media/mxq/project/Projects/algorithem/Aim-At-Offer/backtracking/robot_attend_aray.cpp" "/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/backtracking/robot_attend_aray.cpp.o"
-  "/media/mxq/project/Projects/algorithem/Aim-At-Offer/duplicate_number/duplicate.cpp" "/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.o"
-  "/media/mxq/project/Projects/algorithem/Aim-At-Offer/fibonacci/fibonacci.cpp" "/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/fibonacci/fibonacci.cpp.o"
-  "/media/mxq/project/Projects/algorithem/Aim-At-Offer/find_min_in_rotate_array/find_min_in_roate_array.cpp" "/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/find_min_in_rotate_array/find_min_in_roate_array.cpp.o"
-  "/media/mxq/project/Projects/algorithem/Aim-At-Offer/find_number_in_matrix/find_number_in_matrix.cpp" "/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/find_number_in_matrix/find_number_in_matrix.cpp.o"
-  "/media/mxq/project/Projects/algorithem/Aim-At-Offer/list/print_list_reverse.cpp" "/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o"
-  "/media/mxq/project/Projects/algorithem/Aim-At-Offer/main.cpp" "/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/main.cpp.o"
-  "/media/mxq/project/Projects/algorithem/Aim-At-Offer/stack_and_queue/Queue.cpp" "/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.o"
-  "/media/mxq/project/Projects/algorithem/Aim-At-Offer/string/replace_black.cpp" "/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/string/replace_black.cpp.o"
-  "/media/mxq/project/Projects/algorithem/Aim-At-Offer/tree/binary_tree_find_next_node.cpp" "/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.o"
-  "/media/mxq/project/Projects/algorithem/Aim-At-Offer/tree/construct_tree.cpp" "/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o"
+  "/Volumes/数据/mxq/program/Aim-At-Offer/16_power/power.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/16_power/power.cpp.o"
+  "/Volumes/数据/mxq/program/Aim-At-Offer/17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.cpp.o"
+  "/Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o"
+  "/Volumes/数据/mxq/program/Aim-At-Offer/backtracking/robot_attend_aray.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/backtracking/robot_attend_aray.cpp.o"
+  "/Volumes/数据/mxq/program/Aim-At-Offer/duplicate_number/duplicate.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.o"
+  "/Volumes/数据/mxq/program/Aim-At-Offer/fibonacci/fibonacci.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/fibonacci/fibonacci.cpp.o"
+  "/Volumes/数据/mxq/program/Aim-At-Offer/find_min_in_rotate_array/find_min_in_roate_array.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/find_min_in_rotate_array/find_min_in_roate_array.cpp.o"
+  "/Volumes/数据/mxq/program/Aim-At-Offer/find_number_in_matrix/find_number_in_matrix.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/find_number_in_matrix/find_number_in_matrix.cpp.o"
+  "/Volumes/数据/mxq/program/Aim-At-Offer/list/print_list_reverse.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o"
+  "/Volumes/数据/mxq/program/Aim-At-Offer/main.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/main.cpp.o"
+  "/Volumes/数据/mxq/program/Aim-At-Offer/stack_and_queue/Queue.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.o"
+  "/Volumes/数据/mxq/program/Aim-At-Offer/string/replace_black.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/string/replace_black.cpp.o"
+  "/Volumes/数据/mxq/program/Aim-At-Offer/tree/binary_tree_find_next_node.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.o"
+  "/Volumes/数据/mxq/program/Aim-At-Offer/tree/construct_tree.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

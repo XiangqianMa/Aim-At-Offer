@@ -63,10 +63,19 @@
     vector<int> roate_array = {1};
     int min_number = FindMinInRoateArray(roate_array);
     cout << min_number << endl;
-	
-	// 矩阵中的路径
+    
+    // 矩阵中的路径
     char matrix[12] = {'a', 'b', 't', 'g', 'c', 'f', 'c', 's', 'j', 'd', 'e', 'h'};
     char path[4] = {'b', 'f', 'c', 'l'};
     bool has_path = HasPath(matrix, 3, 4, path, 4);
+    
+    // 机器人可以到达的格子的数目
+    int count = RobotMovingCount(0, 10, 10);
+    cout << count << endl;
+    
+    // 求给定基数的整数次方
+    double result = Power(3, -2);
+    cout << result << endl;
+    return 0;
 ```
 

@@ -17,5 +17,7 @@
 #include "find_min_in_rotate_array/find_min_in_roate_array.h"
 #include "backtracking/path_in_matrix.h"
 #include "backtracking/robot_attend_aray.h"
+#include "16_power/power.h"
+#include "17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.h"
 
 #endif //AIM_AT_OFFER_INCLUDE_H

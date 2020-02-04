@@ -8,155 +8,163 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug"/>
+				<Option working_dir="/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug"/>
+				<Option working_dir="/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug"/>
+				<Option working_dir="/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Aim_At_Offer">
-				<Option output="/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Aim_At_Offer" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug"/>
+				<Option output="/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Aim_At_Offer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
 					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aim_At_Offer"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aim_At_Offer"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Aim_At_Offer/fast">
-				<Option output="/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Aim_At_Offer" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug"/>
+				<Option output="/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Aim_At_Offer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
 					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aim_At_Offer/fast"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/media/mxq/project/Projects/algorithem/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aim_At_Offer/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/backtracking/path_in_matrix.cpp">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/16_power/power.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/backtracking/path_in_matrix.h">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/16_power/power.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/backtracking/robot_attend_aray.cpp">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/backtracking/robot_attend_aray.h">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/duplicate_number/duplicate.cpp">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/duplicate_number/duplicate.h">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/fibonacci/fibonacci.cpp">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/backtracking/robot_attend_aray.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/fibonacci/fibonacci.h">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/backtracking/robot_attend_aray.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/find_min_in_rotate_array/find_min_in_roate_array.cpp">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/duplicate_number/duplicate.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/find_min_in_rotate_array/find_min_in_roate_array.h">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/duplicate_number/duplicate.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/find_number_in_matrix/find_number_in_matrix.cpp">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/fibonacci/fibonacci.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/find_number_in_matrix/find_number_in_matrix.h">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/fibonacci/fibonacci.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/include.h">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/find_min_in_rotate_array/find_min_in_roate_array.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/list/print_list_reverse.cpp">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/find_min_in_rotate_array/find_min_in_roate_array.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/list/print_list_reverse.h">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/find_number_in_matrix/find_number_in_matrix.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/main.cpp">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/find_number_in_matrix/find_number_in_matrix.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/stack_and_queue/Queue.cpp">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/include.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/stack_and_queue/Queue.h">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/list/print_list_reverse.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/string/replace_black.cpp">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/list/print_list_reverse.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/string/replace_black.h">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/main.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/tree/binary_tree_find_next_node.cpp">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/stack_and_queue/Queue.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/tree/binary_tree_find_next_node.h">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/stack_and_queue/Queue.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/tree/construct_tree.cpp">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/string/replace_black.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/tree/construct_tree.h">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/string/replace_black.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/media/mxq/project/Projects/algorithem/Aim-At-Offer/CMakeLists.txt">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/tree/binary_tree_find_next_node.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/tree/binary_tree_find_next_node.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/tree/construct_tree.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/tree/construct_tree.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
