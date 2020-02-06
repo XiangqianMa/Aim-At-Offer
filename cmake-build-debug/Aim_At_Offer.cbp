@@ -92,6 +92,12 @@
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/18_delete_list_node/delete_list_node.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/18_delete_list_node/delete_list_node.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>

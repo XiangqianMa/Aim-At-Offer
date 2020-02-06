@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "Aim_At_Offer.pdb"
   "CMakeFiles/Aim_At_Offer.dir/16_power/power.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.cpp.o"
+  "CMakeFiles/Aim_At_Offer.dir/18_delete_list_node/delete_list_node.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/backtracking/robot_attend_aray.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.o"

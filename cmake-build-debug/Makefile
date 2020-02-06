@@ -177,6 +177,33 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.cpp.s
 .PHONY : 17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.cpp.s
 
+18_delete_list_node/delete_list_node.o: 18_delete_list_node/delete_list_node.cpp.o
+
+.PHONY : 18_delete_list_node/delete_list_node.o
+
+# target to build an object file
+18_delete_list_node/delete_list_node.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/18_delete_list_node/delete_list_node.cpp.o
+.PHONY : 18_delete_list_node/delete_list_node.cpp.o
+
+18_delete_list_node/delete_list_node.i: 18_delete_list_node/delete_list_node.cpp.i
+
+.PHONY : 18_delete_list_node/delete_list_node.i
+
+# target to preprocess a source file
+18_delete_list_node/delete_list_node.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/18_delete_list_node/delete_list_node.cpp.i
+.PHONY : 18_delete_list_node/delete_list_node.cpp.i
+
+18_delete_list_node/delete_list_node.s: 18_delete_list_node/delete_list_node.cpp.s
+
+.PHONY : 18_delete_list_node/delete_list_node.s
+
+# target to generate assembly for a file
+18_delete_list_node/delete_list_node.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/18_delete_list_node/delete_list_node.cpp.s
+.PHONY : 18_delete_list_node/delete_list_node.cpp.s
+
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
 .PHONY : backtracking/path_in_matrix.o
@@ -516,6 +543,9 @@ help:
 	@echo "... 17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.o"
 	@echo "... 17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.i"
 	@echo "... 17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.s"
+	@echo "... 18_delete_list_node/delete_list_node.o"
+	@echo "... 18_delete_list_node/delete_list_node.i"
+	@echo "... 18_delete_list_node/delete_list_node.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"
