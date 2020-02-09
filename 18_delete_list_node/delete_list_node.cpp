@@ -5,7 +5,7 @@
 #include "delete_list_node.h"
 
 
-/*
+/**
  * @brief: 在O(1)的时间复杂度内删除列表中的节点
  */
 void DeleteNode(ListNode** list_head, ListNode* node_to_be_deleted){

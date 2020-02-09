@@ -3,6 +3,10 @@
 using namespace std;
 
 int main() {
-    Print1ToMaxOfNDigitsRecursively(3);
+    string txt = "";
+    string pattern = "";
+
+    bool result = RegularExpressionMatch(txt, pattern);
+    cout << result << endl;
     return 0;
 }

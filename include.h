@@ -7,6 +7,7 @@
 
 #include <iostream>
 #include <vector>
+#include <string>
 #include "duplicate_number/duplicate.h"
 #include "find_number_in_matrix/find_number_in_matrix.h"
 #include "string/replace_black.h"
@@ -19,5 +20,6 @@
 #include "backtracking/robot_attend_aray.h"
 #include "16_power/power.h"
 #include "17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.h"
+#include "19_regular_expression_match/regular_expression_match.h"
 
 #endif //AIM_AT_OFFER_INCLUDE_H

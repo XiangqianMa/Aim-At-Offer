@@ -177,6 +177,33 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.cpp.s
 .PHONY : 17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.cpp.s
 
+18_delete_list_node/delete_duplication.o: 18_delete_list_node/delete_duplication.cpp.o
+
+.PHONY : 18_delete_list_node/delete_duplication.o
+
+# target to build an object file
+18_delete_list_node/delete_duplication.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/18_delete_list_node/delete_duplication.cpp.o
+.PHONY : 18_delete_list_node/delete_duplication.cpp.o
+
+18_delete_list_node/delete_duplication.i: 18_delete_list_node/delete_duplication.cpp.i
+
+.PHONY : 18_delete_list_node/delete_duplication.i
+
+# target to preprocess a source file
+18_delete_list_node/delete_duplication.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/18_delete_list_node/delete_duplication.cpp.i
+.PHONY : 18_delete_list_node/delete_duplication.cpp.i
+
+18_delete_list_node/delete_duplication.s: 18_delete_list_node/delete_duplication.cpp.s
+
+.PHONY : 18_delete_list_node/delete_duplication.s
+
+# target to generate assembly for a file
+18_delete_list_node/delete_duplication.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/18_delete_list_node/delete_duplication.cpp.s
+.PHONY : 18_delete_list_node/delete_duplication.cpp.s
+
 18_delete_list_node/delete_list_node.o: 18_delete_list_node/delete_list_node.cpp.o
 
 .PHONY : 18_delete_list_node/delete_list_node.o
@@ -203,6 +230,33 @@ Aim_At_Offer/fast:
 18_delete_list_node/delete_list_node.cpp.s:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/18_delete_list_node/delete_list_node.cpp.s
 .PHONY : 18_delete_list_node/delete_list_node.cpp.s
+
+19_regular_expression_match/regular_expression_match.o: 19_regular_expression_match/regular_expression_match.cpp.o
+
+.PHONY : 19_regular_expression_match/regular_expression_match.o
+
+# target to build an object file
+19_regular_expression_match/regular_expression_match.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/19_regular_expression_match/regular_expression_match.cpp.o
+.PHONY : 19_regular_expression_match/regular_expression_match.cpp.o
+
+19_regular_expression_match/regular_expression_match.i: 19_regular_expression_match/regular_expression_match.cpp.i
+
+.PHONY : 19_regular_expression_match/regular_expression_match.i
+
+# target to preprocess a source file
+19_regular_expression_match/regular_expression_match.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/19_regular_expression_match/regular_expression_match.cpp.i
+.PHONY : 19_regular_expression_match/regular_expression_match.cpp.i
+
+19_regular_expression_match/regular_expression_match.s: 19_regular_expression_match/regular_expression_match.cpp.s
+
+.PHONY : 19_regular_expression_match/regular_expression_match.s
+
+# target to generate assembly for a file
+19_regular_expression_match/regular_expression_match.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/19_regular_expression_match/regular_expression_match.cpp.s
+.PHONY : 19_regular_expression_match/regular_expression_match.cpp.s
 
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
@@ -543,9 +597,15 @@ help:
 	@echo "... 17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.o"
 	@echo "... 17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.i"
 	@echo "... 17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.s"
+	@echo "... 18_delete_list_node/delete_duplication.o"
+	@echo "... 18_delete_list_node/delete_duplication.i"
+	@echo "... 18_delete_list_node/delete_duplication.s"
 	@echo "... 18_delete_list_node/delete_list_node.o"
 	@echo "... 18_delete_list_node/delete_list_node.i"
 	@echo "... 18_delete_list_node/delete_list_node.s"
+	@echo "... 19_regular_expression_match/regular_expression_match.o"
+	@echo "... 19_regular_expression_match/regular_expression_match.i"
+	@echo "... 19_regular_expression_match/regular_expression_match.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"
