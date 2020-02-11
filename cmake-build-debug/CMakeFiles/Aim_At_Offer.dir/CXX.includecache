@@ -20,6 +20,14 @@ iostream
 string
 -
 
+/Volumes/数据/mxq/program/Aim-At-Offer/20_is_numeric/is_numeric.h
+string
+-
+
+/Volumes/数据/mxq/program/Aim-At-Offer/21_reorder_odd_before_even/reorder_array.h
+vector
+-
+
 /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.h
 iostream
 -
@@ -85,6 +93,10 @@ backtracking/robot_attend_aray.h
 /Volumes/数据/mxq/program/Aim-At-Offer/17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.h
 19_regular_expression_match/regular_expression_match.h
 /Volumes/数据/mxq/program/Aim-At-Offer/19_regular_expression_match/regular_expression_match.h
+20_is_numeric/is_numeric.h
+/Volumes/数据/mxq/program/Aim-At-Offer/20_is_numeric/is_numeric.h
+21_reorder_odd_before_even/reorder_array.h
+/Volumes/数据/mxq/program/Aim-At-Offer/21_reorder_odd_before_even/reorder_array.h
 
 /Volumes/数据/mxq/program/Aim-At-Offer/list/print_list_reverse.h
 stack

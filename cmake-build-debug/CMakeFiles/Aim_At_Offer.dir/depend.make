@@ -17,6 +17,12 @@ CMakeFiles/Aim_At_Offer.dir/18_delete_list_node/delete_list_node.cpp.o: ../18_de
 CMakeFiles/Aim_At_Offer.dir/19_regular_expression_match/regular_expression_match.cpp.o: ../19_regular_expression_match/regular_expression_match.cpp
 CMakeFiles/Aim_At_Offer.dir/19_regular_expression_match/regular_expression_match.cpp.o: ../19_regular_expression_match/regular_expression_match.h
 
+CMakeFiles/Aim_At_Offer.dir/20_is_numeric/is_numeric.cpp.o: ../20_is_numeric/is_numeric.cpp
+CMakeFiles/Aim_At_Offer.dir/20_is_numeric/is_numeric.cpp.o: ../20_is_numeric/is_numeric.h
+
+CMakeFiles/Aim_At_Offer.dir/21_reorder_odd_before_even/reorder_array.cpp.o: ../21_reorder_odd_before_even/reorder_array.cpp
+CMakeFiles/Aim_At_Offer.dir/21_reorder_odd_before_even/reorder_array.cpp.o: ../21_reorder_odd_before_even/reorder_array.h
+
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.cpp
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.h
 
@@ -41,6 +47,8 @@ CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o: ../list/print_list_re
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../16_power/power.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../19_regular_expression_match/regular_expression_match.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../20_is_numeric/is_numeric.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../21_reorder_odd_before_even/reorder_array.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/path_in_matrix.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/robot_attend_aray.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../duplicate_number/duplicate.h

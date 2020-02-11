@@ -21,5 +21,7 @@
 #include "16_power/power.h"
 #include "17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.h"
 #include "19_regular_expression_match/regular_expression_match.h"
+#include "20_is_numeric/is_numeric.h"
+#include "21_reorder_odd_before_even/reorder_array.h"
 
 #endif //AIM_AT_OFFER_INCLUDE_H

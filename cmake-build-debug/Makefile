@@ -258,6 +258,60 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/19_regular_expression_match/regular_expression_match.cpp.s
 .PHONY : 19_regular_expression_match/regular_expression_match.cpp.s
 
+20_is_numeric/is_numeric.o: 20_is_numeric/is_numeric.cpp.o
+
+.PHONY : 20_is_numeric/is_numeric.o
+
+# target to build an object file
+20_is_numeric/is_numeric.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/20_is_numeric/is_numeric.cpp.o
+.PHONY : 20_is_numeric/is_numeric.cpp.o
+
+20_is_numeric/is_numeric.i: 20_is_numeric/is_numeric.cpp.i
+
+.PHONY : 20_is_numeric/is_numeric.i
+
+# target to preprocess a source file
+20_is_numeric/is_numeric.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/20_is_numeric/is_numeric.cpp.i
+.PHONY : 20_is_numeric/is_numeric.cpp.i
+
+20_is_numeric/is_numeric.s: 20_is_numeric/is_numeric.cpp.s
+
+.PHONY : 20_is_numeric/is_numeric.s
+
+# target to generate assembly for a file
+20_is_numeric/is_numeric.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/20_is_numeric/is_numeric.cpp.s
+.PHONY : 20_is_numeric/is_numeric.cpp.s
+
+21_reorder_odd_before_even/reorder_array.o: 21_reorder_odd_before_even/reorder_array.cpp.o
+
+.PHONY : 21_reorder_odd_before_even/reorder_array.o
+
+# target to build an object file
+21_reorder_odd_before_even/reorder_array.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/21_reorder_odd_before_even/reorder_array.cpp.o
+.PHONY : 21_reorder_odd_before_even/reorder_array.cpp.o
+
+21_reorder_odd_before_even/reorder_array.i: 21_reorder_odd_before_even/reorder_array.cpp.i
+
+.PHONY : 21_reorder_odd_before_even/reorder_array.i
+
+# target to preprocess a source file
+21_reorder_odd_before_even/reorder_array.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/21_reorder_odd_before_even/reorder_array.cpp.i
+.PHONY : 21_reorder_odd_before_even/reorder_array.cpp.i
+
+21_reorder_odd_before_even/reorder_array.s: 21_reorder_odd_before_even/reorder_array.cpp.s
+
+.PHONY : 21_reorder_odd_before_even/reorder_array.s
+
+# target to generate assembly for a file
+21_reorder_odd_before_even/reorder_array.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/21_reorder_odd_before_even/reorder_array.cpp.s
+.PHONY : 21_reorder_odd_before_even/reorder_array.cpp.s
+
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
 .PHONY : backtracking/path_in_matrix.o
@@ -606,6 +660,12 @@ help:
 	@echo "... 19_regular_expression_match/regular_expression_match.o"
 	@echo "... 19_regular_expression_match/regular_expression_match.i"
 	@echo "... 19_regular_expression_match/regular_expression_match.s"
+	@echo "... 20_is_numeric/is_numeric.o"
+	@echo "... 20_is_numeric/is_numeric.i"
+	@echo "... 20_is_numeric/is_numeric.s"
+	@echo "... 21_reorder_odd_before_even/reorder_array.o"
+	@echo "... 21_reorder_odd_before_even/reorder_array.i"
+	@echo "... 21_reorder_odd_before_even/reorder_array.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"
