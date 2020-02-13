@@ -304,6 +304,45 @@ CMakeFiles/Aim_At_Offer.dir/21_reorder_odd_before_even/reorder_array.cpp.s: cmak
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/21_reorder_odd_before_even/reorder_array.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/21_reorder_odd_before_even/reorder_array.cpp -o CMakeFiles/Aim_At_Offer.dir/21_reorder_odd_before_even/reorder_array.cpp.s
 
+CMakeFiles/Aim_At_Offer.dir/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.o: ../22_find_kth_to_tail_in_list/find_kth_to_tail.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/Aim_At_Offer.dir/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp
+
+CMakeFiles/Aim_At_Offer.dir/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp > CMakeFiles/Aim_At_Offer.dir/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp -o CMakeFiles/Aim_At_Offer.dir/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.o: ../23_find_entry_node_of_loop/find_entry_node_of_loop.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/Aim_At_Offer.dir/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp
+
+CMakeFiles/Aim_At_Offer.dir/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp > CMakeFiles/Aim_At_Offer.dir/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp -o CMakeFiles/Aim_At_Offer.dir/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/24_reverse_list/reverse_list.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/24_reverse_list/reverse_list.cpp.o: ../24_reverse_list/reverse_list.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/Aim_At_Offer.dir/24_reverse_list/reverse_list.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/24_reverse_list/reverse_list.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/24_reverse_list/reverse_list.cpp
+
+CMakeFiles/Aim_At_Offer.dir/24_reverse_list/reverse_list.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/24_reverse_list/reverse_list.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/24_reverse_list/reverse_list.cpp > CMakeFiles/Aim_At_Offer.dir/24_reverse_list/reverse_list.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/24_reverse_list/reverse_list.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/24_reverse_list/reverse_list.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/24_reverse_list/reverse_list.cpp -o CMakeFiles/Aim_At_Offer.dir/24_reverse_list/reverse_list.cpp.s
+
 # Object files for target Aim_At_Offer
 Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/main.cpp.o" \
@@ -324,7 +363,10 @@ Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/18_delete_list_node/delete_duplication.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/19_regular_expression_match/regular_expression_match.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/20_is_numeric/is_numeric.cpp.o" \
-"CMakeFiles/Aim_At_Offer.dir/21_reorder_odd_before_even/reorder_array.cpp.o"
+"CMakeFiles/Aim_At_Offer.dir/21_reorder_odd_before_even/reorder_array.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/24_reverse_list/reverse_list.cpp.o"
 
 # External object files for target Aim_At_Offer
 Aim_At_Offer_EXTERNAL_OBJECTS =
@@ -348,9 +390,12 @@ Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/18_delete_list_node/delete_duplication
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/19_regular_expression_match/regular_expression_match.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/20_is_numeric/is_numeric.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/21_reorder_odd_before_even/reorder_array.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/24_reverse_list/reverse_list.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/build.make
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Linking CXX executable Aim_At_Offer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking CXX executable Aim_At_Offer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Aim_At_Offer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

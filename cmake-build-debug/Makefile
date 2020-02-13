@@ -312,6 +312,87 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/21_reorder_odd_before_even/reorder_array.cpp.s
 .PHONY : 21_reorder_odd_before_even/reorder_array.cpp.s
 
+22_find_kth_to_tail_in_list/find_kth_to_tail.o: 22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.o
+
+.PHONY : 22_find_kth_to_tail_in_list/find_kth_to_tail.o
+
+# target to build an object file
+22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.o
+.PHONY : 22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.o
+
+22_find_kth_to_tail_in_list/find_kth_to_tail.i: 22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.i
+
+.PHONY : 22_find_kth_to_tail_in_list/find_kth_to_tail.i
+
+# target to preprocess a source file
+22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.i
+.PHONY : 22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.i
+
+22_find_kth_to_tail_in_list/find_kth_to_tail.s: 22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.s
+
+.PHONY : 22_find_kth_to_tail_in_list/find_kth_to_tail.s
+
+# target to generate assembly for a file
+22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.s
+.PHONY : 22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.s
+
+23_find_entry_node_of_loop/find_entry_node_of_loop.o: 23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.o
+
+.PHONY : 23_find_entry_node_of_loop/find_entry_node_of_loop.o
+
+# target to build an object file
+23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.o
+.PHONY : 23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.o
+
+23_find_entry_node_of_loop/find_entry_node_of_loop.i: 23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.i
+
+.PHONY : 23_find_entry_node_of_loop/find_entry_node_of_loop.i
+
+# target to preprocess a source file
+23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.i
+.PHONY : 23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.i
+
+23_find_entry_node_of_loop/find_entry_node_of_loop.s: 23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.s
+
+.PHONY : 23_find_entry_node_of_loop/find_entry_node_of_loop.s
+
+# target to generate assembly for a file
+23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.s
+.PHONY : 23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.s
+
+24_reverse_list/reverse_list.o: 24_reverse_list/reverse_list.cpp.o
+
+.PHONY : 24_reverse_list/reverse_list.o
+
+# target to build an object file
+24_reverse_list/reverse_list.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/24_reverse_list/reverse_list.cpp.o
+.PHONY : 24_reverse_list/reverse_list.cpp.o
+
+24_reverse_list/reverse_list.i: 24_reverse_list/reverse_list.cpp.i
+
+.PHONY : 24_reverse_list/reverse_list.i
+
+# target to preprocess a source file
+24_reverse_list/reverse_list.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/24_reverse_list/reverse_list.cpp.i
+.PHONY : 24_reverse_list/reverse_list.cpp.i
+
+24_reverse_list/reverse_list.s: 24_reverse_list/reverse_list.cpp.s
+
+.PHONY : 24_reverse_list/reverse_list.s
+
+# target to generate assembly for a file
+24_reverse_list/reverse_list.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/24_reverse_list/reverse_list.cpp.s
+.PHONY : 24_reverse_list/reverse_list.cpp.s
+
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
 .PHONY : backtracking/path_in_matrix.o
@@ -666,6 +747,15 @@ help:
 	@echo "... 21_reorder_odd_before_even/reorder_array.o"
 	@echo "... 21_reorder_odd_before_even/reorder_array.i"
 	@echo "... 21_reorder_odd_before_even/reorder_array.s"
+	@echo "... 22_find_kth_to_tail_in_list/find_kth_to_tail.o"
+	@echo "... 22_find_kth_to_tail_in_list/find_kth_to_tail.i"
+	@echo "... 22_find_kth_to_tail_in_list/find_kth_to_tail.s"
+	@echo "... 23_find_entry_node_of_loop/find_entry_node_of_loop.o"
+	@echo "... 23_find_entry_node_of_loop/find_entry_node_of_loop.i"
+	@echo "... 23_find_entry_node_of_loop/find_entry_node_of_loop.s"
+	@echo "... 24_reverse_list/reverse_list.o"
+	@echo "... 24_reverse_list/reverse_list.i"
+	@echo "... 24_reverse_list/reverse_list.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"
