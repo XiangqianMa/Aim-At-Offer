@@ -393,6 +393,60 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/24_reverse_list/reverse_list.cpp.s
 .PHONY : 24_reverse_list/reverse_list.cpp.s
 
+25_merge_two_sorted_list/merge_two_sorted_array.o: 25_merge_two_sorted_list/merge_two_sorted_array.cpp.o
+
+.PHONY : 25_merge_two_sorted_list/merge_two_sorted_array.o
+
+# target to build an object file
+25_merge_two_sorted_list/merge_two_sorted_array.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/25_merge_two_sorted_list/merge_two_sorted_array.cpp.o
+.PHONY : 25_merge_two_sorted_list/merge_two_sorted_array.cpp.o
+
+25_merge_two_sorted_list/merge_two_sorted_array.i: 25_merge_two_sorted_list/merge_two_sorted_array.cpp.i
+
+.PHONY : 25_merge_two_sorted_list/merge_two_sorted_array.i
+
+# target to preprocess a source file
+25_merge_two_sorted_list/merge_two_sorted_array.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/25_merge_two_sorted_list/merge_two_sorted_array.cpp.i
+.PHONY : 25_merge_two_sorted_list/merge_two_sorted_array.cpp.i
+
+25_merge_two_sorted_list/merge_two_sorted_array.s: 25_merge_two_sorted_list/merge_two_sorted_array.cpp.s
+
+.PHONY : 25_merge_two_sorted_list/merge_two_sorted_array.s
+
+# target to generate assembly for a file
+25_merge_two_sorted_list/merge_two_sorted_array.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/25_merge_two_sorted_list/merge_two_sorted_array.cpp.s
+.PHONY : 25_merge_two_sorted_list/merge_two_sorted_array.cpp.s
+
+26_has_subtree/has_sub_tree.o: 26_has_subtree/has_sub_tree.cpp.o
+
+.PHONY : 26_has_subtree/has_sub_tree.o
+
+# target to build an object file
+26_has_subtree/has_sub_tree.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/26_has_subtree/has_sub_tree.cpp.o
+.PHONY : 26_has_subtree/has_sub_tree.cpp.o
+
+26_has_subtree/has_sub_tree.i: 26_has_subtree/has_sub_tree.cpp.i
+
+.PHONY : 26_has_subtree/has_sub_tree.i
+
+# target to preprocess a source file
+26_has_subtree/has_sub_tree.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/26_has_subtree/has_sub_tree.cpp.i
+.PHONY : 26_has_subtree/has_sub_tree.cpp.i
+
+26_has_subtree/has_sub_tree.s: 26_has_subtree/has_sub_tree.cpp.s
+
+.PHONY : 26_has_subtree/has_sub_tree.s
+
+# target to generate assembly for a file
+26_has_subtree/has_sub_tree.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/26_has_subtree/has_sub_tree.cpp.s
+.PHONY : 26_has_subtree/has_sub_tree.cpp.s
+
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
 .PHONY : backtracking/path_in_matrix.o
@@ -756,6 +810,12 @@ help:
 	@echo "... 24_reverse_list/reverse_list.o"
 	@echo "... 24_reverse_list/reverse_list.i"
 	@echo "... 24_reverse_list/reverse_list.s"
+	@echo "... 25_merge_two_sorted_list/merge_two_sorted_array.o"
+	@echo "... 25_merge_two_sorted_list/merge_two_sorted_array.i"
+	@echo "... 25_merge_two_sorted_list/merge_two_sorted_array.s"
+	@echo "... 26_has_subtree/has_sub_tree.o"
+	@echo "... 26_has_subtree/has_sub_tree.i"
+	@echo "... 26_has_subtree/has_sub_tree.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"

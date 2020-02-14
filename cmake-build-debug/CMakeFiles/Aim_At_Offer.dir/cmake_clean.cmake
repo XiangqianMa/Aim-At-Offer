@@ -11,6 +11,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Aim_At_Offer.dir/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/24_reverse_list/reverse_list.cpp.o"
+  "CMakeFiles/Aim_At_Offer.dir/25_merge_two_sorted_list/merge_two_sorted_array.cpp.o"
+  "CMakeFiles/Aim_At_Offer.dir/26_has_subtree/has_sub_tree.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/backtracking/robot_attend_aray.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.o"
