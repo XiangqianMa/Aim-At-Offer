@@ -7,15 +7,10 @@
 
 #include <iostream>
 #include <vector>
+#include "../my_struct.h"
 
 using namespace std;
 
-struct BinaryTreeNode
-{
-    int node_value;
-    BinaryTreeNode *left_node;
-    BinaryTreeNode *right_node;
-};
 
 BinaryTreeNode *ConstructTree(vector<int> preorder, vector<int> inorder);
 BinaryTreeNode *ConstructTreeCore(

@@ -152,6 +152,24 @@
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/26_has_subtree/has_sub_tree.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/27_mirror_tree/mirror_tree.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/27_mirror_tree/mirror_tree.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/28_is_binary_tree_symmetrical/is_symmetrical.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/28_is_binary_tree_symmetrical/is_symmetrical.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/29_print_matrix_clockwisely/print_matrix_clockwisely.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/29_print_matrix_clockwisely/print_matrix_clockwisely.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
@@ -198,6 +216,9 @@
 			<Option target="Aim_At_Offer"/>
 		</Unit>
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/main.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/my_struct.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/stack_and_queue/Queue.cpp">

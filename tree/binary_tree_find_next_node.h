@@ -7,11 +7,12 @@
 
 #include <iostream>
 
-struct BinaryTreeNode{
-    int node_value;
-    BinaryTreeNode *left_node;
-    BinaryTreeNode *right_node;
-    BinaryTreeNode *father_node;
-};
-
+namespace find_next_node {
+    struct BinaryTreeNode {
+        int node_value;
+        BinaryTreeNode *left_node;
+        BinaryTreeNode *right_node;
+        BinaryTreeNode *father_node;
+    };
+}
 #endif //AIM_AT_OFFER_BINARY_TREE_FIND_NEXT_NODE_H

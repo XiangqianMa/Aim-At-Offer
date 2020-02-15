@@ -447,6 +447,87 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/26_has_subtree/has_sub_tree.cpp.s
 .PHONY : 26_has_subtree/has_sub_tree.cpp.s
 
+27_mirror_tree/mirror_tree.o: 27_mirror_tree/mirror_tree.cpp.o
+
+.PHONY : 27_mirror_tree/mirror_tree.o
+
+# target to build an object file
+27_mirror_tree/mirror_tree.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/27_mirror_tree/mirror_tree.cpp.o
+.PHONY : 27_mirror_tree/mirror_tree.cpp.o
+
+27_mirror_tree/mirror_tree.i: 27_mirror_tree/mirror_tree.cpp.i
+
+.PHONY : 27_mirror_tree/mirror_tree.i
+
+# target to preprocess a source file
+27_mirror_tree/mirror_tree.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/27_mirror_tree/mirror_tree.cpp.i
+.PHONY : 27_mirror_tree/mirror_tree.cpp.i
+
+27_mirror_tree/mirror_tree.s: 27_mirror_tree/mirror_tree.cpp.s
+
+.PHONY : 27_mirror_tree/mirror_tree.s
+
+# target to generate assembly for a file
+27_mirror_tree/mirror_tree.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/27_mirror_tree/mirror_tree.cpp.s
+.PHONY : 27_mirror_tree/mirror_tree.cpp.s
+
+28_is_binary_tree_symmetrical/is_symmetrical.o: 28_is_binary_tree_symmetrical/is_symmetrical.cpp.o
+
+.PHONY : 28_is_binary_tree_symmetrical/is_symmetrical.o
+
+# target to build an object file
+28_is_binary_tree_symmetrical/is_symmetrical.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/28_is_binary_tree_symmetrical/is_symmetrical.cpp.o
+.PHONY : 28_is_binary_tree_symmetrical/is_symmetrical.cpp.o
+
+28_is_binary_tree_symmetrical/is_symmetrical.i: 28_is_binary_tree_symmetrical/is_symmetrical.cpp.i
+
+.PHONY : 28_is_binary_tree_symmetrical/is_symmetrical.i
+
+# target to preprocess a source file
+28_is_binary_tree_symmetrical/is_symmetrical.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/28_is_binary_tree_symmetrical/is_symmetrical.cpp.i
+.PHONY : 28_is_binary_tree_symmetrical/is_symmetrical.cpp.i
+
+28_is_binary_tree_symmetrical/is_symmetrical.s: 28_is_binary_tree_symmetrical/is_symmetrical.cpp.s
+
+.PHONY : 28_is_binary_tree_symmetrical/is_symmetrical.s
+
+# target to generate assembly for a file
+28_is_binary_tree_symmetrical/is_symmetrical.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/28_is_binary_tree_symmetrical/is_symmetrical.cpp.s
+.PHONY : 28_is_binary_tree_symmetrical/is_symmetrical.cpp.s
+
+29_print_matrix_clockwisely/print_matrix_clockwisely.o: 29_print_matrix_clockwisely/print_matrix_clockwisely.cpp.o
+
+.PHONY : 29_print_matrix_clockwisely/print_matrix_clockwisely.o
+
+# target to build an object file
+29_print_matrix_clockwisely/print_matrix_clockwisely.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/29_print_matrix_clockwisely/print_matrix_clockwisely.cpp.o
+.PHONY : 29_print_matrix_clockwisely/print_matrix_clockwisely.cpp.o
+
+29_print_matrix_clockwisely/print_matrix_clockwisely.i: 29_print_matrix_clockwisely/print_matrix_clockwisely.cpp.i
+
+.PHONY : 29_print_matrix_clockwisely/print_matrix_clockwisely.i
+
+# target to preprocess a source file
+29_print_matrix_clockwisely/print_matrix_clockwisely.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/29_print_matrix_clockwisely/print_matrix_clockwisely.cpp.i
+.PHONY : 29_print_matrix_clockwisely/print_matrix_clockwisely.cpp.i
+
+29_print_matrix_clockwisely/print_matrix_clockwisely.s: 29_print_matrix_clockwisely/print_matrix_clockwisely.cpp.s
+
+.PHONY : 29_print_matrix_clockwisely/print_matrix_clockwisely.s
+
+# target to generate assembly for a file
+29_print_matrix_clockwisely/print_matrix_clockwisely.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/29_print_matrix_clockwisely/print_matrix_clockwisely.cpp.s
+.PHONY : 29_print_matrix_clockwisely/print_matrix_clockwisely.cpp.s
+
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
 .PHONY : backtracking/path_in_matrix.o
@@ -816,6 +897,15 @@ help:
 	@echo "... 26_has_subtree/has_sub_tree.o"
 	@echo "... 26_has_subtree/has_sub_tree.i"
 	@echo "... 26_has_subtree/has_sub_tree.s"
+	@echo "... 27_mirror_tree/mirror_tree.o"
+	@echo "... 27_mirror_tree/mirror_tree.i"
+	@echo "... 27_mirror_tree/mirror_tree.s"
+	@echo "... 28_is_binary_tree_symmetrical/is_symmetrical.o"
+	@echo "... 28_is_binary_tree_symmetrical/is_symmetrical.i"
+	@echo "... 28_is_binary_tree_symmetrical/is_symmetrical.s"
+	@echo "... 29_print_matrix_clockwisely/print_matrix_clockwisely.o"
+	@echo "... 29_print_matrix_clockwisely/print_matrix_clockwisely.i"
+	@echo "... 29_print_matrix_clockwisely/print_matrix_clockwisely.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"

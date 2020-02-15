@@ -3,6 +3,8 @@
 //
 
 #include "binary_tree_find_next_node.h"
+using BinaryTreeNode = find_next_node::BinaryTreeNode;
+
 
 /*
  * 给出二叉树中的一个节点，求当对该二叉树进行中序遍历时，该节点的下一个节点

@@ -23,7 +23,7 @@ BinaryTreeNode *ConstructTreeCore(
 {
     int root_value = *preorder_start;
     auto *root = new BinaryTreeNode;
-    root->node_value = root_value;
+    root->val = root_value;
     root->left_node = root->right_node = nullptr;
 
     // 序列中只剩余一个元素的情况
