@@ -555,6 +555,33 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/31_stack_push_pop_order/stack_push_pop_order.cpp.s
 .PHONY : 31_stack_push_pop_order/stack_push_pop_order.cpp.s
 
+32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.o: 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.o
+
+.PHONY : 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.o
+
+# target to build an object file
+32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.o
+.PHONY : 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.o
+
+32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.i: 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.i
+
+.PHONY : 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.i
+
+# target to preprocess a source file
+32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.i
+.PHONY : 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.i
+
+32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.s: 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.s
+
+.PHONY : 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.s
+
+# target to generate assembly for a file
+32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.s
+.PHONY : 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.s
+
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
 .PHONY : backtracking/path_in_matrix.o
@@ -936,6 +963,9 @@ help:
 	@echo "... 31_stack_push_pop_order/stack_push_pop_order.o"
 	@echo "... 31_stack_push_pop_order/stack_push_pop_order.i"
 	@echo "... 31_stack_push_pop_order/stack_push_pop_order.s"
+	@echo "... 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.o"
+	@echo "... 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.i"
+	@echo "... 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"
