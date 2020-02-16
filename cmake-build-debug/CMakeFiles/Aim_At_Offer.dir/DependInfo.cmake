@@ -19,6 +19,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Volumes/数据/mxq/program/Aim-At-Offer/27_mirror_tree/mirror_tree.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/27_mirror_tree/mirror_tree.cpp.o"
   "/Volumes/数据/mxq/program/Aim-At-Offer/28_is_binary_tree_symmetrical/is_symmetrical.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/28_is_binary_tree_symmetrical/is_symmetrical.cpp.o"
   "/Volumes/数据/mxq/program/Aim-At-Offer/29_print_matrix_clockwisely/print_matrix_clockwisely.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/29_print_matrix_clockwisely/print_matrix_clockwisely.cpp.o"
+  "/Volumes/数据/mxq/program/Aim-At-Offer/31_stack_push_pop_order/stack_push_pop_order.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/31_stack_push_pop_order/stack_push_pop_order.cpp.o"
   "/Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o"
   "/Volumes/数据/mxq/program/Aim-At-Offer/backtracking/robot_attend_aray.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/backtracking/robot_attend_aray.cpp.o"
   "/Volumes/数据/mxq/program/Aim-At-Offer/duplicate_number/duplicate.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.o"

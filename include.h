@@ -25,5 +25,6 @@
 #include "21_reorder_odd_before_even/reorder_array.h"
 #include "27_mirror_tree/mirror_tree.h"
 #include "29_print_matrix_clockwisely/print_matrix_clockwisely.h"
+#include "30_stack_with_min/stack_with_min.h"
 
 #endif //AIM_AT_OFFER_INCLUDE_H

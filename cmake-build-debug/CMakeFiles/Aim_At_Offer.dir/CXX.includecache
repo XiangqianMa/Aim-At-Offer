@@ -36,6 +36,10 @@ vector
 iostream
 -
 
+/Volumes/数据/mxq/program/Aim-At-Offer/30_stack_with_min/stack_with_min.h
+stack
+-
+
 /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.h
 iostream
 -
@@ -107,6 +111,8 @@ backtracking/robot_attend_aray.h
 /Volumes/数据/mxq/program/Aim-At-Offer/27_mirror_tree/mirror_tree.h
 29_print_matrix_clockwisely/print_matrix_clockwisely.h
 /Volumes/数据/mxq/program/Aim-At-Offer/29_print_matrix_clockwisely/print_matrix_clockwisely.h
+30_stack_with_min/stack_with_min.h
+/Volumes/数据/mxq/program/Aim-At-Offer/30_stack_with_min/stack_with_min.h
 
 /Volumes/数据/mxq/program/Aim-At-Offer/list/print_list_reverse.h
 stack

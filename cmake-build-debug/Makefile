@@ -528,6 +528,33 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/29_print_matrix_clockwisely/print_matrix_clockwisely.cpp.s
 .PHONY : 29_print_matrix_clockwisely/print_matrix_clockwisely.cpp.s
 
+31_stack_push_pop_order/stack_push_pop_order.o: 31_stack_push_pop_order/stack_push_pop_order.cpp.o
+
+.PHONY : 31_stack_push_pop_order/stack_push_pop_order.o
+
+# target to build an object file
+31_stack_push_pop_order/stack_push_pop_order.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/31_stack_push_pop_order/stack_push_pop_order.cpp.o
+.PHONY : 31_stack_push_pop_order/stack_push_pop_order.cpp.o
+
+31_stack_push_pop_order/stack_push_pop_order.i: 31_stack_push_pop_order/stack_push_pop_order.cpp.i
+
+.PHONY : 31_stack_push_pop_order/stack_push_pop_order.i
+
+# target to preprocess a source file
+31_stack_push_pop_order/stack_push_pop_order.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/31_stack_push_pop_order/stack_push_pop_order.cpp.i
+.PHONY : 31_stack_push_pop_order/stack_push_pop_order.cpp.i
+
+31_stack_push_pop_order/stack_push_pop_order.s: 31_stack_push_pop_order/stack_push_pop_order.cpp.s
+
+.PHONY : 31_stack_push_pop_order/stack_push_pop_order.s
+
+# target to generate assembly for a file
+31_stack_push_pop_order/stack_push_pop_order.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/31_stack_push_pop_order/stack_push_pop_order.cpp.s
+.PHONY : 31_stack_push_pop_order/stack_push_pop_order.cpp.s
+
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
 .PHONY : backtracking/path_in_matrix.o
@@ -906,6 +933,9 @@ help:
 	@echo "... 29_print_matrix_clockwisely/print_matrix_clockwisely.o"
 	@echo "... 29_print_matrix_clockwisely/print_matrix_clockwisely.i"
 	@echo "... 29_print_matrix_clockwisely/print_matrix_clockwisely.s"
+	@echo "... 31_stack_push_pop_order/stack_push_pop_order.o"
+	@echo "... 31_stack_push_pop_order/stack_push_pop_order.i"
+	@echo "... 31_stack_push_pop_order/stack_push_pop_order.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"

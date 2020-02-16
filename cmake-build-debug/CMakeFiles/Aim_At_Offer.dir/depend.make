@@ -78,6 +78,7 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../20_is_numeric/is_numeric.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../21_reorder_odd_before_even/reorder_array.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../27_mirror_tree/mirror_tree.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../29_print_matrix_clockwisely/print_matrix_clockwisely.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../30_stack_with_min/stack_with_min.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/path_in_matrix.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/robot_attend_aray.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../duplicate_number/duplicate.h
