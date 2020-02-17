@@ -179,10 +179,22 @@
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/31_stack_push_pop_order/stack_push_pop_order.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.h">
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/34_path_in_tree/find_path_in_tree.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/34_path_in_tree/find_path_in_tree.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.cpp">
@@ -233,9 +245,6 @@
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/main.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
-		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/my_struct.h">
-			<Option target="Aim_At_Offer"/>
-		</Unit>
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/stack_and_queue/Queue.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
@@ -258,6 +267,12 @@
 			<Option target="Aim_At_Offer"/>
 		</Unit>
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/tree/construct_tree.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/utils/binary_tree.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/utils/binary_tree.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/CMakeLists.txt">

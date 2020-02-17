@@ -7,7 +7,7 @@
 
 #include <iostream>
 #include <vector>
-#include "../my_struct.h"
+#include "../utils/binary_tree.h"
 
 using namespace std;
 

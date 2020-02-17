@@ -9,7 +9,7 @@
 #include <deque>
 #include <vector>
 #include <stack>
-#include "../my_struct.h"
+#include "../utils/binary_tree.h"
 
 using namespace std;
 

@@ -37,18 +37,33 @@ CMakeFiles/Aim_At_Offer.dir/25_merge_two_sorted_list/merge_two_sorted_array.cpp.
 
 CMakeFiles/Aim_At_Offer.dir/26_has_subtree/has_sub_tree.cpp.o: ../26_has_subtree/has_sub_tree.cpp
 CMakeFiles/Aim_At_Offer.dir/26_has_subtree/has_sub_tree.cpp.o: ../26_has_subtree/has_sub_tree.h
-CMakeFiles/Aim_At_Offer.dir/26_has_subtree/has_sub_tree.cpp.o: ../my_struct.h
+CMakeFiles/Aim_At_Offer.dir/26_has_subtree/has_sub_tree.cpp.o: ../utils/binary_tree.h
 
 CMakeFiles/Aim_At_Offer.dir/27_mirror_tree/mirror_tree.cpp.o: ../27_mirror_tree/mirror_tree.cpp
 CMakeFiles/Aim_At_Offer.dir/27_mirror_tree/mirror_tree.cpp.o: ../27_mirror_tree/mirror_tree.h
-CMakeFiles/Aim_At_Offer.dir/27_mirror_tree/mirror_tree.cpp.o: ../my_struct.h
+CMakeFiles/Aim_At_Offer.dir/27_mirror_tree/mirror_tree.cpp.o: ../utils/binary_tree.h
 
 CMakeFiles/Aim_At_Offer.dir/28_is_binary_tree_symmetrical/is_symmetrical.cpp.o: ../28_is_binary_tree_symmetrical/is_symmetrical.cpp
 CMakeFiles/Aim_At_Offer.dir/28_is_binary_tree_symmetrical/is_symmetrical.cpp.o: ../28_is_binary_tree_symmetrical/is_symmetrical.h
-CMakeFiles/Aim_At_Offer.dir/28_is_binary_tree_symmetrical/is_symmetrical.cpp.o: ../my_struct.h
+CMakeFiles/Aim_At_Offer.dir/28_is_binary_tree_symmetrical/is_symmetrical.cpp.o: ../utils/binary_tree.h
 
 CMakeFiles/Aim_At_Offer.dir/29_print_matrix_clockwisely/print_matrix_clockwisely.cpp.o: ../29_print_matrix_clockwisely/print_matrix_clockwisely.cpp
 CMakeFiles/Aim_At_Offer.dir/29_print_matrix_clockwisely/print_matrix_clockwisely.cpp.o: ../29_print_matrix_clockwisely/print_matrix_clockwisely.h
+
+CMakeFiles/Aim_At_Offer.dir/31_stack_push_pop_order/stack_push_pop_order.cpp.o: ../31_stack_push_pop_order/stack_push_pop_order.cpp
+CMakeFiles/Aim_At_Offer.dir/31_stack_push_pop_order/stack_push_pop_order.cpp.o: ../31_stack_push_pop_order/stack_push_pop_order.h
+
+CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.o: ../32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp
+CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.o: ../32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.h
+CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.o: ../utils/binary_tree.h
+
+CMakeFiles/Aim_At_Offer.dir/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.o: ../33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp
+CMakeFiles/Aim_At_Offer.dir/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.o: ../33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.h
+CMakeFiles/Aim_At_Offer.dir/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.o: ../utils/binary_tree.h
+
+CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.o: ../34_path_in_tree/find_path_in_tree.cpp
+CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.o: ../34_path_in_tree/find_path_in_tree.h
+CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.o: ../utils/binary_tree.h
 
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.cpp
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.h
@@ -79,6 +94,8 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../21_reorder_odd_before_even/reorder_ar
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../27_mirror_tree/mirror_tree.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../29_print_matrix_clockwisely/print_matrix_clockwisely.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../30_stack_with_min/stack_with_min.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../34_path_in_tree/find_path_in_tree.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/path_in_matrix.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/robot_attend_aray.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../duplicate_number/duplicate.h
@@ -88,9 +105,9 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../find_number_in_matrix/find_number_in_
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../include.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../list/print_list_reverse.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../main.cpp
-CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../my_struct.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../stack_and_queue/Queue.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../string/replace_black.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../utils/binary_tree.h
 
 CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.o: ../stack_and_queue/Queue.cpp
 CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.o: ../stack_and_queue/Queue.h
@@ -101,7 +118,10 @@ CMakeFiles/Aim_At_Offer.dir/string/replace_black.cpp.o: ../string/replace_black.
 CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.o: ../tree/binary_tree_find_next_node.cpp
 CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.o: ../tree/binary_tree_find_next_node.h
 
-CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o: ../my_struct.h
 CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o: ../tree/construct_tree.cpp
 CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o: ../tree/construct_tree.h
+CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o: ../utils/binary_tree.h
+
+CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.o: ../utils/binary_tree.cpp
+CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.o: ../utils/binary_tree.h
 

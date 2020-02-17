@@ -26,5 +26,8 @@
 #include "27_mirror_tree/mirror_tree.h"
 #include "29_print_matrix_clockwisely/print_matrix_clockwisely.h"
 #include "30_stack_with_min/stack_with_min.h"
+#include "33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.h"
+#include "34_path_in_tree/find_path_in_tree.h"
+#include "utils/binary_tree.h"
 
 #endif //AIM_AT_OFFER_INCLUDE_H

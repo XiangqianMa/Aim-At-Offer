@@ -555,32 +555,86 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/31_stack_push_pop_order/stack_push_pop_order.cpp.s
 .PHONY : 31_stack_push_pop_order/stack_push_pop_order.cpp.s
 
-32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.o: 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.o
+32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.o: 32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.o
 
-.PHONY : 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.o
+.PHONY : 32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.o
 
 # target to build an object file
-32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.o:
-	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.o
-.PHONY : 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.o
+32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.o
+.PHONY : 32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.o
 
-32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.i: 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.i
+32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.i: 32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.i
 
-.PHONY : 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.i
+.PHONY : 32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.i
 
 # target to preprocess a source file
-32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.i:
-	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.i
-.PHONY : 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.i
+32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.i
+.PHONY : 32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.i
 
-32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.s: 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.s
+32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.s: 32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.s
 
-.PHONY : 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.s
+.PHONY : 32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.s
 
 # target to generate assembly for a file
-32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.s:
-	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.s
-.PHONY : 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.s
+32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.s
+.PHONY : 32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.s
+
+33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.o: 33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.o
+
+.PHONY : 33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.o
+
+# target to build an object file
+33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.o
+.PHONY : 33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.o
+
+33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.i: 33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.i
+
+.PHONY : 33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.i
+
+# target to preprocess a source file
+33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.i
+.PHONY : 33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.i
+
+33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.s: 33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.s
+
+.PHONY : 33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.s
+
+# target to generate assembly for a file
+33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.s
+.PHONY : 33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.s
+
+34_path_in_tree/find_path_in_tree.o: 34_path_in_tree/find_path_in_tree.cpp.o
+
+.PHONY : 34_path_in_tree/find_path_in_tree.o
+
+# target to build an object file
+34_path_in_tree/find_path_in_tree.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.o
+.PHONY : 34_path_in_tree/find_path_in_tree.cpp.o
+
+34_path_in_tree/find_path_in_tree.i: 34_path_in_tree/find_path_in_tree.cpp.i
+
+.PHONY : 34_path_in_tree/find_path_in_tree.i
+
+# target to preprocess a source file
+34_path_in_tree/find_path_in_tree.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.i
+.PHONY : 34_path_in_tree/find_path_in_tree.cpp.i
+
+34_path_in_tree/find_path_in_tree.s: 34_path_in_tree/find_path_in_tree.cpp.s
+
+.PHONY : 34_path_in_tree/find_path_in_tree.s
+
+# target to generate assembly for a file
+34_path_in_tree/find_path_in_tree.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.s
+.PHONY : 34_path_in_tree/find_path_in_tree.cpp.s
 
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
@@ -906,6 +960,33 @@ tree/construct_tree.cpp.s:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.s
 .PHONY : tree/construct_tree.cpp.s
 
+utils/binary_tree.o: utils/binary_tree.cpp.o
+
+.PHONY : utils/binary_tree.o
+
+# target to build an object file
+utils/binary_tree.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.o
+.PHONY : utils/binary_tree.cpp.o
+
+utils/binary_tree.i: utils/binary_tree.cpp.i
+
+.PHONY : utils/binary_tree.i
+
+# target to preprocess a source file
+utils/binary_tree.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.i
+.PHONY : utils/binary_tree.cpp.i
+
+utils/binary_tree.s: utils/binary_tree.cpp.s
+
+.PHONY : utils/binary_tree.s
+
+# target to generate assembly for a file
+utils/binary_tree.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.s
+.PHONY : utils/binary_tree.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -963,9 +1044,15 @@ help:
 	@echo "... 31_stack_push_pop_order/stack_push_pop_order.o"
 	@echo "... 31_stack_push_pop_order/stack_push_pop_order.i"
 	@echo "... 31_stack_push_pop_order/stack_push_pop_order.s"
-	@echo "... 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.o"
-	@echo "... 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.i"
-	@echo "... 32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.s"
+	@echo "... 32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.o"
+	@echo "... 32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.i"
+	@echo "... 32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.s"
+	@echo "... 33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.o"
+	@echo "... 33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.i"
+	@echo "... 33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.s"
+	@echo "... 34_path_in_tree/find_path_in_tree.o"
+	@echo "... 34_path_in_tree/find_path_in_tree.i"
+	@echo "... 34_path_in_tree/find_path_in_tree.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"
@@ -1002,6 +1089,9 @@ help:
 	@echo "... tree/construct_tree.o"
 	@echo "... tree/construct_tree.i"
 	@echo "... tree/construct_tree.s"
+	@echo "... utils/binary_tree.o"
+	@echo "... utils/binary_tree.i"
+	@echo "... utils/binary_tree.s"
 .PHONY : help
 
 

@@ -38,18 +38,33 @@ CMakeFiles/Aim_At_Offer.dir/25_merge_two_sorted_list/merge_two_sorted_array.cpp.
 CMakeFiles/Aim_At_Offer.dir/26_has_subtree/has_sub_tree.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/26_has_subtree/has_sub_tree.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/26_has_subtree/has_sub_tree.h
- /Volumes/数据/mxq/program/Aim-At-Offer/my_struct.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/utils/binary_tree.h
 CMakeFiles/Aim_At_Offer.dir/27_mirror_tree/mirror_tree.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/27_mirror_tree/mirror_tree.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/27_mirror_tree/mirror_tree.h
- /Volumes/数据/mxq/program/Aim-At-Offer/my_struct.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/utils/binary_tree.h
 CMakeFiles/Aim_At_Offer.dir/28_is_binary_tree_symmetrical/is_symmetrical.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/28_is_binary_tree_symmetrical/is_symmetrical.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/28_is_binary_tree_symmetrical/is_symmetrical.h
- /Volumes/数据/mxq/program/Aim-At-Offer/my_struct.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/utils/binary_tree.h
 CMakeFiles/Aim_At_Offer.dir/29_print_matrix_clockwisely/print_matrix_clockwisely.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/29_print_matrix_clockwisely/print_matrix_clockwisely.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/29_print_matrix_clockwisely/print_matrix_clockwisely.h
+CMakeFiles/Aim_At_Offer.dir/31_stack_push_pop_order/stack_push_pop_order.cpp.o
+ /Volumes/数据/mxq/program/Aim-At-Offer/31_stack_push_pop_order/stack_push_pop_order.cpp
+ /Volumes/数据/mxq/program/Aim-At-Offer/31_stack_push_pop_order/stack_push_pop_order.h
+CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.o
+ /Volumes/数据/mxq/program/Aim-At-Offer/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp
+ /Volumes/数据/mxq/program/Aim-At-Offer/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/utils/binary_tree.h
+CMakeFiles/Aim_At_Offer.dir/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.o
+ /Volumes/数据/mxq/program/Aim-At-Offer/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp
+ /Volumes/数据/mxq/program/Aim-At-Offer/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/utils/binary_tree.h
+CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.o
+ /Volumes/数据/mxq/program/Aim-At-Offer/34_path_in_tree/find_path_in_tree.cpp
+ /Volumes/数据/mxq/program/Aim-At-Offer/34_path_in_tree/find_path_in_tree.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/utils/binary_tree.h
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.h
@@ -80,6 +95,8 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/27_mirror_tree/mirror_tree.h
  /Volumes/数据/mxq/program/Aim-At-Offer/29_print_matrix_clockwisely/print_matrix_clockwisely.h
  /Volumes/数据/mxq/program/Aim-At-Offer/30_stack_with_min/stack_with_min.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/34_path_in_tree/find_path_in_tree.h
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.h
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/robot_attend_aray.h
  /Volumes/数据/mxq/program/Aim-At-Offer/duplicate_number/duplicate.h
@@ -89,9 +106,9 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/include.h
  /Volumes/数据/mxq/program/Aim-At-Offer/list/print_list_reverse.h
  /Volumes/数据/mxq/program/Aim-At-Offer/main.cpp
- /Volumes/数据/mxq/program/Aim-At-Offer/my_struct.h
  /Volumes/数据/mxq/program/Aim-At-Offer/stack_and_queue/Queue.h
  /Volumes/数据/mxq/program/Aim-At-Offer/string/replace_black.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/utils/binary_tree.h
 CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/stack_and_queue/Queue.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/stack_and_queue/Queue.h
@@ -102,6 +119,9 @@ CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/tree/binary_tree_find_next_node.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/tree/binary_tree_find_next_node.h
 CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o
- /Volumes/数据/mxq/program/Aim-At-Offer/my_struct.h
  /Volumes/数据/mxq/program/Aim-At-Offer/tree/construct_tree.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/tree/construct_tree.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/utils/binary_tree.h
+CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.o
+ /Volumes/数据/mxq/program/Aim-At-Offer/utils/binary_tree.cpp
+ /Volumes/数据/mxq/program/Aim-At-Offer/utils/binary_tree.h

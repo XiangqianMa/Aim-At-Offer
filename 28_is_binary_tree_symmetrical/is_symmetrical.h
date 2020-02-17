@@ -5,7 +5,7 @@
 #ifndef AIM_AT_OFFER_IS_SYMMETRICAL_H
 #define AIM_AT_OFFER_IS_SYMMETRICAL_H
 
-#include "../my_struct.h"
+#include "../utils/binary_tree.h"
 
 bool IsSymmetrical(BinaryTreeNode* root);
 bool IsSymmetricalCore(BinaryTreeNode* root_a, BinaryTreeNode* root_b);

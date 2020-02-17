@@ -421,18 +421,57 @@ CMakeFiles/Aim_At_Offer.dir/31_stack_push_pop_order/stack_push_pop_order.cpp.s: 
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/31_stack_push_pop_order/stack_push_pop_order.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/31_stack_push_pop_order/stack_push_pop_order.cpp -o CMakeFiles/Aim_At_Offer.dir/31_stack_push_pop_order/stack_push_pop_order.cpp.s
 
-CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
-CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.o: ../32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp
+CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.o: ../32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp
 
-CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp > CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.i
+CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp > CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.i
 
-CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp -o CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.s
+CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp -o CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.o: ../33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/Aim_At_Offer.dir/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp
+
+CMakeFiles/Aim_At_Offer.dir/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp > CMakeFiles/Aim_At_Offer.dir/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp -o CMakeFiles/Aim_At_Offer.dir/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.o: ../34_path_in_tree/find_path_in_tree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/34_path_in_tree/find_path_in_tree.cpp
+
+CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/34_path_in_tree/find_path_in_tree.cpp > CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/34_path_in_tree/find_path_in_tree.cpp -o CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.o: ../utils/binary_tree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/utils/binary_tree.cpp
+
+CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/utils/binary_tree.cpp > CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/utils/binary_tree.cpp -o CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.s
 
 # Object files for target Aim_At_Offer
 Aim_At_Offer_OBJECTS = \
@@ -464,7 +503,10 @@ Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/28_is_binary_tree_symmetrical/is_symmetrical.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/29_print_matrix_clockwisely/print_matrix_clockwisely.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/31_stack_push_pop_order/stack_push_pop_order.cpp.o" \
-"CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.o"
+"CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.o"
 
 # External object files for target Aim_At_Offer
 Aim_At_Offer_EXTERNAL_OBJECTS =
@@ -497,10 +539,13 @@ Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/27_mirror_tree/mirror_tree.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/28_is_binary_tree_symmetrical/is_symmetrical.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/29_print_matrix_clockwisely/print_matrix_clockwisely.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/31_stack_push_pop_order/stack_push_pop_order.cpp.o
-Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/build.make
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Linking CXX executable Aim_At_Offer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Linking CXX executable Aim_At_Offer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Aim_At_Offer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

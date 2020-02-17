@@ -5,7 +5,7 @@
 #ifndef AIM_AT_OFFER_MIRROR_TREE_H
 #define AIM_AT_OFFER_MIRROR_TREE_H
 
-#include "../my_struct.h"
+#include "../utils/binary_tree.h"
 
 void MirrorTree(BinaryTreeNode* root);
 

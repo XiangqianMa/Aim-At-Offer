@@ -17,7 +17,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/Aim_At_Offer.dir/28_is_binary_tree_symmetrical/is_symmetrical.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/29_print_matrix_clockwisely/print_matrix_clockwisely.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/31_stack_push_pop_order/stack_push_pop_order.cpp.o"
-  "CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_binary_tree_from_top_to_bottom.cpp.o"
+  "CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.o"
+  "CMakeFiles/Aim_At_Offer.dir/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.o"
+  "CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/backtracking/robot_attend_aray.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.o"
@@ -30,6 +32,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Aim_At_Offer.dir/string/replace_black.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/tree/binary_tree_find_next_node.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o"
+  "CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.
