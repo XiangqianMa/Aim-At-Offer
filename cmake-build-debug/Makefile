@@ -636,6 +636,60 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.s
 .PHONY : 34_path_in_tree/find_path_in_tree.cpp.s
 
+35_clone_complex_list/clone_complex_list.o: 35_clone_complex_list/clone_complex_list.cpp.o
+
+.PHONY : 35_clone_complex_list/clone_complex_list.o
+
+# target to build an object file
+35_clone_complex_list/clone_complex_list.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/35_clone_complex_list/clone_complex_list.cpp.o
+.PHONY : 35_clone_complex_list/clone_complex_list.cpp.o
+
+35_clone_complex_list/clone_complex_list.i: 35_clone_complex_list/clone_complex_list.cpp.i
+
+.PHONY : 35_clone_complex_list/clone_complex_list.i
+
+# target to preprocess a source file
+35_clone_complex_list/clone_complex_list.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/35_clone_complex_list/clone_complex_list.cpp.i
+.PHONY : 35_clone_complex_list/clone_complex_list.cpp.i
+
+35_clone_complex_list/clone_complex_list.s: 35_clone_complex_list/clone_complex_list.cpp.s
+
+.PHONY : 35_clone_complex_list/clone_complex_list.s
+
+# target to generate assembly for a file
+35_clone_complex_list/clone_complex_list.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/35_clone_complex_list/clone_complex_list.cpp.s
+.PHONY : 35_clone_complex_list/clone_complex_list.cpp.s
+
+36_convert_binary_search_tree/convert_binary_search_tree.o: 36_convert_binary_search_tree/convert_binary_search_tree.cpp.o
+
+.PHONY : 36_convert_binary_search_tree/convert_binary_search_tree.o
+
+# target to build an object file
+36_convert_binary_search_tree/convert_binary_search_tree.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/36_convert_binary_search_tree/convert_binary_search_tree.cpp.o
+.PHONY : 36_convert_binary_search_tree/convert_binary_search_tree.cpp.o
+
+36_convert_binary_search_tree/convert_binary_search_tree.i: 36_convert_binary_search_tree/convert_binary_search_tree.cpp.i
+
+.PHONY : 36_convert_binary_search_tree/convert_binary_search_tree.i
+
+# target to preprocess a source file
+36_convert_binary_search_tree/convert_binary_search_tree.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/36_convert_binary_search_tree/convert_binary_search_tree.cpp.i
+.PHONY : 36_convert_binary_search_tree/convert_binary_search_tree.cpp.i
+
+36_convert_binary_search_tree/convert_binary_search_tree.s: 36_convert_binary_search_tree/convert_binary_search_tree.cpp.s
+
+.PHONY : 36_convert_binary_search_tree/convert_binary_search_tree.s
+
+# target to generate assembly for a file
+36_convert_binary_search_tree/convert_binary_search_tree.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/36_convert_binary_search_tree/convert_binary_search_tree.cpp.s
+.PHONY : 36_convert_binary_search_tree/convert_binary_search_tree.cpp.s
+
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
 .PHONY : backtracking/path_in_matrix.o
@@ -1053,6 +1107,12 @@ help:
 	@echo "... 34_path_in_tree/find_path_in_tree.o"
 	@echo "... 34_path_in_tree/find_path_in_tree.i"
 	@echo "... 34_path_in_tree/find_path_in_tree.s"
+	@echo "... 35_clone_complex_list/clone_complex_list.o"
+	@echo "... 35_clone_complex_list/clone_complex_list.i"
+	@echo "... 35_clone_complex_list/clone_complex_list.s"
+	@echo "... 36_convert_binary_search_tree/convert_binary_search_tree.o"
+	@echo "... 36_convert_binary_search_tree/convert_binary_search_tree.i"
+	@echo "... 36_convert_binary_search_tree/convert_binary_search_tree.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"

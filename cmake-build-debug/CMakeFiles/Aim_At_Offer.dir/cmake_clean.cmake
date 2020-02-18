@@ -20,6 +20,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Aim_At_Offer.dir/32_print_binary_tree_from_top_to_bottom/print_from_top_to_bottom.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.o"
+  "CMakeFiles/Aim_At_Offer.dir/35_clone_complex_list/clone_complex_list.cpp.o"
+  "CMakeFiles/Aim_At_Offer.dir/36_convert_binary_search_tree/convert_binary_search_tree.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/backtracking/robot_attend_aray.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.o"
