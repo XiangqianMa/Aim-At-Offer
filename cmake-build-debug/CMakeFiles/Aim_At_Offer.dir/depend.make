@@ -65,6 +65,20 @@ CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.o: ../34_path_
 CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.o: ../34_path_in_tree/find_path_in_tree.h
 CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.o: ../utils/binary_tree.h
 
+CMakeFiles/Aim_At_Offer.dir/35_clone_complex_list/clone_complex_list.cpp.o: ../35_clone_complex_list/clone_complex_list.cpp
+CMakeFiles/Aim_At_Offer.dir/35_clone_complex_list/clone_complex_list.cpp.o: ../35_clone_complex_list/clone_complex_list.h
+
+CMakeFiles/Aim_At_Offer.dir/36_convert_binary_search_tree/convert_binary_search_tree.cpp.o: ../36_convert_binary_search_tree/convert_binary_search_tree.cpp
+CMakeFiles/Aim_At_Offer.dir/36_convert_binary_search_tree/convert_binary_search_tree.cpp.o: ../36_convert_binary_search_tree/convert_binary_search_tree.h
+CMakeFiles/Aim_At_Offer.dir/36_convert_binary_search_tree/convert_binary_search_tree.cpp.o: ../utils/binary_tree.h
+
+CMakeFiles/Aim_At_Offer.dir/37_serialize_binary_trees/serialize_binary_trees.cpp.o: ../37_serialize_binary_trees/serialize_binary_trees.cpp
+CMakeFiles/Aim_At_Offer.dir/37_serialize_binary_trees/serialize_binary_trees.cpp.o: ../37_serialize_binary_trees/serialize_binary_trees.h
+CMakeFiles/Aim_At_Offer.dir/37_serialize_binary_trees/serialize_binary_trees.cpp.o: ../utils/binary_tree.h
+
+CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.o: ../38_string_permutation/string_permutation.cpp
+CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.o: ../38_string_permutation/string_permutation.h
+
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.cpp
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.h
 
@@ -96,6 +110,7 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../29_print_matrix_clockwisely/print_mat
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../30_stack_with_min/stack_with_min.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../34_path_in_tree/find_path_in_tree.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../38_string_permutation/string_permutation.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/path_in_matrix.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/robot_attend_aray.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../duplicate_number/duplicate.h

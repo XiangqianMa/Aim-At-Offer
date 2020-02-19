@@ -499,6 +499,32 @@ CMakeFiles/Aim_At_Offer.dir/36_convert_binary_search_tree/convert_binary_search_
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/36_convert_binary_search_tree/convert_binary_search_tree.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/36_convert_binary_search_tree/convert_binary_search_tree.cpp -o CMakeFiles/Aim_At_Offer.dir/36_convert_binary_search_tree/convert_binary_search_tree.cpp.s
 
+CMakeFiles/Aim_At_Offer.dir/37_serialize_binary_trees/serialize_binary_trees.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/37_serialize_binary_trees/serialize_binary_trees.cpp.o: ../37_serialize_binary_trees/serialize_binary_trees.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/Aim_At_Offer.dir/37_serialize_binary_trees/serialize_binary_trees.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/37_serialize_binary_trees/serialize_binary_trees.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/37_serialize_binary_trees/serialize_binary_trees.cpp
+
+CMakeFiles/Aim_At_Offer.dir/37_serialize_binary_trees/serialize_binary_trees.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/37_serialize_binary_trees/serialize_binary_trees.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/37_serialize_binary_trees/serialize_binary_trees.cpp > CMakeFiles/Aim_At_Offer.dir/37_serialize_binary_trees/serialize_binary_trees.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/37_serialize_binary_trees/serialize_binary_trees.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/37_serialize_binary_trees/serialize_binary_trees.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/37_serialize_binary_trees/serialize_binary_trees.cpp -o CMakeFiles/Aim_At_Offer.dir/37_serialize_binary_trees/serialize_binary_trees.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.o: ../38_string_permutation/string_permutation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/38_string_permutation/string_permutation.cpp
+
+CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/38_string_permutation/string_permutation.cpp > CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/38_string_permutation/string_permutation.cpp -o CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.s
+
 # Object files for target Aim_At_Offer
 Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/main.cpp.o" \
@@ -534,7 +560,9 @@ Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/35_clone_complex_list/clone_complex_list.cpp.o" \
-"CMakeFiles/Aim_At_Offer.dir/36_convert_binary_search_tree/convert_binary_search_tree.cpp.o"
+"CMakeFiles/Aim_At_Offer.dir/36_convert_binary_search_tree/convert_binary_search_tree.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/37_serialize_binary_trees/serialize_binary_trees.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.o"
 
 # External object files for target Aim_At_Offer
 Aim_At_Offer_EXTERNAL_OBJECTS =
@@ -573,9 +601,11 @@ Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/34_path_in_tree/find_path_in_tree.cpp.
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/35_clone_complex_list/clone_complex_list.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/36_convert_binary_search_tree/convert_binary_search_tree.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/37_serialize_binary_trees/serialize_binary_trees.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/build.make
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Linking CXX executable Aim_At_Offer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Linking CXX executable Aim_At_Offer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Aim_At_Offer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

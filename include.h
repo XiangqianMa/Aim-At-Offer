@@ -29,5 +29,6 @@
 #include "33_verify_postorder_sequence_of_bst/verify_post_sequence_of_bst.h"
 #include "34_path_in_tree/find_path_in_tree.h"
 #include "utils/binary_tree.h"
+#include "38_string_permutation/string_permutation.h"
 
 #endif //AIM_AT_OFFER_INCLUDE_H

@@ -690,6 +690,60 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/36_convert_binary_search_tree/convert_binary_search_tree.cpp.s
 .PHONY : 36_convert_binary_search_tree/convert_binary_search_tree.cpp.s
 
+37_serialize_binary_trees/serialize_binary_trees.o: 37_serialize_binary_trees/serialize_binary_trees.cpp.o
+
+.PHONY : 37_serialize_binary_trees/serialize_binary_trees.o
+
+# target to build an object file
+37_serialize_binary_trees/serialize_binary_trees.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/37_serialize_binary_trees/serialize_binary_trees.cpp.o
+.PHONY : 37_serialize_binary_trees/serialize_binary_trees.cpp.o
+
+37_serialize_binary_trees/serialize_binary_trees.i: 37_serialize_binary_trees/serialize_binary_trees.cpp.i
+
+.PHONY : 37_serialize_binary_trees/serialize_binary_trees.i
+
+# target to preprocess a source file
+37_serialize_binary_trees/serialize_binary_trees.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/37_serialize_binary_trees/serialize_binary_trees.cpp.i
+.PHONY : 37_serialize_binary_trees/serialize_binary_trees.cpp.i
+
+37_serialize_binary_trees/serialize_binary_trees.s: 37_serialize_binary_trees/serialize_binary_trees.cpp.s
+
+.PHONY : 37_serialize_binary_trees/serialize_binary_trees.s
+
+# target to generate assembly for a file
+37_serialize_binary_trees/serialize_binary_trees.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/37_serialize_binary_trees/serialize_binary_trees.cpp.s
+.PHONY : 37_serialize_binary_trees/serialize_binary_trees.cpp.s
+
+38_string_permutation/string_permutation.o: 38_string_permutation/string_permutation.cpp.o
+
+.PHONY : 38_string_permutation/string_permutation.o
+
+# target to build an object file
+38_string_permutation/string_permutation.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.o
+.PHONY : 38_string_permutation/string_permutation.cpp.o
+
+38_string_permutation/string_permutation.i: 38_string_permutation/string_permutation.cpp.i
+
+.PHONY : 38_string_permutation/string_permutation.i
+
+# target to preprocess a source file
+38_string_permutation/string_permutation.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.i
+.PHONY : 38_string_permutation/string_permutation.cpp.i
+
+38_string_permutation/string_permutation.s: 38_string_permutation/string_permutation.cpp.s
+
+.PHONY : 38_string_permutation/string_permutation.s
+
+# target to generate assembly for a file
+38_string_permutation/string_permutation.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.s
+.PHONY : 38_string_permutation/string_permutation.cpp.s
+
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
 .PHONY : backtracking/path_in_matrix.o
@@ -1113,6 +1167,12 @@ help:
 	@echo "... 36_convert_binary_search_tree/convert_binary_search_tree.o"
 	@echo "... 36_convert_binary_search_tree/convert_binary_search_tree.i"
 	@echo "... 36_convert_binary_search_tree/convert_binary_search_tree.s"
+	@echo "... 37_serialize_binary_trees/serialize_binary_trees.o"
+	@echo "... 37_serialize_binary_trees/serialize_binary_trees.i"
+	@echo "... 37_serialize_binary_trees/serialize_binary_trees.s"
+	@echo "... 38_string_permutation/string_permutation.o"
+	@echo "... 38_string_permutation/string_permutation.i"
+	@echo "... 38_string_permutation/string_permutation.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"
