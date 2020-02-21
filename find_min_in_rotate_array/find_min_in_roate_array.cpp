@@ -36,6 +36,7 @@ int FindMinInRoateArray(vector<int> roate_array)
     return roate_array[mid_index];
 }
 
+
 /*
  * @brief 查找数组某个范围中的最小值
  * @param array: 待查找数组

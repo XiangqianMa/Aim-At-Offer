@@ -744,6 +744,33 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.s
 .PHONY : 38_string_permutation/string_permutation.cpp.s
 
+39_more_than_half_number/more_than_half_number.o: 39_more_than_half_number/more_than_half_number.cpp.o
+
+.PHONY : 39_more_than_half_number/more_than_half_number.o
+
+# target to build an object file
+39_more_than_half_number/more_than_half_number.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/39_more_than_half_number/more_than_half_number.cpp.o
+.PHONY : 39_more_than_half_number/more_than_half_number.cpp.o
+
+39_more_than_half_number/more_than_half_number.i: 39_more_than_half_number/more_than_half_number.cpp.i
+
+.PHONY : 39_more_than_half_number/more_than_half_number.i
+
+# target to preprocess a source file
+39_more_than_half_number/more_than_half_number.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/39_more_than_half_number/more_than_half_number.cpp.i
+.PHONY : 39_more_than_half_number/more_than_half_number.cpp.i
+
+39_more_than_half_number/more_than_half_number.s: 39_more_than_half_number/more_than_half_number.cpp.s
+
+.PHONY : 39_more_than_half_number/more_than_half_number.s
+
+# target to generate assembly for a file
+39_more_than_half_number/more_than_half_number.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/39_more_than_half_number/more_than_half_number.cpp.s
+.PHONY : 39_more_than_half_number/more_than_half_number.cpp.s
+
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
 .PHONY : backtracking/path_in_matrix.o
@@ -1173,6 +1200,9 @@ help:
 	@echo "... 38_string_permutation/string_permutation.o"
 	@echo "... 38_string_permutation/string_permutation.i"
 	@echo "... 38_string_permutation/string_permutation.s"
+	@echo "... 39_more_than_half_number/more_than_half_number.o"
+	@echo "... 39_more_than_half_number/more_than_half_number.i"
+	@echo "... 39_more_than_half_number/more_than_half_number.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"

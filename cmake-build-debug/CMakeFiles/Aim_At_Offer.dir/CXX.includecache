@@ -62,6 +62,12 @@ string
 iostream
 -
 
+/Volumes/数据/mxq/program/Aim-At-Offer/39_more_than_half_number/more_than_half_number.h
+vector
+-
+cstdlib
+-
+
 /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.h
 iostream
 -
@@ -143,6 +149,8 @@ utils/binary_tree.h
 /Volumes/数据/mxq/program/Aim-At-Offer/utils/binary_tree.h
 38_string_permutation/string_permutation.h
 /Volumes/数据/mxq/program/Aim-At-Offer/38_string_permutation/string_permutation.h
+39_more_than_half_number/more_than_half_number.h
+/Volumes/数据/mxq/program/Aim-At-Offer/39_more_than_half_number/more_than_half_number.h
 
 /Volumes/数据/mxq/program/Aim-At-Offer/list/print_list_reverse.h
 stack

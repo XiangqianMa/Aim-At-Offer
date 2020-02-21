@@ -221,6 +221,12 @@
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/38_string_permutation/string_permutation.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/39_more_than_half_number/more_than_half_number.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/39_more_than_half_number/more_than_half_number.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
