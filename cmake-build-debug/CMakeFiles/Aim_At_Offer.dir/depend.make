@@ -82,6 +82,9 @@ CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.o: ../3
 CMakeFiles/Aim_At_Offer.dir/39_more_than_half_number/more_than_half_number.cpp.o: ../39_more_than_half_number/more_than_half_number.cpp
 CMakeFiles/Aim_At_Offer.dir/39_more_than_half_number/more_than_half_number.cpp.o: ../39_more_than_half_number/more_than_half_number.h
 
+CMakeFiles/Aim_At_Offer.dir/40_k_least_numbers/k_least_numbers.cpp.o: ../40_k_least_numbers/k_least_numbers.cpp
+CMakeFiles/Aim_At_Offer.dir/40_k_least_numbers/k_least_numbers.cpp.o: ../40_k_least_numbers/k_least_numbers.h
+
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.cpp
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.h
 
@@ -115,6 +118,8 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../33_verify_postorder_sequence_of_bst/v
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../34_path_in_tree/find_path_in_tree.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../38_string_permutation/string_permutation.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../39_more_than_half_number/more_than_half_number.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../40_k_least_numbers/k_least_numbers.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../41_stream_median/stream_median.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/path_in_matrix.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/robot_attend_aray.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../duplicate_number/duplicate.h

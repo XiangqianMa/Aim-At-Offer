@@ -227,6 +227,15 @@
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/39_more_than_half_number/more_than_half_number.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/40_k_least_numbers/k_least_numbers.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/40_k_least_numbers/k_least_numbers.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/41_stream_median/stream_median.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>

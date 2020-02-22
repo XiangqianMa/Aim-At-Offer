@@ -82,6 +82,9 @@ CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.o
 CMakeFiles/Aim_At_Offer.dir/39_more_than_half_number/more_than_half_number.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/39_more_than_half_number/more_than_half_number.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/39_more_than_half_number/more_than_half_number.h
+CMakeFiles/Aim_At_Offer.dir/40_k_least_numbers/k_least_numbers.cpp.o
+ /Volumes/数据/mxq/program/Aim-At-Offer/40_k_least_numbers/k_least_numbers.cpp
+ /Volumes/数据/mxq/program/Aim-At-Offer/40_k_least_numbers/k_least_numbers.h
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.h
@@ -116,6 +119,8 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/34_path_in_tree/find_path_in_tree.h
  /Volumes/数据/mxq/program/Aim-At-Offer/38_string_permutation/string_permutation.h
  /Volumes/数据/mxq/program/Aim-At-Offer/39_more_than_half_number/more_than_half_number.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/40_k_least_numbers/k_least_numbers.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/41_stream_median/stream_median.h
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.h
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/robot_attend_aray.h
  /Volumes/数据/mxq/program/Aim-At-Offer/duplicate_number/duplicate.h

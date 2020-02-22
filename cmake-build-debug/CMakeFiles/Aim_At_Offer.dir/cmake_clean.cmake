@@ -25,6 +25,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Aim_At_Offer.dir/37_serialize_binary_trees/serialize_binary_trees.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/39_more_than_half_number/more_than_half_number.cpp.o"
+  "CMakeFiles/Aim_At_Offer.dir/40_k_least_numbers/k_least_numbers.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/backtracking/robot_attend_aray.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.o"

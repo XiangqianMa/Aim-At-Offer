@@ -771,6 +771,33 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/39_more_than_half_number/more_than_half_number.cpp.s
 .PHONY : 39_more_than_half_number/more_than_half_number.cpp.s
 
+40_k_least_numbers/k_least_numbers.o: 40_k_least_numbers/k_least_numbers.cpp.o
+
+.PHONY : 40_k_least_numbers/k_least_numbers.o
+
+# target to build an object file
+40_k_least_numbers/k_least_numbers.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/40_k_least_numbers/k_least_numbers.cpp.o
+.PHONY : 40_k_least_numbers/k_least_numbers.cpp.o
+
+40_k_least_numbers/k_least_numbers.i: 40_k_least_numbers/k_least_numbers.cpp.i
+
+.PHONY : 40_k_least_numbers/k_least_numbers.i
+
+# target to preprocess a source file
+40_k_least_numbers/k_least_numbers.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/40_k_least_numbers/k_least_numbers.cpp.i
+.PHONY : 40_k_least_numbers/k_least_numbers.cpp.i
+
+40_k_least_numbers/k_least_numbers.s: 40_k_least_numbers/k_least_numbers.cpp.s
+
+.PHONY : 40_k_least_numbers/k_least_numbers.s
+
+# target to generate assembly for a file
+40_k_least_numbers/k_least_numbers.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/40_k_least_numbers/k_least_numbers.cpp.s
+.PHONY : 40_k_least_numbers/k_least_numbers.cpp.s
+
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
 .PHONY : backtracking/path_in_matrix.o
@@ -1203,6 +1230,9 @@ help:
 	@echo "... 39_more_than_half_number/more_than_half_number.o"
 	@echo "... 39_more_than_half_number/more_than_half_number.i"
 	@echo "... 39_more_than_half_number/more_than_half_number.s"
+	@echo "... 40_k_least_numbers/k_least_numbers.o"
+	@echo "... 40_k_least_numbers/k_least_numbers.i"
+	@echo "... 40_k_least_numbers/k_least_numbers.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"

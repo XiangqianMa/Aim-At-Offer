@@ -4,7 +4,11 @@
 
 #include "more_than_half_number.h"
 
-
+/**
+ * @brief 使用找出中位数元素的方式找出个数超过一半的元素，借助快排的Partition函数实现
+ * @param numbers
+ * @return
+ */
 int MoreThanHalfNumber(vector<int>& numbers){
     if (numbers.empty())
         return 0;
@@ -30,6 +34,41 @@ int MoreThanHalfNumber(vector<int>& numbers){
 }
 
 
+/**
+ * @brief 个数超过一半的元素的个数肯定比其他所有元素的个数都多
+ * @param numbers
+ * @return
+ */
+int MoreThanHalfNumberCount(const vector<int>& numbers){
+    if (numbers.empty())
+        return 0;
+
+    int result = numbers[0];
+    int times = 1;
+    for (auto number: numbers){
+        if (times == 0){
+            result = number;
+            times = 1;
+        }
+        else if (number == result) {
+            times++;
+        }
+        else {
+           times--;
+        }
+    }
+    if (!CheckMoreThanHalf(numbers, result))
+        result = 0;
+    return result;
+}
+
+
+/**
+ * @param 上面两种方法都是必要非充分条件，需要使用本函数进行最终的判断
+ * @param numbers
+ * @param number
+ * @return
+ */
 bool CheckMoreThanHalf(const vector<int>& numbers, int& number){
     int count = 0;
     for (auto temp_number: numbers){
@@ -40,6 +79,13 @@ bool CheckMoreThanHalf(const vector<int>& numbers, int& number){
 }
 
 
+/**
+ * @brief 随机从数组中选择元素，将数组划分为左侧都小于该元素，右侧都大于该元素的形式
+ * @param numbers 数组
+ * @param start 起始位置下标
+ * @param end 终止位置下标
+ * @return
+ */
 int Partition(vector<int>& numbers, int start, int end){
     if (numbers.empty() || start < 0 || end > numbers.size() - 1)
         throw "Invalid Parameters";

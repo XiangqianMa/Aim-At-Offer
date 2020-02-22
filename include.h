@@ -31,5 +31,7 @@
 #include "utils/binary_tree.h"
 #include "38_string_permutation/string_permutation.h"
 #include "39_more_than_half_number/more_than_half_number.h"
+#include "40_k_least_numbers/k_least_numbers.h"
+#include "41_stream_median/stream_median.h"
 
 #endif //AIM_AT_OFFER_INCLUDE_H

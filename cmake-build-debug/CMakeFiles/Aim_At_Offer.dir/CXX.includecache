@@ -68,6 +68,16 @@ vector
 cstdlib
 -
 
+/Volumes/数据/mxq/program/Aim-At-Offer/40_k_least_numbers/k_least_numbers.h
+vector
+-
+set
+-
+
+/Volumes/数据/mxq/program/Aim-At-Offer/41_stream_median/stream_median.h
+vector
+-
+
 /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.h
 iostream
 -
@@ -151,6 +161,10 @@ utils/binary_tree.h
 /Volumes/数据/mxq/program/Aim-At-Offer/38_string_permutation/string_permutation.h
 39_more_than_half_number/more_than_half_number.h
 /Volumes/数据/mxq/program/Aim-At-Offer/39_more_than_half_number/more_than_half_number.h
+40_k_least_numbers/k_least_numbers.h
+/Volumes/数据/mxq/program/Aim-At-Offer/40_k_least_numbers/k_least_numbers.h
+41_stream_median/stream_median.h
+/Volumes/数据/mxq/program/Aim-At-Offer/41_stream_median/stream_median.h
 
 /Volumes/数据/mxq/program/Aim-At-Offer/list/print_list_reverse.h
 stack
