@@ -798,6 +798,114 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/40_k_least_numbers/k_least_numbers.cpp.s
 .PHONY : 40_k_least_numbers/k_least_numbers.cpp.s
 
+42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.o: 42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.o
+
+.PHONY : 42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.o
+
+# target to build an object file
+42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.o
+.PHONY : 42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.o
+
+42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.i: 42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.i
+
+.PHONY : 42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.i
+
+# target to preprocess a source file
+42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.i
+.PHONY : 42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.i
+
+42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.s: 42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.s
+
+.PHONY : 42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.s
+
+# target to generate assembly for a file
+42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.s
+.PHONY : 42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.s
+
+43_number_of_1/number_of_1.o: 43_number_of_1/number_of_1.cpp.o
+
+.PHONY : 43_number_of_1/number_of_1.o
+
+# target to build an object file
+43_number_of_1/number_of_1.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/43_number_of_1/number_of_1.cpp.o
+.PHONY : 43_number_of_1/number_of_1.cpp.o
+
+43_number_of_1/number_of_1.i: 43_number_of_1/number_of_1.cpp.i
+
+.PHONY : 43_number_of_1/number_of_1.i
+
+# target to preprocess a source file
+43_number_of_1/number_of_1.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/43_number_of_1/number_of_1.cpp.i
+.PHONY : 43_number_of_1/number_of_1.cpp.i
+
+43_number_of_1/number_of_1.s: 43_number_of_1/number_of_1.cpp.s
+
+.PHONY : 43_number_of_1/number_of_1.s
+
+# target to generate assembly for a file
+43_number_of_1/number_of_1.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/43_number_of_1/number_of_1.cpp.s
+.PHONY : 43_number_of_1/number_of_1.cpp.s
+
+44_digits_in_sequence/digits_in_sequence.o: 44_digits_in_sequence/digits_in_sequence.cpp.o
+
+.PHONY : 44_digits_in_sequence/digits_in_sequence.o
+
+# target to build an object file
+44_digits_in_sequence/digits_in_sequence.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/44_digits_in_sequence/digits_in_sequence.cpp.o
+.PHONY : 44_digits_in_sequence/digits_in_sequence.cpp.o
+
+44_digits_in_sequence/digits_in_sequence.i: 44_digits_in_sequence/digits_in_sequence.cpp.i
+
+.PHONY : 44_digits_in_sequence/digits_in_sequence.i
+
+# target to preprocess a source file
+44_digits_in_sequence/digits_in_sequence.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/44_digits_in_sequence/digits_in_sequence.cpp.i
+.PHONY : 44_digits_in_sequence/digits_in_sequence.cpp.i
+
+44_digits_in_sequence/digits_in_sequence.s: 44_digits_in_sequence/digits_in_sequence.cpp.s
+
+.PHONY : 44_digits_in_sequence/digits_in_sequence.s
+
+# target to generate assembly for a file
+44_digits_in_sequence/digits_in_sequence.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/44_digits_in_sequence/digits_in_sequence.cpp.s
+.PHONY : 44_digits_in_sequence/digits_in_sequence.cpp.s
+
+45_sort_array_for_min_number/sort_array_for_min_number.o: 45_sort_array_for_min_number/sort_array_for_min_number.cpp.o
+
+.PHONY : 45_sort_array_for_min_number/sort_array_for_min_number.o
+
+# target to build an object file
+45_sort_array_for_min_number/sort_array_for_min_number.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.o
+.PHONY : 45_sort_array_for_min_number/sort_array_for_min_number.cpp.o
+
+45_sort_array_for_min_number/sort_array_for_min_number.i: 45_sort_array_for_min_number/sort_array_for_min_number.cpp.i
+
+.PHONY : 45_sort_array_for_min_number/sort_array_for_min_number.i
+
+# target to preprocess a source file
+45_sort_array_for_min_number/sort_array_for_min_number.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.i
+.PHONY : 45_sort_array_for_min_number/sort_array_for_min_number.cpp.i
+
+45_sort_array_for_min_number/sort_array_for_min_number.s: 45_sort_array_for_min_number/sort_array_for_min_number.cpp.s
+
+.PHONY : 45_sort_array_for_min_number/sort_array_for_min_number.s
+
+# target to generate assembly for a file
+45_sort_array_for_min_number/sort_array_for_min_number.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.s
+.PHONY : 45_sort_array_for_min_number/sort_array_for_min_number.cpp.s
+
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
 .PHONY : backtracking/path_in_matrix.o
@@ -1233,6 +1341,18 @@ help:
 	@echo "... 40_k_least_numbers/k_least_numbers.o"
 	@echo "... 40_k_least_numbers/k_least_numbers.i"
 	@echo "... 40_k_least_numbers/k_least_numbers.s"
+	@echo "... 42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.o"
+	@echo "... 42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.i"
+	@echo "... 42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.s"
+	@echo "... 43_number_of_1/number_of_1.o"
+	@echo "... 43_number_of_1/number_of_1.i"
+	@echo "... 43_number_of_1/number_of_1.s"
+	@echo "... 44_digits_in_sequence/digits_in_sequence.o"
+	@echo "... 44_digits_in_sequence/digits_in_sequence.i"
+	@echo "... 44_digits_in_sequence/digits_in_sequence.s"
+	@echo "... 45_sort_array_for_min_number/sort_array_for_min_number.o"
+	@echo "... 45_sort_array_for_min_number/sort_array_for_min_number.i"
+	@echo "... 45_sort_array_for_min_number/sort_array_for_min_number.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"

@@ -85,6 +85,18 @@ CMakeFiles/Aim_At_Offer.dir/39_more_than_half_number/more_than_half_number.cpp.o
 CMakeFiles/Aim_At_Offer.dir/40_k_least_numbers/k_least_numbers.cpp.o: ../40_k_least_numbers/k_least_numbers.cpp
 CMakeFiles/Aim_At_Offer.dir/40_k_least_numbers/k_least_numbers.cpp.o: ../40_k_least_numbers/k_least_numbers.h
 
+CMakeFiles/Aim_At_Offer.dir/42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.o: ../42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp
+CMakeFiles/Aim_At_Offer.dir/42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.o: ../42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.h
+
+CMakeFiles/Aim_At_Offer.dir/43_number_of_1/number_of_1.cpp.o: ../43_number_of_1/number_of_1.cpp
+CMakeFiles/Aim_At_Offer.dir/43_number_of_1/number_of_1.cpp.o: ../43_number_of_1/number_of_1.h
+
+CMakeFiles/Aim_At_Offer.dir/44_digits_in_sequence/digits_in_sequence.cpp.o: ../44_digits_in_sequence/digits_in_sequence.cpp
+CMakeFiles/Aim_At_Offer.dir/44_digits_in_sequence/digits_in_sequence.cpp.o: ../44_digits_in_sequence/digits_in_sequence.h
+
+CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.o: ../45_sort_array_for_min_number/sort_array_for_min_number.cpp
+CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.o: ../45_sort_array_for_min_number/sort_array_for_min_number.h
+
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.cpp
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.h
 
@@ -120,6 +132,8 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../38_string_permutation/string_permutat
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../39_more_than_half_number/more_than_half_number.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../40_k_least_numbers/k_least_numbers.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../41_stream_median/stream_median.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../44_digits_in_sequence/digits_in_sequence.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../45_sort_array_for_min_number/sort_array_for_min_number.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/path_in_matrix.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/robot_attend_aray.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../duplicate_number/duplicate.h

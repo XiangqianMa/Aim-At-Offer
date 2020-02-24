@@ -551,6 +551,58 @@ CMakeFiles/Aim_At_Offer.dir/40_k_least_numbers/k_least_numbers.cpp.s: cmake_forc
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/40_k_least_numbers/k_least_numbers.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/40_k_least_numbers/k_least_numbers.cpp -o CMakeFiles/Aim_At_Offer.dir/40_k_least_numbers/k_least_numbers.cpp.s
 
+CMakeFiles/Aim_At_Offer.dir/42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.o: ../42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/Aim_At_Offer.dir/42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp
+
+CMakeFiles/Aim_At_Offer.dir/42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp > CMakeFiles/Aim_At_Offer.dir/42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp -o CMakeFiles/Aim_At_Offer.dir/42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/43_number_of_1/number_of_1.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/43_number_of_1/number_of_1.cpp.o: ../43_number_of_1/number_of_1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/Aim_At_Offer.dir/43_number_of_1/number_of_1.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/43_number_of_1/number_of_1.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/43_number_of_1/number_of_1.cpp
+
+CMakeFiles/Aim_At_Offer.dir/43_number_of_1/number_of_1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/43_number_of_1/number_of_1.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/43_number_of_1/number_of_1.cpp > CMakeFiles/Aim_At_Offer.dir/43_number_of_1/number_of_1.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/43_number_of_1/number_of_1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/43_number_of_1/number_of_1.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/43_number_of_1/number_of_1.cpp -o CMakeFiles/Aim_At_Offer.dir/43_number_of_1/number_of_1.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/44_digits_in_sequence/digits_in_sequence.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/44_digits_in_sequence/digits_in_sequence.cpp.o: ../44_digits_in_sequence/digits_in_sequence.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/Aim_At_Offer.dir/44_digits_in_sequence/digits_in_sequence.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/44_digits_in_sequence/digits_in_sequence.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/44_digits_in_sequence/digits_in_sequence.cpp
+
+CMakeFiles/Aim_At_Offer.dir/44_digits_in_sequence/digits_in_sequence.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/44_digits_in_sequence/digits_in_sequence.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/44_digits_in_sequence/digits_in_sequence.cpp > CMakeFiles/Aim_At_Offer.dir/44_digits_in_sequence/digits_in_sequence.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/44_digits_in_sequence/digits_in_sequence.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/44_digits_in_sequence/digits_in_sequence.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/44_digits_in_sequence/digits_in_sequence.cpp -o CMakeFiles/Aim_At_Offer.dir/44_digits_in_sequence/digits_in_sequence.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.o: ../45_sort_array_for_min_number/sort_array_for_min_number.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/45_sort_array_for_min_number/sort_array_for_min_number.cpp
+
+CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/45_sort_array_for_min_number/sort_array_for_min_number.cpp > CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/45_sort_array_for_min_number/sort_array_for_min_number.cpp -o CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.s
+
 # Object files for target Aim_At_Offer
 Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/main.cpp.o" \
@@ -590,7 +642,11 @@ Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/37_serialize_binary_trees/serialize_binary_trees.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/39_more_than_half_number/more_than_half_number.cpp.o" \
-"CMakeFiles/Aim_At_Offer.dir/40_k_least_numbers/k_least_numbers.cpp.o"
+"CMakeFiles/Aim_At_Offer.dir/40_k_least_numbers/k_least_numbers.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/43_number_of_1/number_of_1.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/44_digits_in_sequence/digits_in_sequence.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.o"
 
 # External object files for target Aim_At_Offer
 Aim_At_Offer_EXTERNAL_OBJECTS =
@@ -633,9 +689,13 @@ Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/37_serialize_binary_trees/serialize_bi
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/38_string_permutation/string_permutation.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/39_more_than_half_number/more_than_half_number.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/40_k_least_numbers/k_least_numbers.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/42_greatest_sum_of_subarrays/greatest_sum_of_sub_array.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/43_number_of_1/number_of_1.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/44_digits_in_sequence/digits_in_sequence.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/build.make
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Linking CXX executable Aim_At_Offer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Linking CXX executable Aim_At_Offer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Aim_At_Offer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

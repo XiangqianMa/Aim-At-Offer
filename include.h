@@ -33,5 +33,7 @@
 #include "39_more_than_half_number/more_than_half_number.h"
 #include "40_k_least_numbers/k_least_numbers.h"
 #include "41_stream_median/stream_median.h"
+#include "44_digits_in_sequence/digits_in_sequence.h"
+#include "45_sort_array_for_min_number/sort_array_for_min_number.h"
 
 #endif //AIM_AT_OFFER_INCLUDE_H

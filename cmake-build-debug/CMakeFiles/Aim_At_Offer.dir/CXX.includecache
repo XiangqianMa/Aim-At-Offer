@@ -78,6 +78,18 @@ set
 vector
 -
 
+/Volumes/数据/mxq/program/Aim-At-Offer/44_digits_in_sequence/digits_in_sequence.h
+
+/Volumes/数据/mxq/program/Aim-At-Offer/45_sort_array_for_min_number/sort_array_for_min_number.h
+vector
+-
+string
+-
+algorithm
+-
+cmath
+-
+
 /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.h
 iostream
 -
@@ -165,6 +177,10 @@ utils/binary_tree.h
 /Volumes/数据/mxq/program/Aim-At-Offer/40_k_least_numbers/k_least_numbers.h
 41_stream_median/stream_median.h
 /Volumes/数据/mxq/program/Aim-At-Offer/41_stream_median/stream_median.h
+44_digits_in_sequence/digits_in_sequence.h
+/Volumes/数据/mxq/program/Aim-At-Offer/44_digits_in_sequence/digits_in_sequence.h
+45_sort_array_for_min_number/sort_array_for_min_number.h
+/Volumes/数据/mxq/program/Aim-At-Offer/45_sort_array_for_min_number/sort_array_for_min_number.h
 
 /Volumes/数据/mxq/program/Aim-At-Offer/list/print_list_reverse.h
 stack
