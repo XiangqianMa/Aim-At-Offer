@@ -35,5 +35,7 @@
 #include "41_stream_median/stream_median.h"
 #include "44_digits_in_sequence/digits_in_sequence.h"
 #include "45_sort_array_for_min_number/sort_array_for_min_number.h"
+#include "46_translate_numbers_to_strings/translate_numbers_to_strings.h"
+#include "47_max_value_of_gifts/max_value_of_gifts.h"
 
 #endif //AIM_AT_OFFER_INCLUDE_H

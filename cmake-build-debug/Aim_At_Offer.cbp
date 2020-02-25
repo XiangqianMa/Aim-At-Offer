@@ -260,6 +260,18 @@
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/45_sort_array_for_min_number/sort_array_for_min_number.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/46_translate_numbers_to_strings/translate_numbers_to_strings.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/46_translate_numbers_to_strings/translate_numbers_to_strings.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/47_max_value_of_gifts/max_value_of_gifts.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/47_max_value_of_gifts/max_value_of_gifts.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>

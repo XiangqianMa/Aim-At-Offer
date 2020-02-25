@@ -30,6 +30,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Aim_At_Offer.dir/43_number_of_1/number_of_1.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/44_digits_in_sequence/digits_in_sequence.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.o"
+  "CMakeFiles/Aim_At_Offer.dir/46_translate_numbers_to_strings/translate_numbers_to_strings.cpp.o"
+  "CMakeFiles/Aim_At_Offer.dir/47_max_value_of_gifts/max_value_of_gifts.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/backtracking/robot_attend_aray.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.o"

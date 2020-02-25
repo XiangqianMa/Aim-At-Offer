@@ -906,6 +906,60 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.s
 .PHONY : 45_sort_array_for_min_number/sort_array_for_min_number.cpp.s
 
+46_translate_numbers_to_strings/translate_numbers_to_strings.o: 46_translate_numbers_to_strings/translate_numbers_to_strings.cpp.o
+
+.PHONY : 46_translate_numbers_to_strings/translate_numbers_to_strings.o
+
+# target to build an object file
+46_translate_numbers_to_strings/translate_numbers_to_strings.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/46_translate_numbers_to_strings/translate_numbers_to_strings.cpp.o
+.PHONY : 46_translate_numbers_to_strings/translate_numbers_to_strings.cpp.o
+
+46_translate_numbers_to_strings/translate_numbers_to_strings.i: 46_translate_numbers_to_strings/translate_numbers_to_strings.cpp.i
+
+.PHONY : 46_translate_numbers_to_strings/translate_numbers_to_strings.i
+
+# target to preprocess a source file
+46_translate_numbers_to_strings/translate_numbers_to_strings.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/46_translate_numbers_to_strings/translate_numbers_to_strings.cpp.i
+.PHONY : 46_translate_numbers_to_strings/translate_numbers_to_strings.cpp.i
+
+46_translate_numbers_to_strings/translate_numbers_to_strings.s: 46_translate_numbers_to_strings/translate_numbers_to_strings.cpp.s
+
+.PHONY : 46_translate_numbers_to_strings/translate_numbers_to_strings.s
+
+# target to generate assembly for a file
+46_translate_numbers_to_strings/translate_numbers_to_strings.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/46_translate_numbers_to_strings/translate_numbers_to_strings.cpp.s
+.PHONY : 46_translate_numbers_to_strings/translate_numbers_to_strings.cpp.s
+
+47_max_value_of_gifts/max_value_of_gifts.o: 47_max_value_of_gifts/max_value_of_gifts.cpp.o
+
+.PHONY : 47_max_value_of_gifts/max_value_of_gifts.o
+
+# target to build an object file
+47_max_value_of_gifts/max_value_of_gifts.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/47_max_value_of_gifts/max_value_of_gifts.cpp.o
+.PHONY : 47_max_value_of_gifts/max_value_of_gifts.cpp.o
+
+47_max_value_of_gifts/max_value_of_gifts.i: 47_max_value_of_gifts/max_value_of_gifts.cpp.i
+
+.PHONY : 47_max_value_of_gifts/max_value_of_gifts.i
+
+# target to preprocess a source file
+47_max_value_of_gifts/max_value_of_gifts.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/47_max_value_of_gifts/max_value_of_gifts.cpp.i
+.PHONY : 47_max_value_of_gifts/max_value_of_gifts.cpp.i
+
+47_max_value_of_gifts/max_value_of_gifts.s: 47_max_value_of_gifts/max_value_of_gifts.cpp.s
+
+.PHONY : 47_max_value_of_gifts/max_value_of_gifts.s
+
+# target to generate assembly for a file
+47_max_value_of_gifts/max_value_of_gifts.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/47_max_value_of_gifts/max_value_of_gifts.cpp.s
+.PHONY : 47_max_value_of_gifts/max_value_of_gifts.cpp.s
+
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
 .PHONY : backtracking/path_in_matrix.o
@@ -1353,6 +1407,12 @@ help:
 	@echo "... 45_sort_array_for_min_number/sort_array_for_min_number.o"
 	@echo "... 45_sort_array_for_min_number/sort_array_for_min_number.i"
 	@echo "... 45_sort_array_for_min_number/sort_array_for_min_number.s"
+	@echo "... 46_translate_numbers_to_strings/translate_numbers_to_strings.o"
+	@echo "... 46_translate_numbers_to_strings/translate_numbers_to_strings.i"
+	@echo "... 46_translate_numbers_to_strings/translate_numbers_to_strings.s"
+	@echo "... 47_max_value_of_gifts/max_value_of_gifts.o"
+	@echo "... 47_max_value_of_gifts/max_value_of_gifts.i"
+	@echo "... 47_max_value_of_gifts/max_value_of_gifts.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"

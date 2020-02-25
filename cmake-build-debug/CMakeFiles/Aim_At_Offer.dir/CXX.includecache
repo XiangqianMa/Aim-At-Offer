@@ -90,6 +90,20 @@ algorithm
 cmath
 -
 
+/Volumes/数据/mxq/program/Aim-At-Offer/46_translate_numbers_to_strings/translate_numbers_to_strings.h
+string
+-
+vector
+-
+
+/Volumes/数据/mxq/program/Aim-At-Offer/47_max_value_of_gifts/max_value_of_gifts.cpp
+max_value_of_gifts.h
+/Volumes/数据/mxq/program/Aim-At-Offer/47_max_value_of_gifts/max_value_of_gifts.h
+
+/Volumes/数据/mxq/program/Aim-At-Offer/47_max_value_of_gifts/max_value_of_gifts.h
+vector
+-
+
 /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.h
 iostream
 -
@@ -181,6 +195,10 @@ utils/binary_tree.h
 /Volumes/数据/mxq/program/Aim-At-Offer/44_digits_in_sequence/digits_in_sequence.h
 45_sort_array_for_min_number/sort_array_for_min_number.h
 /Volumes/数据/mxq/program/Aim-At-Offer/45_sort_array_for_min_number/sort_array_for_min_number.h
+46_translate_numbers_to_strings/translate_numbers_to_strings.h
+/Volumes/数据/mxq/program/Aim-At-Offer/46_translate_numbers_to_strings/translate_numbers_to_strings.h
+47_max_value_of_gifts/max_value_of_gifts.h
+/Volumes/数据/mxq/program/Aim-At-Offer/47_max_value_of_gifts/max_value_of_gifts.h
 
 /Volumes/数据/mxq/program/Aim-At-Offer/list/print_list_reverse.h
 stack

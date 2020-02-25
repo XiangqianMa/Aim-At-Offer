@@ -97,6 +97,12 @@ CMakeFiles/Aim_At_Offer.dir/44_digits_in_sequence/digits_in_sequence.cpp.o: ../4
 CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.o: ../45_sort_array_for_min_number/sort_array_for_min_number.cpp
 CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.o: ../45_sort_array_for_min_number/sort_array_for_min_number.h
 
+CMakeFiles/Aim_At_Offer.dir/46_translate_numbers_to_strings/translate_numbers_to_strings.cpp.o: ../46_translate_numbers_to_strings/translate_numbers_to_strings.cpp
+CMakeFiles/Aim_At_Offer.dir/46_translate_numbers_to_strings/translate_numbers_to_strings.cpp.o: ../46_translate_numbers_to_strings/translate_numbers_to_strings.h
+
+CMakeFiles/Aim_At_Offer.dir/47_max_value_of_gifts/max_value_of_gifts.cpp.o: ../47_max_value_of_gifts/max_value_of_gifts.cpp
+CMakeFiles/Aim_At_Offer.dir/47_max_value_of_gifts/max_value_of_gifts.cpp.o: ../47_max_value_of_gifts/max_value_of_gifts.h
+
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.cpp
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.h
 
@@ -134,6 +140,8 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../40_k_least_numbers/k_least_numbers.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../41_stream_median/stream_median.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../44_digits_in_sequence/digits_in_sequence.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../45_sort_array_for_min_number/sort_array_for_min_number.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../46_translate_numbers_to_strings/translate_numbers_to_strings.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../47_max_value_of_gifts/max_value_of_gifts.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/path_in_matrix.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/robot_attend_aray.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../duplicate_number/duplicate.h
