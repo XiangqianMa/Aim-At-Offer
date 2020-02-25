@@ -4,7 +4,13 @@ using namespace std;
 
 
 int main() {
-    vector<vector<int>> gifts = {{1, 10, 3, 8}, {12, 2, 9, 6}, {5, 7, 4, 11}, {3, 7, 16, 5}};
-    int result = GetMaxValueOfGiftsSolution2(gifts, 4, 4);
+    CharStatistic my_char_statistic;
+    my_char_statistic.Insert('g');
+    my_char_statistic.Insert('o');
+    my_char_statistic.Insert('o');
+    my_char_statistic.Insert('l');
+    my_char_statistic.Insert('l');
+
+    char result = my_char_statistic.FirstNotRepeatingChar();
     cout << result << endl;
 }

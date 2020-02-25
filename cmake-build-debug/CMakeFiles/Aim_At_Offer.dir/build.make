@@ -629,6 +629,58 @@ CMakeFiles/Aim_At_Offer.dir/47_max_value_of_gifts/max_value_of_gifts.cpp.s: cmak
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/47_max_value_of_gifts/max_value_of_gifts.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/47_max_value_of_gifts/max_value_of_gifts.cpp -o CMakeFiles/Aim_At_Offer.dir/47_max_value_of_gifts/max_value_of_gifts.cpp.s
 
+CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.o: ../48_longest_substring_without_duplication/longest_substring_without_duplication.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp
+
+CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp > CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp -o CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.o: ../49_ugly_number/get_ugly_number.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/49_ugly_number/get_ugly_number.cpp
+
+CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/49_ugly_number/get_ugly_number.cpp > CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/49_ugly_number/get_ugly_number.cpp -o CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.o: ../50_first_not_repeating_char/first_not_repeating_char.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/first_not_repeating_char.cpp
+
+CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/first_not_repeating_char.cpp > CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/first_not_repeating_char.cpp -o CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/59_inverse_pairs/inverse_pairs.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/59_inverse_pairs/inverse_pairs.cpp.o: ../59_inverse_pairs/inverse_pairs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/Aim_At_Offer.dir/59_inverse_pairs/inverse_pairs.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/59_inverse_pairs/inverse_pairs.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/59_inverse_pairs/inverse_pairs.cpp
+
+CMakeFiles/Aim_At_Offer.dir/59_inverse_pairs/inverse_pairs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/59_inverse_pairs/inverse_pairs.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/59_inverse_pairs/inverse_pairs.cpp > CMakeFiles/Aim_At_Offer.dir/59_inverse_pairs/inverse_pairs.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/59_inverse_pairs/inverse_pairs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/59_inverse_pairs/inverse_pairs.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/59_inverse_pairs/inverse_pairs.cpp -o CMakeFiles/Aim_At_Offer.dir/59_inverse_pairs/inverse_pairs.cpp.s
+
 # Object files for target Aim_At_Offer
 Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/main.cpp.o" \
@@ -674,7 +726,11 @@ Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/44_digits_in_sequence/digits_in_sequence.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/46_translate_numbers_to_strings/translate_numbers_to_strings.cpp.o" \
-"CMakeFiles/Aim_At_Offer.dir/47_max_value_of_gifts/max_value_of_gifts.cpp.o"
+"CMakeFiles/Aim_At_Offer.dir/47_max_value_of_gifts/max_value_of_gifts.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/59_inverse_pairs/inverse_pairs.cpp.o"
 
 # External object files for target Aim_At_Offer
 Aim_At_Offer_EXTERNAL_OBJECTS =
@@ -723,9 +779,13 @@ Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/44_digits_in_sequence/digits_in_sequen
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/45_sort_array_for_min_number/sort_array_for_min_number.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/46_translate_numbers_to_strings/translate_numbers_to_strings.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/47_max_value_of_gifts/max_value_of_gifts.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/59_inverse_pairs/inverse_pairs.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/build.make
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Linking CXX executable Aim_At_Offer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Linking CXX executable Aim_At_Offer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Aim_At_Offer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

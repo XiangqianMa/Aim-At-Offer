@@ -103,6 +103,15 @@ CMakeFiles/Aim_At_Offer.dir/46_translate_numbers_to_strings/translate_numbers_to
 CMakeFiles/Aim_At_Offer.dir/47_max_value_of_gifts/max_value_of_gifts.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/47_max_value_of_gifts/max_value_of_gifts.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/47_max_value_of_gifts/max_value_of_gifts.h
+CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.o
+ /Volumes/数据/mxq/program/Aim-At-Offer/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp
+ /Volumes/数据/mxq/program/Aim-At-Offer/48_longest_substring_without_duplication/longest_substring_without_duplication.h
+CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.o
+ /Volumes/数据/mxq/program/Aim-At-Offer/49_ugly_number/get_ugly_number.cpp
+ /Volumes/数据/mxq/program/Aim-At-Offer/49_ugly_number/get_ugly_number.h
+CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.o
+ /Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/first_not_repeating_char.cpp
+ /Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/first_not_repeating_char.h
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.h
@@ -143,6 +152,9 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/45_sort_array_for_min_number/sort_array_for_min_number.h
  /Volumes/数据/mxq/program/Aim-At-Offer/46_translate_numbers_to_strings/translate_numbers_to_strings.h
  /Volumes/数据/mxq/program/Aim-At-Offer/47_max_value_of_gifts/max_value_of_gifts.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/49_ugly_number/get_ugly_number.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/find_first_not_repeating_char_in_stream.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/first_not_repeating_char.h
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.h
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/robot_attend_aray.h
  /Volumes/数据/mxq/program/Aim-At-Offer/duplicate_number/duplicate.h

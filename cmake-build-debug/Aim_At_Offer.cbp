@@ -272,6 +272,33 @@
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/47_max_value_of_gifts/max_value_of_gifts.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/48_longest_substring_without_duplication/longest_substring_without_duplication.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/49_ugly_number/get_ugly_number.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/49_ugly_number/get_ugly_number.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/find_first_not_repeating_char_in_stream.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/first_not_repeating_char.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/first_not_repeating_char.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/59_inverse_pairs/inverse_pairs.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/59_inverse_pairs/inverse_pairs.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>

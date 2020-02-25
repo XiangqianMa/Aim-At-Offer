@@ -103,6 +103,15 @@ CMakeFiles/Aim_At_Offer.dir/46_translate_numbers_to_strings/translate_numbers_to
 CMakeFiles/Aim_At_Offer.dir/47_max_value_of_gifts/max_value_of_gifts.cpp.o: ../47_max_value_of_gifts/max_value_of_gifts.cpp
 CMakeFiles/Aim_At_Offer.dir/47_max_value_of_gifts/max_value_of_gifts.cpp.o: ../47_max_value_of_gifts/max_value_of_gifts.h
 
+CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.o: ../48_longest_substring_without_duplication/longest_substring_without_duplication.cpp
+CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.o: ../48_longest_substring_without_duplication/longest_substring_without_duplication.h
+
+CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.o: ../49_ugly_number/get_ugly_number.cpp
+CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.o: ../49_ugly_number/get_ugly_number.h
+
+CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.o: ../50_first_not_repeating_char/first_not_repeating_char.cpp
+CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.o: ../50_first_not_repeating_char/first_not_repeating_char.h
+
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.cpp
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.h
 
@@ -142,6 +151,9 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../44_digits_in_sequence/digits_in_seque
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../45_sort_array_for_min_number/sort_array_for_min_number.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../46_translate_numbers_to_strings/translate_numbers_to_strings.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../47_max_value_of_gifts/max_value_of_gifts.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../49_ugly_number/get_ugly_number.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../50_first_not_repeating_char/find_first_not_repeating_char_in_stream.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../50_first_not_repeating_char/first_not_repeating_char.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/path_in_matrix.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/robot_attend_aray.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../duplicate_number/duplicate.h

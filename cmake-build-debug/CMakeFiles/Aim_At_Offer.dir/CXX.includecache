@@ -96,11 +96,21 @@ string
 vector
 -
 
-/Volumes/数据/mxq/program/Aim-At-Offer/47_max_value_of_gifts/max_value_of_gifts.cpp
-max_value_of_gifts.h
 /Volumes/数据/mxq/program/Aim-At-Offer/47_max_value_of_gifts/max_value_of_gifts.h
+vector
+-
 
-/Volumes/数据/mxq/program/Aim-At-Offer/47_max_value_of_gifts/max_value_of_gifts.h
+/Volumes/数据/mxq/program/Aim-At-Offer/49_ugly_number/get_ugly_number.h
+vector
+-
+
+/Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/find_first_not_repeating_char_in_stream.h
+vector
+-
+
+/Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/first_not_repeating_char.h
+string
+-
 vector
 -
 
@@ -199,6 +209,12 @@ utils/binary_tree.h
 /Volumes/数据/mxq/program/Aim-At-Offer/46_translate_numbers_to_strings/translate_numbers_to_strings.h
 47_max_value_of_gifts/max_value_of_gifts.h
 /Volumes/数据/mxq/program/Aim-At-Offer/47_max_value_of_gifts/max_value_of_gifts.h
+49_ugly_number/get_ugly_number.h
+/Volumes/数据/mxq/program/Aim-At-Offer/49_ugly_number/get_ugly_number.h
+50_first_not_repeating_char/first_not_repeating_char.h
+/Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/first_not_repeating_char.h
+50_first_not_repeating_char/find_first_not_repeating_char_in_stream.h
+/Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/find_first_not_repeating_char_in_stream.h
 
 /Volumes/数据/mxq/program/Aim-At-Offer/list/print_list_reverse.h
 stack

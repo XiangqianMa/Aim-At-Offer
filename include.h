@@ -37,5 +37,9 @@
 #include "45_sort_array_for_min_number/sort_array_for_min_number.h"
 #include "46_translate_numbers_to_strings/translate_numbers_to_strings.h"
 #include "47_max_value_of_gifts/max_value_of_gifts.h"
+#include "49_ugly_number/get_ugly_number.h"
+#include "50_first_not_repeating_char/first_not_repeating_char.h"
+#include "50_first_not_repeating_char/find_first_not_repeating_char_in_stream.h"
+#include "51_inverse_pairs/inverse_pairs.h"
 
 #endif //AIM_AT_OFFER_INCLUDE_H

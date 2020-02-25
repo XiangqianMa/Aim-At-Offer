@@ -960,6 +960,114 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/47_max_value_of_gifts/max_value_of_gifts.cpp.s
 .PHONY : 47_max_value_of_gifts/max_value_of_gifts.cpp.s
 
+48_longest_substring_without_duplication/longest_substring_without_duplication.o: 48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.o
+
+.PHONY : 48_longest_substring_without_duplication/longest_substring_without_duplication.o
+
+# target to build an object file
+48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.o
+.PHONY : 48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.o
+
+48_longest_substring_without_duplication/longest_substring_without_duplication.i: 48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.i
+
+.PHONY : 48_longest_substring_without_duplication/longest_substring_without_duplication.i
+
+# target to preprocess a source file
+48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.i
+.PHONY : 48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.i
+
+48_longest_substring_without_duplication/longest_substring_without_duplication.s: 48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.s
+
+.PHONY : 48_longest_substring_without_duplication/longest_substring_without_duplication.s
+
+# target to generate assembly for a file
+48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.s
+.PHONY : 48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.s
+
+49_ugly_number/get_ugly_number.o: 49_ugly_number/get_ugly_number.cpp.o
+
+.PHONY : 49_ugly_number/get_ugly_number.o
+
+# target to build an object file
+49_ugly_number/get_ugly_number.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.o
+.PHONY : 49_ugly_number/get_ugly_number.cpp.o
+
+49_ugly_number/get_ugly_number.i: 49_ugly_number/get_ugly_number.cpp.i
+
+.PHONY : 49_ugly_number/get_ugly_number.i
+
+# target to preprocess a source file
+49_ugly_number/get_ugly_number.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.i
+.PHONY : 49_ugly_number/get_ugly_number.cpp.i
+
+49_ugly_number/get_ugly_number.s: 49_ugly_number/get_ugly_number.cpp.s
+
+.PHONY : 49_ugly_number/get_ugly_number.s
+
+# target to generate assembly for a file
+49_ugly_number/get_ugly_number.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.s
+.PHONY : 49_ugly_number/get_ugly_number.cpp.s
+
+50_first_not_repeating_char/first_not_repeating_char.o: 50_first_not_repeating_char/first_not_repeating_char.cpp.o
+
+.PHONY : 50_first_not_repeating_char/first_not_repeating_char.o
+
+# target to build an object file
+50_first_not_repeating_char/first_not_repeating_char.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.o
+.PHONY : 50_first_not_repeating_char/first_not_repeating_char.cpp.o
+
+50_first_not_repeating_char/first_not_repeating_char.i: 50_first_not_repeating_char/first_not_repeating_char.cpp.i
+
+.PHONY : 50_first_not_repeating_char/first_not_repeating_char.i
+
+# target to preprocess a source file
+50_first_not_repeating_char/first_not_repeating_char.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.i
+.PHONY : 50_first_not_repeating_char/first_not_repeating_char.cpp.i
+
+50_first_not_repeating_char/first_not_repeating_char.s: 50_first_not_repeating_char/first_not_repeating_char.cpp.s
+
+.PHONY : 50_first_not_repeating_char/first_not_repeating_char.s
+
+# target to generate assembly for a file
+50_first_not_repeating_char/first_not_repeating_char.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.s
+.PHONY : 50_first_not_repeating_char/first_not_repeating_char.cpp.s
+
+59_inverse_pairs/inverse_pairs.o: 59_inverse_pairs/inverse_pairs.cpp.o
+
+.PHONY : 59_inverse_pairs/inverse_pairs.o
+
+# target to build an object file
+59_inverse_pairs/inverse_pairs.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/59_inverse_pairs/inverse_pairs.cpp.o
+.PHONY : 59_inverse_pairs/inverse_pairs.cpp.o
+
+59_inverse_pairs/inverse_pairs.i: 59_inverse_pairs/inverse_pairs.cpp.i
+
+.PHONY : 59_inverse_pairs/inverse_pairs.i
+
+# target to preprocess a source file
+59_inverse_pairs/inverse_pairs.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/59_inverse_pairs/inverse_pairs.cpp.i
+.PHONY : 59_inverse_pairs/inverse_pairs.cpp.i
+
+59_inverse_pairs/inverse_pairs.s: 59_inverse_pairs/inverse_pairs.cpp.s
+
+.PHONY : 59_inverse_pairs/inverse_pairs.s
+
+# target to generate assembly for a file
+59_inverse_pairs/inverse_pairs.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/59_inverse_pairs/inverse_pairs.cpp.s
+.PHONY : 59_inverse_pairs/inverse_pairs.cpp.s
+
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
 .PHONY : backtracking/path_in_matrix.o
@@ -1413,6 +1521,18 @@ help:
 	@echo "... 47_max_value_of_gifts/max_value_of_gifts.o"
 	@echo "... 47_max_value_of_gifts/max_value_of_gifts.i"
 	@echo "... 47_max_value_of_gifts/max_value_of_gifts.s"
+	@echo "... 48_longest_substring_without_duplication/longest_substring_without_duplication.o"
+	@echo "... 48_longest_substring_without_duplication/longest_substring_without_duplication.i"
+	@echo "... 48_longest_substring_without_duplication/longest_substring_without_duplication.s"
+	@echo "... 49_ugly_number/get_ugly_number.o"
+	@echo "... 49_ugly_number/get_ugly_number.i"
+	@echo "... 49_ugly_number/get_ugly_number.s"
+	@echo "... 50_first_not_repeating_char/first_not_repeating_char.o"
+	@echo "... 50_first_not_repeating_char/first_not_repeating_char.i"
+	@echo "... 50_first_not_repeating_char/first_not_repeating_char.s"
+	@echo "... 59_inverse_pairs/inverse_pairs.o"
+	@echo "... 59_inverse_pairs/inverse_pairs.i"
+	@echo "... 59_inverse_pairs/inverse_pairs.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"
