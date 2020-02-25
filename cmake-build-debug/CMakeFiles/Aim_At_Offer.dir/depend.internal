@@ -112,6 +112,9 @@ CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.o
 CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/first_not_repeating_char.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/first_not_repeating_char.h
+CMakeFiles/Aim_At_Offer.dir/51_inverse_pairs/inverse_pairs.cpp.o
+ /Volumes/数据/mxq/program/Aim-At-Offer/51_inverse_pairs/inverse_pairs.cpp
+ /Volumes/数据/mxq/program/Aim-At-Offer/51_inverse_pairs/inverse_pairs.h
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.h
@@ -155,6 +158,7 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/49_ugly_number/get_ugly_number.h
  /Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/find_first_not_repeating_char_in_stream.h
  /Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/first_not_repeating_char.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/51_inverse_pairs/inverse_pairs.h
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.h
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/robot_attend_aray.h
  /Volumes/数据/mxq/program/Aim-At-Offer/duplicate_number/duplicate.h

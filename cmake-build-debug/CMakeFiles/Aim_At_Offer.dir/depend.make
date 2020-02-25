@@ -112,6 +112,9 @@ CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.o: ../49_ugly_num
 CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.o: ../50_first_not_repeating_char/first_not_repeating_char.cpp
 CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.o: ../50_first_not_repeating_char/first_not_repeating_char.h
 
+CMakeFiles/Aim_At_Offer.dir/51_inverse_pairs/inverse_pairs.cpp.o: ../51_inverse_pairs/inverse_pairs.cpp
+CMakeFiles/Aim_At_Offer.dir/51_inverse_pairs/inverse_pairs.cpp.o: ../51_inverse_pairs/inverse_pairs.h
+
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.cpp
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.h
 
@@ -154,6 +157,7 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../47_max_value_of_gifts/max_value_of_gi
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../49_ugly_number/get_ugly_number.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../50_first_not_repeating_char/find_first_not_repeating_char_in_stream.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../50_first_not_repeating_char/first_not_repeating_char.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../51_inverse_pairs/inverse_pairs.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/path_in_matrix.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/robot_attend_aray.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../duplicate_number/duplicate.h

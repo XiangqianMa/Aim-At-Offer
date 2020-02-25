@@ -1041,32 +1041,32 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.s
 .PHONY : 50_first_not_repeating_char/first_not_repeating_char.cpp.s
 
-59_inverse_pairs/inverse_pairs.o: 59_inverse_pairs/inverse_pairs.cpp.o
+51_inverse_pairs/inverse_pairs.o: 51_inverse_pairs/inverse_pairs.cpp.o
 
-.PHONY : 59_inverse_pairs/inverse_pairs.o
+.PHONY : 51_inverse_pairs/inverse_pairs.o
 
 # target to build an object file
-59_inverse_pairs/inverse_pairs.cpp.o:
-	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/59_inverse_pairs/inverse_pairs.cpp.o
-.PHONY : 59_inverse_pairs/inverse_pairs.cpp.o
+51_inverse_pairs/inverse_pairs.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/51_inverse_pairs/inverse_pairs.cpp.o
+.PHONY : 51_inverse_pairs/inverse_pairs.cpp.o
 
-59_inverse_pairs/inverse_pairs.i: 59_inverse_pairs/inverse_pairs.cpp.i
+51_inverse_pairs/inverse_pairs.i: 51_inverse_pairs/inverse_pairs.cpp.i
 
-.PHONY : 59_inverse_pairs/inverse_pairs.i
+.PHONY : 51_inverse_pairs/inverse_pairs.i
 
 # target to preprocess a source file
-59_inverse_pairs/inverse_pairs.cpp.i:
-	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/59_inverse_pairs/inverse_pairs.cpp.i
-.PHONY : 59_inverse_pairs/inverse_pairs.cpp.i
+51_inverse_pairs/inverse_pairs.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/51_inverse_pairs/inverse_pairs.cpp.i
+.PHONY : 51_inverse_pairs/inverse_pairs.cpp.i
 
-59_inverse_pairs/inverse_pairs.s: 59_inverse_pairs/inverse_pairs.cpp.s
+51_inverse_pairs/inverse_pairs.s: 51_inverse_pairs/inverse_pairs.cpp.s
 
-.PHONY : 59_inverse_pairs/inverse_pairs.s
+.PHONY : 51_inverse_pairs/inverse_pairs.s
 
 # target to generate assembly for a file
-59_inverse_pairs/inverse_pairs.cpp.s:
-	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/59_inverse_pairs/inverse_pairs.cpp.s
-.PHONY : 59_inverse_pairs/inverse_pairs.cpp.s
+51_inverse_pairs/inverse_pairs.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/51_inverse_pairs/inverse_pairs.cpp.s
+.PHONY : 51_inverse_pairs/inverse_pairs.cpp.s
 
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
@@ -1530,9 +1530,9 @@ help:
 	@echo "... 50_first_not_repeating_char/first_not_repeating_char.o"
 	@echo "... 50_first_not_repeating_char/first_not_repeating_char.i"
 	@echo "... 50_first_not_repeating_char/first_not_repeating_char.s"
-	@echo "... 59_inverse_pairs/inverse_pairs.o"
-	@echo "... 59_inverse_pairs/inverse_pairs.i"
-	@echo "... 59_inverse_pairs/inverse_pairs.s"
+	@echo "... 51_inverse_pairs/inverse_pairs.o"
+	@echo "... 51_inverse_pairs/inverse_pairs.i"
+	@echo "... 51_inverse_pairs/inverse_pairs.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"

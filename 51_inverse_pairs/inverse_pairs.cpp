@@ -18,22 +18,31 @@ int GetInversePairsNumber(const vector<int>& numbers){
 }
 
 
+/**
+ * @brief 类似于归并排序，在合并时加入逆序对的计算
+ * @param numbers
+ * @param start
+ * @param end
+ * @return
+ */
 int GetInversePairsNumberCore(vector<int>& numbers, int start, int end){
     if (start == end) {
         return 0;
     }
+    // 递归计算左半部分和右半部分
     int middle = (start + end) / 2;
-    int right_count = GetInversePairsNumberCore(numbers, start, middle - 1);
-    int left_count = GetInversePairsNumberCore(numbers, middle, end);
+    int right_count = GetInversePairsNumberCore(numbers, start, middle);
+    int left_count = GetInversePairsNumberCore(numbers, middle + 1, end);
 
-    int left_index = middle - 1;
+    // 合并左半部分和右半部分
+    int left_index = middle;
     int right_index = end;
     int combine_count = 0;
-    int combine_index = end - start - 1;
+    int combine_index = end - start;
     vector<int> combine(end - start + 1);
-    while (left_index != start && right_index != middle){
+    while (left_index >= start && right_index >= middle + 1){
         if (numbers[left_index] > numbers[right_index]){
-            combine_count += right_index - middle + 1;
+            combine_count += right_index - middle;
             combine[combine_index--] = numbers[left_index--];
         }
         else {
@@ -42,10 +51,10 @@ int GetInversePairsNumberCore(vector<int>& numbers, int start, int end){
     }
 
     // 拷贝剩余的元素
-    while (left_index != start){
+    while (left_index >= start){
         combine[combine_index--] = numbers[left_index--];
     }
-    while (right_index != middle){
+    while (right_index >= middle + 1){
         combine[combine_index--] = numbers[right_index--];
     }
     copy(combine.begin(), combine.end(), numbers.begin() + start);

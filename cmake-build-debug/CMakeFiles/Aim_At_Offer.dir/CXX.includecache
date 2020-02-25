@@ -114,6 +114,12 @@ string
 vector
 -
 
+/Volumes/数据/mxq/program/Aim-At-Offer/51_inverse_pairs/inverse_pairs.h
+vector
+-
+algorithm
+-
+
 /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.h
 iostream
 -
@@ -215,6 +221,8 @@ utils/binary_tree.h
 /Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/first_not_repeating_char.h
 50_first_not_repeating_char/find_first_not_repeating_char_in_stream.h
 /Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/find_first_not_repeating_char_in_stream.h
+51_inverse_pairs/inverse_pairs.h
+/Volumes/数据/mxq/program/Aim-At-Offer/51_inverse_pairs/inverse_pairs.h
 
 /Volumes/数据/mxq/program/Aim-At-Offer/list/print_list_reverse.h
 stack

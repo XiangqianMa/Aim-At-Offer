@@ -38,7 +38,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Volumes/数据/mxq/program/Aim-At-Offer/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.o"
   "/Volumes/数据/mxq/program/Aim-At-Offer/49_ugly_number/get_ugly_number.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.o"
   "/Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/first_not_repeating_char.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.o"
-  "/Volumes/数据/mxq/program/Aim-At-Offer/59_inverse_pairs/inverse_pairs.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/59_inverse_pairs/inverse_pairs.cpp.o"
+  "/Volumes/数据/mxq/program/Aim-At-Offer/51_inverse_pairs/inverse_pairs.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/51_inverse_pairs/inverse_pairs.cpp.o"
   "/Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o"
   "/Volumes/数据/mxq/program/Aim-At-Offer/backtracking/robot_attend_aray.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/backtracking/robot_attend_aray.cpp.o"
   "/Volumes/数据/mxq/program/Aim-At-Offer/duplicate_number/duplicate.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.o"

@@ -35,7 +35,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.o"
-  "CMakeFiles/Aim_At_Offer.dir/59_inverse_pairs/inverse_pairs.cpp.o"
+  "CMakeFiles/Aim_At_Offer.dir/51_inverse_pairs/inverse_pairs.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/backtracking/robot_attend_aray.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.o"
