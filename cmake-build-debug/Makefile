@@ -1068,6 +1068,195 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/51_inverse_pairs/inverse_pairs.cpp.s
 .PHONY : 51_inverse_pairs/inverse_pairs.cpp.s
 
+52_first_commen_node_in_lists/first_common_node_in_lists.o: 52_first_commen_node_in_lists/first_common_node_in_lists.cpp.o
+
+.PHONY : 52_first_commen_node_in_lists/first_common_node_in_lists.o
+
+# target to build an object file
+52_first_commen_node_in_lists/first_common_node_in_lists.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_lists.cpp.o
+.PHONY : 52_first_commen_node_in_lists/first_common_node_in_lists.cpp.o
+
+52_first_commen_node_in_lists/first_common_node_in_lists.i: 52_first_commen_node_in_lists/first_common_node_in_lists.cpp.i
+
+.PHONY : 52_first_commen_node_in_lists/first_common_node_in_lists.i
+
+# target to preprocess a source file
+52_first_commen_node_in_lists/first_common_node_in_lists.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_lists.cpp.i
+.PHONY : 52_first_commen_node_in_lists/first_common_node_in_lists.cpp.i
+
+52_first_commen_node_in_lists/first_common_node_in_lists.s: 52_first_commen_node_in_lists/first_common_node_in_lists.cpp.s
+
+.PHONY : 52_first_commen_node_in_lists/first_common_node_in_lists.s
+
+# target to generate assembly for a file
+52_first_commen_node_in_lists/first_common_node_in_lists.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_lists.cpp.s
+.PHONY : 52_first_commen_node_in_lists/first_common_node_in_lists.cpp.s
+
+53_binary_search_sorted_array/integer_identical_index.o: 53_binary_search_sorted_array/integer_identical_index.cpp.o
+
+.PHONY : 53_binary_search_sorted_array/integer_identical_index.o
+
+# target to build an object file
+53_binary_search_sorted_array/integer_identical_index.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/integer_identical_index.cpp.o
+.PHONY : 53_binary_search_sorted_array/integer_identical_index.cpp.o
+
+53_binary_search_sorted_array/integer_identical_index.i: 53_binary_search_sorted_array/integer_identical_index.cpp.i
+
+.PHONY : 53_binary_search_sorted_array/integer_identical_index.i
+
+# target to preprocess a source file
+53_binary_search_sorted_array/integer_identical_index.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/integer_identical_index.cpp.i
+.PHONY : 53_binary_search_sorted_array/integer_identical_index.cpp.i
+
+53_binary_search_sorted_array/integer_identical_index.s: 53_binary_search_sorted_array/integer_identical_index.cpp.s
+
+.PHONY : 53_binary_search_sorted_array/integer_identical_index.s
+
+# target to generate assembly for a file
+53_binary_search_sorted_array/integer_identical_index.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/integer_identical_index.cpp.s
+.PHONY : 53_binary_search_sorted_array/integer_identical_index.cpp.s
+
+53_binary_search_sorted_array/missing_number.o: 53_binary_search_sorted_array/missing_number.cpp.o
+
+.PHONY : 53_binary_search_sorted_array/missing_number.o
+
+# target to build an object file
+53_binary_search_sorted_array/missing_number.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/missing_number.cpp.o
+.PHONY : 53_binary_search_sorted_array/missing_number.cpp.o
+
+53_binary_search_sorted_array/missing_number.i: 53_binary_search_sorted_array/missing_number.cpp.i
+
+.PHONY : 53_binary_search_sorted_array/missing_number.i
+
+# target to preprocess a source file
+53_binary_search_sorted_array/missing_number.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/missing_number.cpp.i
+.PHONY : 53_binary_search_sorted_array/missing_number.cpp.i
+
+53_binary_search_sorted_array/missing_number.s: 53_binary_search_sorted_array/missing_number.cpp.s
+
+.PHONY : 53_binary_search_sorted_array/missing_number.s
+
+# target to generate assembly for a file
+53_binary_search_sorted_array/missing_number.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/missing_number.cpp.s
+.PHONY : 53_binary_search_sorted_array/missing_number.cpp.s
+
+53_binary_search_sorted_array/number_of_k.o: 53_binary_search_sorted_array/number_of_k.cpp.o
+
+.PHONY : 53_binary_search_sorted_array/number_of_k.o
+
+# target to build an object file
+53_binary_search_sorted_array/number_of_k.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/number_of_k.cpp.o
+.PHONY : 53_binary_search_sorted_array/number_of_k.cpp.o
+
+53_binary_search_sorted_array/number_of_k.i: 53_binary_search_sorted_array/number_of_k.cpp.i
+
+.PHONY : 53_binary_search_sorted_array/number_of_k.i
+
+# target to preprocess a source file
+53_binary_search_sorted_array/number_of_k.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/number_of_k.cpp.i
+.PHONY : 53_binary_search_sorted_array/number_of_k.cpp.i
+
+53_binary_search_sorted_array/number_of_k.s: 53_binary_search_sorted_array/number_of_k.cpp.s
+
+.PHONY : 53_binary_search_sorted_array/number_of_k.s
+
+# target to generate assembly for a file
+53_binary_search_sorted_array/number_of_k.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/number_of_k.cpp.s
+.PHONY : 53_binary_search_sorted_array/number_of_k.cpp.s
+
+54_kth_node_in_bst/kth_node_in_bst.o: 54_kth_node_in_bst/kth_node_in_bst.cpp.o
+
+.PHONY : 54_kth_node_in_bst/kth_node_in_bst.o
+
+# target to build an object file
+54_kth_node_in_bst/kth_node_in_bst.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/54_kth_node_in_bst/kth_node_in_bst.cpp.o
+.PHONY : 54_kth_node_in_bst/kth_node_in_bst.cpp.o
+
+54_kth_node_in_bst/kth_node_in_bst.i: 54_kth_node_in_bst/kth_node_in_bst.cpp.i
+
+.PHONY : 54_kth_node_in_bst/kth_node_in_bst.i
+
+# target to preprocess a source file
+54_kth_node_in_bst/kth_node_in_bst.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/54_kth_node_in_bst/kth_node_in_bst.cpp.i
+.PHONY : 54_kth_node_in_bst/kth_node_in_bst.cpp.i
+
+54_kth_node_in_bst/kth_node_in_bst.s: 54_kth_node_in_bst/kth_node_in_bst.cpp.s
+
+.PHONY : 54_kth_node_in_bst/kth_node_in_bst.s
+
+# target to generate assembly for a file
+54_kth_node_in_bst/kth_node_in_bst.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/54_kth_node_in_bst/kth_node_in_bst.cpp.s
+.PHONY : 54_kth_node_in_bst/kth_node_in_bst.cpp.s
+
+55_binary_tree_depth_and_balanced_binary_tree/binary_depth.o: 55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.o
+
+.PHONY : 55_binary_tree_depth_and_balanced_binary_tree/binary_depth.o
+
+# target to build an object file
+55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.o
+.PHONY : 55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.o
+
+55_binary_tree_depth_and_balanced_binary_tree/binary_depth.i: 55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.i
+
+.PHONY : 55_binary_tree_depth_and_balanced_binary_tree/binary_depth.i
+
+# target to preprocess a source file
+55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.i
+.PHONY : 55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.i
+
+55_binary_tree_depth_and_balanced_binary_tree/binary_depth.s: 55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.s
+
+.PHONY : 55_binary_tree_depth_and_balanced_binary_tree/binary_depth.s
+
+# target to generate assembly for a file
+55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.s
+.PHONY : 55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.s
+
+55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.o: 55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.o
+
+.PHONY : 55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.o
+
+# target to build an object file
+55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.o
+.PHONY : 55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.o
+
+55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.i: 55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.i
+
+.PHONY : 55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.i
+
+# target to preprocess a source file
+55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.i
+.PHONY : 55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.i
+
+55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.s: 55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.s
+
+.PHONY : 55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.s
+
+# target to generate assembly for a file
+55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.s
+.PHONY : 55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.s
+
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
 .PHONY : backtracking/path_in_matrix.o
@@ -1419,6 +1608,33 @@ utils/binary_tree.cpp.s:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.s
 .PHONY : utils/binary_tree.cpp.s
 
+utils/list_node.o: utils/list_node.cpp.o
+
+.PHONY : utils/list_node.o
+
+# target to build an object file
+utils/list_node.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/utils/list_node.cpp.o
+.PHONY : utils/list_node.cpp.o
+
+utils/list_node.i: utils/list_node.cpp.i
+
+.PHONY : utils/list_node.i
+
+# target to preprocess a source file
+utils/list_node.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/utils/list_node.cpp.i
+.PHONY : utils/list_node.cpp.i
+
+utils/list_node.s: utils/list_node.cpp.s
+
+.PHONY : utils/list_node.s
+
+# target to generate assembly for a file
+utils/list_node.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/utils/list_node.cpp.s
+.PHONY : utils/list_node.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -1533,6 +1749,27 @@ help:
 	@echo "... 51_inverse_pairs/inverse_pairs.o"
 	@echo "... 51_inverse_pairs/inverse_pairs.i"
 	@echo "... 51_inverse_pairs/inverse_pairs.s"
+	@echo "... 52_first_commen_node_in_lists/first_common_node_in_lists.o"
+	@echo "... 52_first_commen_node_in_lists/first_common_node_in_lists.i"
+	@echo "... 52_first_commen_node_in_lists/first_common_node_in_lists.s"
+	@echo "... 53_binary_search_sorted_array/integer_identical_index.o"
+	@echo "... 53_binary_search_sorted_array/integer_identical_index.i"
+	@echo "... 53_binary_search_sorted_array/integer_identical_index.s"
+	@echo "... 53_binary_search_sorted_array/missing_number.o"
+	@echo "... 53_binary_search_sorted_array/missing_number.i"
+	@echo "... 53_binary_search_sorted_array/missing_number.s"
+	@echo "... 53_binary_search_sorted_array/number_of_k.o"
+	@echo "... 53_binary_search_sorted_array/number_of_k.i"
+	@echo "... 53_binary_search_sorted_array/number_of_k.s"
+	@echo "... 54_kth_node_in_bst/kth_node_in_bst.o"
+	@echo "... 54_kth_node_in_bst/kth_node_in_bst.i"
+	@echo "... 54_kth_node_in_bst/kth_node_in_bst.s"
+	@echo "... 55_binary_tree_depth_and_balanced_binary_tree/binary_depth.o"
+	@echo "... 55_binary_tree_depth_and_balanced_binary_tree/binary_depth.i"
+	@echo "... 55_binary_tree_depth_and_balanced_binary_tree/binary_depth.s"
+	@echo "... 55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.o"
+	@echo "... 55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.i"
+	@echo "... 55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"
@@ -1572,6 +1809,9 @@ help:
 	@echo "... utils/binary_tree.o"
 	@echo "... utils/binary_tree.i"
 	@echo "... utils/binary_tree.s"
+	@echo "... utils/list_node.o"
+	@echo "... utils/list_node.i"
+	@echo "... utils/list_node.s"
 .PHONY : help
 
 

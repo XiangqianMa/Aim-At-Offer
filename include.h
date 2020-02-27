@@ -41,5 +41,8 @@
 #include "50_first_not_repeating_char/first_not_repeating_char.h"
 #include "50_first_not_repeating_char/find_first_not_repeating_char_in_stream.h"
 #include "51_inverse_pairs/inverse_pairs.h"
+#include "53_number_of_k_in_sorted_array/number_of_k.h"
+#include "53_number_of_k_in_sorted_array/missing_number.h"
+#include "53_number_of_k_in_sorted_array/integer_identical_index.h"
 
 #endif //AIM_AT_OFFER_INCLUDE_H

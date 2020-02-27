@@ -5,11 +5,7 @@
 #ifndef AIM_AT_OFFER_MERGE_TWO_SORTED_ARRAY_H
 #define AIM_AT_OFFER_MERGE_TWO_SORTED_ARRAY_H
 
-
-struct ListNode{
-    int val;
-    ListNode* next;
-};
+#include "../utils/list_node.h"
 
 ListNode* MergeTwoSortedList(ListNode* list_head_a, ListNode* list_node_b);
 ListNode* MergeTwoSortedListRecursive(ListNode* list_head_a, ListNode* list_head_b);

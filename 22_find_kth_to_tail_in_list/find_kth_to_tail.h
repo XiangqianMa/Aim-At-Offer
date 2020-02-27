@@ -6,13 +6,7 @@
 #define AIM_AT_OFFER_FIND_KTH_TO_TAIL_H
 
 #include <iostream>
-
-
-struct ListNode{
-    int val;
-    ListNode* next;
-};
-
+#include "../utils/list_node.h"
 
 ListNode* FindKthToTail(ListNode* list_head, unsigned int k);
 #endif //AIM_AT_OFFER_FIND_KTH_TO_TAIL_H

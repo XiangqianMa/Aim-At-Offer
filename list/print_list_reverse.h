@@ -7,14 +7,9 @@
 
 #include <stack>
 #include <iostream>
+#include "../utils/list_node.h"
 
 using namespace std;
-
-struct ListNode
-{
-    int m_nValue;
-    ListNode* m_pNext;
-};
 
 void add_to_tail(ListNode **list_head, int value);
 void print_list_reverse_iterative(ListNode *list_head);

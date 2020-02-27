@@ -11,9 +11,11 @@ CMakeFiles/Aim_At_Offer.dir/18_delete_list_node/delete_duplication.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/18_delete_list_node/delete_duplication.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/18_delete_list_node/delete_duplication.h
  /Volumes/数据/mxq/program/Aim-At-Offer/18_delete_list_node/delete_list_node.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/utils/list_node.h
 CMakeFiles/Aim_At_Offer.dir/18_delete_list_node/delete_list_node.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/18_delete_list_node/delete_list_node.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/18_delete_list_node/delete_list_node.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/utils/list_node.h
 CMakeFiles/Aim_At_Offer.dir/19_regular_expression_match/regular_expression_match.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/19_regular_expression_match/regular_expression_match.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/19_regular_expression_match/regular_expression_match.h
@@ -26,15 +28,19 @@ CMakeFiles/Aim_At_Offer.dir/21_reorder_odd_before_even/reorder_array.cpp.o
 CMakeFiles/Aim_At_Offer.dir/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/22_find_kth_to_tail_in_list/find_kth_to_tail.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/utils/list_node.h
 CMakeFiles/Aim_At_Offer.dir/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/23_find_entry_node_of_loop/find_entry_node_of_loop.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/utils/list_node.h
 CMakeFiles/Aim_At_Offer.dir/24_reverse_list/reverse_list.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/24_reverse_list/reverse_list.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/24_reverse_list/reverse_list.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/utils/list_node.h
 CMakeFiles/Aim_At_Offer.dir/25_merge_two_sorted_list/merge_two_sorted_array.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/25_merge_two_sorted_list/merge_two_sorted_array.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/25_merge_two_sorted_list/merge_two_sorted_array.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/utils/list_node.h
 CMakeFiles/Aim_At_Offer.dir/26_has_subtree/has_sub_tree.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/26_has_subtree/has_sub_tree.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/26_has_subtree/has_sub_tree.h
@@ -115,6 +121,19 @@ CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char
 CMakeFiles/Aim_At_Offer.dir/51_inverse_pairs/inverse_pairs.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/51_inverse_pairs/inverse_pairs.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/51_inverse_pairs/inverse_pairs.h
+CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_lists.cpp.o
+ /Volumes/数据/mxq/program/Aim-At-Offer/52_first_commen_node_in_lists/first_common_node_in_lists.cpp
+ /Volumes/数据/mxq/program/Aim-At-Offer/52_first_commen_node_in_lists/first_common_node_in_lists.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/utils/list_node.h
+CMakeFiles/Aim_At_Offer.dir/53_number_of_k_in_sorted_array/integer_identical_index.cpp.o
+ /Volumes/数据/mxq/program/Aim-At-Offer/53_number_of_k_in_sorted_array/integer_identical_index.cpp
+ /Volumes/数据/mxq/program/Aim-At-Offer/53_number_of_k_in_sorted_array/integer_identical_index.h
+CMakeFiles/Aim_At_Offer.dir/53_number_of_k_in_sorted_array/missing_number.cpp.o
+ /Volumes/数据/mxq/program/Aim-At-Offer/53_number_of_k_in_sorted_array/missing_number.cpp
+ /Volumes/数据/mxq/program/Aim-At-Offer/53_number_of_k_in_sorted_array/missing_number.h
+CMakeFiles/Aim_At_Offer.dir/53_number_of_k_in_sorted_array/number_of_k.cpp.o
+ /Volumes/数据/mxq/program/Aim-At-Offer/53_number_of_k_in_sorted_array/number_of_k.cpp
+ /Volumes/数据/mxq/program/Aim-At-Offer/53_number_of_k_in_sorted_array/number_of_k.h
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.h
@@ -136,6 +155,7 @@ CMakeFiles/Aim_At_Offer.dir/find_number_in_matrix/find_number_in_matrix.cpp.o
 CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/list/print_list_reverse.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/list/print_list_reverse.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/utils/list_node.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/16_power/power.h
  /Volumes/数据/mxq/program/Aim-At-Offer/17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.h
@@ -159,6 +179,9 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/find_first_not_repeating_char_in_stream.h
  /Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/first_not_repeating_char.h
  /Volumes/数据/mxq/program/Aim-At-Offer/51_inverse_pairs/inverse_pairs.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/53_number_of_k_in_sorted_array/integer_identical_index.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/53_number_of_k_in_sorted_array/missing_number.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/53_number_of_k_in_sorted_array/number_of_k.h
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.h
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/robot_attend_aray.h
  /Volumes/数据/mxq/program/Aim-At-Offer/duplicate_number/duplicate.h
@@ -171,6 +194,7 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/stack_and_queue/Queue.h
  /Volumes/数据/mxq/program/Aim-At-Offer/string/replace_black.h
  /Volumes/数据/mxq/program/Aim-At-Offer/utils/binary_tree.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/utils/list_node.h
 CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/stack_and_queue/Queue.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/stack_and_queue/Queue.h
@@ -187,3 +211,6 @@ CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o
 CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/utils/binary_tree.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/utils/binary_tree.h
+CMakeFiles/Aim_At_Offer.dir/utils/list_node.cpp.o
+ /Volumes/数据/mxq/program/Aim-At-Offer/utils/list_node.cpp
+ /Volumes/数据/mxq/program/Aim-At-Offer/utils/list_node.h

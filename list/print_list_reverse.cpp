@@ -11,16 +11,16 @@
 void add_to_tail(ListNode **list_head, int value)
 {
     auto *new_node = new ListNode();
-    new_node->m_nValue = value;
-    new_node->m_pNext = nullptr;
+    new_node->val = value;
+    new_node->next = nullptr;
 
     if(*list_head == nullptr)
         *list_head = new_node;
     else{
         ListNode *node = *list_head;
-        while(node->m_pNext != nullptr)
-            node=node->m_pNext;
-        node->m_pNext = new_node;
+        while(node->next != nullptr)
+            node=node->next;
+        node->next = new_node;
     }
 }
 
@@ -35,11 +35,11 @@ void print_list_reverse_iterative(ListNode *list_head)
     ListNode *node = list_head;
     while (node != nullptr){
         node_stack.push(node);
-        node = node->m_pNext;
+        node = node->next;
     }
     while(!node_stack.empty()){
         node = node_stack.top();
-        cout << node->m_nValue << endl;
+        cout << node->val << endl;
         node_stack.pop();
     }
 }
@@ -48,9 +48,9 @@ void print_list_reverse_iterative(ListNode *list_head)
 void print_list_reverse_recursive(ListNode *list_head)
 {
     if (list_head != nullptr){
-        if (list_head->m_pNext != nullptr){
-            print_list_reverse_recursive(list_head->m_pNext);
+        if (list_head->next != nullptr){
+            print_list_reverse_recursive(list_head->next);
         }
-        cout << list_head->m_nValue << endl;
+        cout << list_head->val << endl;
     }
 }

@@ -10,9 +10,11 @@ CMakeFiles/Aim_At_Offer.dir/17_print_1_to_max_of_n_digits/print_1_to_max_of_n_di
 CMakeFiles/Aim_At_Offer.dir/18_delete_list_node/delete_duplication.cpp.o: ../18_delete_list_node/delete_duplication.cpp
 CMakeFiles/Aim_At_Offer.dir/18_delete_list_node/delete_duplication.cpp.o: ../18_delete_list_node/delete_duplication.h
 CMakeFiles/Aim_At_Offer.dir/18_delete_list_node/delete_duplication.cpp.o: ../18_delete_list_node/delete_list_node.h
+CMakeFiles/Aim_At_Offer.dir/18_delete_list_node/delete_duplication.cpp.o: ../utils/list_node.h
 
 CMakeFiles/Aim_At_Offer.dir/18_delete_list_node/delete_list_node.cpp.o: ../18_delete_list_node/delete_list_node.cpp
 CMakeFiles/Aim_At_Offer.dir/18_delete_list_node/delete_list_node.cpp.o: ../18_delete_list_node/delete_list_node.h
+CMakeFiles/Aim_At_Offer.dir/18_delete_list_node/delete_list_node.cpp.o: ../utils/list_node.h
 
 CMakeFiles/Aim_At_Offer.dir/19_regular_expression_match/regular_expression_match.cpp.o: ../19_regular_expression_match/regular_expression_match.cpp
 CMakeFiles/Aim_At_Offer.dir/19_regular_expression_match/regular_expression_match.cpp.o: ../19_regular_expression_match/regular_expression_match.h
@@ -25,15 +27,19 @@ CMakeFiles/Aim_At_Offer.dir/21_reorder_odd_before_even/reorder_array.cpp.o: ../2
 
 CMakeFiles/Aim_At_Offer.dir/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.o: ../22_find_kth_to_tail_in_list/find_kth_to_tail.cpp
 CMakeFiles/Aim_At_Offer.dir/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.o: ../22_find_kth_to_tail_in_list/find_kth_to_tail.h
+CMakeFiles/Aim_At_Offer.dir/22_find_kth_to_tail_in_list/find_kth_to_tail.cpp.o: ../utils/list_node.h
 
 CMakeFiles/Aim_At_Offer.dir/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.o: ../23_find_entry_node_of_loop/find_entry_node_of_loop.cpp
 CMakeFiles/Aim_At_Offer.dir/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.o: ../23_find_entry_node_of_loop/find_entry_node_of_loop.h
+CMakeFiles/Aim_At_Offer.dir/23_find_entry_node_of_loop/find_entry_node_of_loop.cpp.o: ../utils/list_node.h
 
 CMakeFiles/Aim_At_Offer.dir/24_reverse_list/reverse_list.cpp.o: ../24_reverse_list/reverse_list.cpp
 CMakeFiles/Aim_At_Offer.dir/24_reverse_list/reverse_list.cpp.o: ../24_reverse_list/reverse_list.h
+CMakeFiles/Aim_At_Offer.dir/24_reverse_list/reverse_list.cpp.o: ../utils/list_node.h
 
 CMakeFiles/Aim_At_Offer.dir/25_merge_two_sorted_list/merge_two_sorted_array.cpp.o: ../25_merge_two_sorted_list/merge_two_sorted_array.cpp
 CMakeFiles/Aim_At_Offer.dir/25_merge_two_sorted_list/merge_two_sorted_array.cpp.o: ../25_merge_two_sorted_list/merge_two_sorted_array.h
+CMakeFiles/Aim_At_Offer.dir/25_merge_two_sorted_list/merge_two_sorted_array.cpp.o: ../utils/list_node.h
 
 CMakeFiles/Aim_At_Offer.dir/26_has_subtree/has_sub_tree.cpp.o: ../26_has_subtree/has_sub_tree.cpp
 CMakeFiles/Aim_At_Offer.dir/26_has_subtree/has_sub_tree.cpp.o: ../26_has_subtree/has_sub_tree.h
@@ -115,6 +121,19 @@ CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char
 CMakeFiles/Aim_At_Offer.dir/51_inverse_pairs/inverse_pairs.cpp.o: ../51_inverse_pairs/inverse_pairs.cpp
 CMakeFiles/Aim_At_Offer.dir/51_inverse_pairs/inverse_pairs.cpp.o: ../51_inverse_pairs/inverse_pairs.h
 
+CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_lists.cpp.o: ../52_first_commen_node_in_lists/first_common_node_in_lists.cpp
+CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_lists.cpp.o: ../52_first_commen_node_in_lists/first_common_node_in_lists.h
+CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_lists.cpp.o: ../utils/list_node.h
+
+CMakeFiles/Aim_At_Offer.dir/53_number_of_k_in_sorted_array/integer_identical_index.cpp.o: ../53_number_of_k_in_sorted_array/integer_identical_index.cpp
+CMakeFiles/Aim_At_Offer.dir/53_number_of_k_in_sorted_array/integer_identical_index.cpp.o: ../53_number_of_k_in_sorted_array/integer_identical_index.h
+
+CMakeFiles/Aim_At_Offer.dir/53_number_of_k_in_sorted_array/missing_number.cpp.o: ../53_number_of_k_in_sorted_array/missing_number.cpp
+CMakeFiles/Aim_At_Offer.dir/53_number_of_k_in_sorted_array/missing_number.cpp.o: ../53_number_of_k_in_sorted_array/missing_number.h
+
+CMakeFiles/Aim_At_Offer.dir/53_number_of_k_in_sorted_array/number_of_k.cpp.o: ../53_number_of_k_in_sorted_array/number_of_k.cpp
+CMakeFiles/Aim_At_Offer.dir/53_number_of_k_in_sorted_array/number_of_k.cpp.o: ../53_number_of_k_in_sorted_array/number_of_k.h
+
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.cpp
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.h
 
@@ -135,6 +154,7 @@ CMakeFiles/Aim_At_Offer.dir/find_number_in_matrix/find_number_in_matrix.cpp.o: .
 
 CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o: ../list/print_list_reverse.cpp
 CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o: ../list/print_list_reverse.h
+CMakeFiles/Aim_At_Offer.dir/list/print_list_reverse.cpp.o: ../utils/list_node.h
 
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../16_power/power.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../17_print_1_to_max_of_n_digits/print_1_to_max_of_n_digits.h
@@ -158,6 +178,9 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../49_ugly_number/get_ugly_number.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../50_first_not_repeating_char/find_first_not_repeating_char_in_stream.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../50_first_not_repeating_char/first_not_repeating_char.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../51_inverse_pairs/inverse_pairs.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../53_number_of_k_in_sorted_array/integer_identical_index.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../53_number_of_k_in_sorted_array/missing_number.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../53_number_of_k_in_sorted_array/number_of_k.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/path_in_matrix.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/robot_attend_aray.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../duplicate_number/duplicate.h
@@ -170,6 +193,7 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../main.cpp
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../stack_and_queue/Queue.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../string/replace_black.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../utils/binary_tree.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../utils/list_node.h
 
 CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.o: ../stack_and_queue/Queue.cpp
 CMakeFiles/Aim_At_Offer.dir/stack_and_queue/Queue.cpp.o: ../stack_and_queue/Queue.h
@@ -186,4 +210,7 @@ CMakeFiles/Aim_At_Offer.dir/tree/construct_tree.cpp.o: ../utils/binary_tree.h
 
 CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.o: ../utils/binary_tree.cpp
 CMakeFiles/Aim_At_Offer.dir/utils/binary_tree.cpp.o: ../utils/binary_tree.h
+
+CMakeFiles/Aim_At_Offer.dir/utils/list_node.cpp.o: ../utils/list_node.cpp
+CMakeFiles/Aim_At_Offer.dir/utils/list_node.cpp.o: ../utils/list_node.h
 

@@ -299,6 +299,48 @@
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/51_inverse_pairs/inverse_pairs.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/52_first_commen_node_in_lists/first_common_node_in_lists.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/52_first_commen_node_in_lists/first_common_node_in_lists.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/53_binary_search_sorted_array/integer_identical_index.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/53_binary_search_sorted_array/integer_identical_index.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/53_binary_search_sorted_array/missing_number.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/53_binary_search_sorted_array/missing_number.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/53_binary_search_sorted_array/number_of_k.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/53_binary_search_sorted_array/number_of_k.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/54_kth_node_in_bst/kth_node_in_bst.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/54_kth_node_in_bst/kth_node_in_bst.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
@@ -375,6 +417,12 @@
 			<Option target="Aim_At_Offer"/>
 		</Unit>
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/utils/binary_tree.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/utils/list_node.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/utils/list_node.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/CMakeLists.txt">

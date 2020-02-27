@@ -681,6 +681,110 @@ CMakeFiles/Aim_At_Offer.dir/51_inverse_pairs/inverse_pairs.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/51_inverse_pairs/inverse_pairs.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/51_inverse_pairs/inverse_pairs.cpp -o CMakeFiles/Aim_At_Offer.dir/51_inverse_pairs/inverse_pairs.cpp.s
 
+CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_lists.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_lists.cpp.o: ../52_first_commen_node_in_lists/first_common_node_in_lists.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_lists.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_lists.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/52_first_commen_node_in_lists/first_common_node_in_lists.cpp
+
+CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_lists.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_lists.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/52_first_commen_node_in_lists/first_common_node_in_lists.cpp > CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_lists.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_lists.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_lists.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/52_first_commen_node_in_lists/first_common_node_in_lists.cpp -o CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_lists.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/utils/list_node.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/utils/list_node.cpp.o: ../utils/list_node.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/Aim_At_Offer.dir/utils/list_node.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/utils/list_node.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/utils/list_node.cpp
+
+CMakeFiles/Aim_At_Offer.dir/utils/list_node.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/utils/list_node.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/utils/list_node.cpp > CMakeFiles/Aim_At_Offer.dir/utils/list_node.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/utils/list_node.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/utils/list_node.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/utils/list_node.cpp -o CMakeFiles/Aim_At_Offer.dir/utils/list_node.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/number_of_k.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/number_of_k.cpp.o: ../53_binary_search_sorted_array/number_of_k.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/number_of_k.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/number_of_k.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/53_binary_search_sorted_array/number_of_k.cpp
+
+CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/number_of_k.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/number_of_k.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/53_binary_search_sorted_array/number_of_k.cpp > CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/number_of_k.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/number_of_k.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/number_of_k.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/53_binary_search_sorted_array/number_of_k.cpp -o CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/number_of_k.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/missing_number.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/missing_number.cpp.o: ../53_binary_search_sorted_array/missing_number.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/missing_number.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/missing_number.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/53_binary_search_sorted_array/missing_number.cpp
+
+CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/missing_number.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/missing_number.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/53_binary_search_sorted_array/missing_number.cpp > CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/missing_number.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/missing_number.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/missing_number.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/53_binary_search_sorted_array/missing_number.cpp -o CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/missing_number.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/integer_identical_index.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/integer_identical_index.cpp.o: ../53_binary_search_sorted_array/integer_identical_index.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/integer_identical_index.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/integer_identical_index.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/53_binary_search_sorted_array/integer_identical_index.cpp
+
+CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/integer_identical_index.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/integer_identical_index.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/53_binary_search_sorted_array/integer_identical_index.cpp > CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/integer_identical_index.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/integer_identical_index.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/integer_identical_index.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/53_binary_search_sorted_array/integer_identical_index.cpp -o CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/integer_identical_index.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/54_kth_node_in_bst/kth_node_in_bst.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/54_kth_node_in_bst/kth_node_in_bst.cpp.o: ../54_kth_node_in_bst/kth_node_in_bst.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/Aim_At_Offer.dir/54_kth_node_in_bst/kth_node_in_bst.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/54_kth_node_in_bst/kth_node_in_bst.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/54_kth_node_in_bst/kth_node_in_bst.cpp
+
+CMakeFiles/Aim_At_Offer.dir/54_kth_node_in_bst/kth_node_in_bst.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/54_kth_node_in_bst/kth_node_in_bst.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/54_kth_node_in_bst/kth_node_in_bst.cpp > CMakeFiles/Aim_At_Offer.dir/54_kth_node_in_bst/kth_node_in_bst.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/54_kth_node_in_bst/kth_node_in_bst.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/54_kth_node_in_bst/kth_node_in_bst.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/54_kth_node_in_bst/kth_node_in_bst.cpp -o CMakeFiles/Aim_At_Offer.dir/54_kth_node_in_bst/kth_node_in_bst.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.o: ../55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp
+
+CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp > CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp -o CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.o: ../55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp
+
+CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp > CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp -o CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.s
+
 # Object files for target Aim_At_Offer
 Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/main.cpp.o" \
@@ -730,7 +834,15 @@ Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplication/longest_substring_without_duplication.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.o" \
-"CMakeFiles/Aim_At_Offer.dir/51_inverse_pairs/inverse_pairs.cpp.o"
+"CMakeFiles/Aim_At_Offer.dir/51_inverse_pairs/inverse_pairs.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_lists.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/utils/list_node.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/number_of_k.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/missing_number.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/integer_identical_index.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/54_kth_node_in_bst/kth_node_in_bst.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.o"
 
 # External object files for target Aim_At_Offer
 Aim_At_Offer_EXTERNAL_OBJECTS =
@@ -783,9 +895,17 @@ Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/48_longest_substring_without_duplicati
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/49_ugly_number/get_ugly_number.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/50_first_not_repeating_char/first_not_repeating_char.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/51_inverse_pairs/inverse_pairs.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_lists.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/utils/list_node.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/number_of_k.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/missing_number.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/integer_identical_index.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/54_kth_node_in_bst/kth_node_in_bst.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/build.make
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Linking CXX executable Aim_At_Offer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Linking CXX executable Aim_At_Offer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Aim_At_Offer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

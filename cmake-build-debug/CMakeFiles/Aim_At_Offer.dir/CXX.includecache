@@ -120,6 +120,18 @@ vector
 algorithm
 -
 
+/Volumes/数据/mxq/program/Aim-At-Offer/53_number_of_k_in_sorted_array/integer_identical_index.h
+vector
+-
+
+/Volumes/数据/mxq/program/Aim-At-Offer/53_number_of_k_in_sorted_array/missing_number.h
+vector
+-
+
+/Volumes/数据/mxq/program/Aim-At-Offer/53_number_of_k_in_sorted_array/number_of_k.h
+vector
+-
+
 /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.h
 iostream
 -
@@ -223,12 +235,20 @@ utils/binary_tree.h
 /Volumes/数据/mxq/program/Aim-At-Offer/50_first_not_repeating_char/find_first_not_repeating_char_in_stream.h
 51_inverse_pairs/inverse_pairs.h
 /Volumes/数据/mxq/program/Aim-At-Offer/51_inverse_pairs/inverse_pairs.h
+53_number_of_k_in_sorted_array/number_of_k.h
+/Volumes/数据/mxq/program/Aim-At-Offer/53_number_of_k_in_sorted_array/number_of_k.h
+53_number_of_k_in_sorted_array/missing_number.h
+/Volumes/数据/mxq/program/Aim-At-Offer/53_number_of_k_in_sorted_array/missing_number.h
+53_number_of_k_in_sorted_array/integer_identical_index.h
+/Volumes/数据/mxq/program/Aim-At-Offer/53_number_of_k_in_sorted_array/integer_identical_index.h
 
 /Volumes/数据/mxq/program/Aim-At-Offer/list/print_list_reverse.h
 stack
 -
 iostream
 -
+../utils/list_node.h
+/Volumes/数据/mxq/program/Aim-At-Offer/utils/list_node.h
 
 /Volumes/数据/mxq/program/Aim-At-Offer/main.cpp
 include.h
@@ -243,4 +263,6 @@ iostream
 -
 
 /Volumes/数据/mxq/program/Aim-At-Offer/utils/binary_tree.h
+
+/Volumes/数据/mxq/program/Aim-At-Offer/utils/list_node.h
 
