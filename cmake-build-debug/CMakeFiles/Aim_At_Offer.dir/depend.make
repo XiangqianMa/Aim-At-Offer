@@ -125,14 +125,32 @@ CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_l
 CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_lists.cpp.o: ../52_first_commen_node_in_lists/first_common_node_in_lists.h
 CMakeFiles/Aim_At_Offer.dir/52_first_commen_node_in_lists/first_common_node_in_lists.cpp.o: ../utils/list_node.h
 
-CMakeFiles/Aim_At_Offer.dir/53_number_of_k_in_sorted_array/integer_identical_index.cpp.o: ../53_number_of_k_in_sorted_array/integer_identical_index.cpp
-CMakeFiles/Aim_At_Offer.dir/53_number_of_k_in_sorted_array/integer_identical_index.cpp.o: ../53_number_of_k_in_sorted_array/integer_identical_index.h
+CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/integer_identical_index.cpp.o: ../53_binary_search_sorted_array/integer_identical_index.cpp
+CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/integer_identical_index.cpp.o: ../53_binary_search_sorted_array/integer_identical_index.h
 
-CMakeFiles/Aim_At_Offer.dir/53_number_of_k_in_sorted_array/missing_number.cpp.o: ../53_number_of_k_in_sorted_array/missing_number.cpp
-CMakeFiles/Aim_At_Offer.dir/53_number_of_k_in_sorted_array/missing_number.cpp.o: ../53_number_of_k_in_sorted_array/missing_number.h
+CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/missing_number.cpp.o: ../53_binary_search_sorted_array/missing_number.cpp
+CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/missing_number.cpp.o: ../53_binary_search_sorted_array/missing_number.h
 
-CMakeFiles/Aim_At_Offer.dir/53_number_of_k_in_sorted_array/number_of_k.cpp.o: ../53_number_of_k_in_sorted_array/number_of_k.cpp
-CMakeFiles/Aim_At_Offer.dir/53_number_of_k_in_sorted_array/number_of_k.cpp.o: ../53_number_of_k_in_sorted_array/number_of_k.h
+CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/number_of_k.cpp.o: ../53_binary_search_sorted_array/number_of_k.cpp
+CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/number_of_k.cpp.o: ../53_binary_search_sorted_array/number_of_k.h
+
+CMakeFiles/Aim_At_Offer.dir/54_kth_node_in_bst/kth_node_in_bst.cpp.o: ../54_kth_node_in_bst/kth_node_in_bst.cpp
+CMakeFiles/Aim_At_Offer.dir/54_kth_node_in_bst/kth_node_in_bst.cpp.o: ../54_kth_node_in_bst/kth_node_in_bst.h
+CMakeFiles/Aim_At_Offer.dir/54_kth_node_in_bst/kth_node_in_bst.cpp.o: ../utils/binary_tree.h
+
+CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.o: ../55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp
+CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.o: ../55_binary_tree_depth_and_balanced_binary_tree/binary_depth.h
+CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.o: ../utils/binary_tree.h
+
+CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.o: ../55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp
+CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.o: ../55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.h
+CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.o: ../utils/binary_tree.h
+
+CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.o: ../56_number_appears_times_in_array/number_appear_once.cpp
+CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.o: ../56_number_appears_times_in_array/number_appear_once.h
+
+CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.o: ../56_number_appears_times_in_array/two_numbers_appear_once.cpp
+CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.o: ../56_number_appears_times_in_array/two_numbers_appear_once.h
 
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.cpp
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.h
@@ -178,9 +196,11 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../49_ugly_number/get_ugly_number.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../50_first_not_repeating_char/find_first_not_repeating_char_in_stream.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../50_first_not_repeating_char/first_not_repeating_char.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../51_inverse_pairs/inverse_pairs.h
-CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../53_number_of_k_in_sorted_array/integer_identical_index.h
-CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../53_number_of_k_in_sorted_array/missing_number.h
-CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../53_number_of_k_in_sorted_array/number_of_k.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../53_binary_search_sorted_array/integer_identical_index.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../53_binary_search_sorted_array/missing_number.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../53_binary_search_sorted_array/number_of_k.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../56_number_appears_times_in_array/number_appear_once.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../56_number_appears_times_in_array/two_numbers_appear_once.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/path_in_matrix.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/robot_attend_aray.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../duplicate_number/duplicate.h

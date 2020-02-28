@@ -785,6 +785,32 @@ CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_bal
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp -o CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.s
 
+CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.o: ../56_number_appears_times_in_array/two_numbers_appear_once.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/56_number_appears_times_in_array/two_numbers_appear_once.cpp
+
+CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/56_number_appears_times_in_array/two_numbers_appear_once.cpp > CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/56_number_appears_times_in_array/two_numbers_appear_once.cpp -o CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.o: ../56_number_appears_times_in_array/number_appear_once.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/56_number_appears_times_in_array/number_appear_once.cpp
+
+CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/56_number_appears_times_in_array/number_appear_once.cpp > CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/56_number_appears_times_in_array/number_appear_once.cpp -o CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.s
+
 # Object files for target Aim_At_Offer
 Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/main.cpp.o" \
@@ -842,7 +868,9 @@ Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/integer_identical_index.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/54_kth_node_in_bst/kth_node_in_bst.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.o" \
-"CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.o"
+"CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.o"
 
 # External object files for target Aim_At_Offer
 Aim_At_Offer_EXTERNAL_OBJECTS =
@@ -903,9 +931,11 @@ Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/53_binary_search_sorted_array/integer_
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/54_kth_node_in_bst/kth_node_in_bst.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/build.make
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Linking CXX executable Aim_At_Offer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Linking CXX executable Aim_At_Offer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Aim_At_Offer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

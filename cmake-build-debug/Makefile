@@ -1257,6 +1257,60 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.s
 .PHONY : 55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.s
 
+56_number_appears_times_in_array/number_appear_once.o: 56_number_appears_times_in_array/number_appear_once.cpp.o
+
+.PHONY : 56_number_appears_times_in_array/number_appear_once.o
+
+# target to build an object file
+56_number_appears_times_in_array/number_appear_once.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.o
+.PHONY : 56_number_appears_times_in_array/number_appear_once.cpp.o
+
+56_number_appears_times_in_array/number_appear_once.i: 56_number_appears_times_in_array/number_appear_once.cpp.i
+
+.PHONY : 56_number_appears_times_in_array/number_appear_once.i
+
+# target to preprocess a source file
+56_number_appears_times_in_array/number_appear_once.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.i
+.PHONY : 56_number_appears_times_in_array/number_appear_once.cpp.i
+
+56_number_appears_times_in_array/number_appear_once.s: 56_number_appears_times_in_array/number_appear_once.cpp.s
+
+.PHONY : 56_number_appears_times_in_array/number_appear_once.s
+
+# target to generate assembly for a file
+56_number_appears_times_in_array/number_appear_once.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.s
+.PHONY : 56_number_appears_times_in_array/number_appear_once.cpp.s
+
+56_number_appears_times_in_array/two_numbers_appear_once.o: 56_number_appears_times_in_array/two_numbers_appear_once.cpp.o
+
+.PHONY : 56_number_appears_times_in_array/two_numbers_appear_once.o
+
+# target to build an object file
+56_number_appears_times_in_array/two_numbers_appear_once.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.o
+.PHONY : 56_number_appears_times_in_array/two_numbers_appear_once.cpp.o
+
+56_number_appears_times_in_array/two_numbers_appear_once.i: 56_number_appears_times_in_array/two_numbers_appear_once.cpp.i
+
+.PHONY : 56_number_appears_times_in_array/two_numbers_appear_once.i
+
+# target to preprocess a source file
+56_number_appears_times_in_array/two_numbers_appear_once.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.i
+.PHONY : 56_number_appears_times_in_array/two_numbers_appear_once.cpp.i
+
+56_number_appears_times_in_array/two_numbers_appear_once.s: 56_number_appears_times_in_array/two_numbers_appear_once.cpp.s
+
+.PHONY : 56_number_appears_times_in_array/two_numbers_appear_once.s
+
+# target to generate assembly for a file
+56_number_appears_times_in_array/two_numbers_appear_once.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.s
+.PHONY : 56_number_appears_times_in_array/two_numbers_appear_once.cpp.s
+
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
 .PHONY : backtracking/path_in_matrix.o
@@ -1770,6 +1824,12 @@ help:
 	@echo "... 55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.o"
 	@echo "... 55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.i"
 	@echo "... 55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.s"
+	@echo "... 56_number_appears_times_in_array/number_appear_once.o"
+	@echo "... 56_number_appears_times_in_array/number_appear_once.i"
+	@echo "... 56_number_appears_times_in_array/number_appear_once.s"
+	@echo "... 56_number_appears_times_in_array/two_numbers_appear_once.o"
+	@echo "... 56_number_appears_times_in_array/two_numbers_appear_once.i"
+	@echo "... 56_number_appears_times_in_array/two_numbers_appear_once.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"

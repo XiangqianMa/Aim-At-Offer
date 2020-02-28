@@ -43,6 +43,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Aim_At_Offer.dir/54_kth_node_in_bst/kth_node_in_bst.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.o"
+  "CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.o"
+  "CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/backtracking/robot_attend_aray.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.o"
