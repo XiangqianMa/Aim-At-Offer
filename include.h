@@ -46,5 +46,10 @@
 #include "53_binary_search_sorted_array/integer_identical_index.h"
 #include "56_number_appears_times_in_array/two_numbers_appear_once.h"
 #include "56_number_appears_times_in_array/number_appear_once.h"
+#include "57_sum_equal_s/two_numbers_with_sum.h"
+#include "57_sum_equal_s/continuous_sequence_with_sum.h"
+#include "58_reverse_string/reverse_sentence.h"
+#include "58_reverse_string/left_rotate_string.h"
+#include "59_max_value_in_queue/max_in_sliding_window.h"
 
 #endif //AIM_AT_OFFER_INCLUDE_H

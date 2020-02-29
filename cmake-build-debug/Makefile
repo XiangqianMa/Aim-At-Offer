@@ -1311,6 +1311,141 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.s
 .PHONY : 56_number_appears_times_in_array/two_numbers_appear_once.cpp.s
 
+57_sum_equal_s/continuous_sequence_with_sum.o: 57_sum_equal_s/continuous_sequence_with_sum.cpp.o
+
+.PHONY : 57_sum_equal_s/continuous_sequence_with_sum.o
+
+# target to build an object file
+57_sum_equal_s/continuous_sequence_with_sum.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/continuous_sequence_with_sum.cpp.o
+.PHONY : 57_sum_equal_s/continuous_sequence_with_sum.cpp.o
+
+57_sum_equal_s/continuous_sequence_with_sum.i: 57_sum_equal_s/continuous_sequence_with_sum.cpp.i
+
+.PHONY : 57_sum_equal_s/continuous_sequence_with_sum.i
+
+# target to preprocess a source file
+57_sum_equal_s/continuous_sequence_with_sum.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/continuous_sequence_with_sum.cpp.i
+.PHONY : 57_sum_equal_s/continuous_sequence_with_sum.cpp.i
+
+57_sum_equal_s/continuous_sequence_with_sum.s: 57_sum_equal_s/continuous_sequence_with_sum.cpp.s
+
+.PHONY : 57_sum_equal_s/continuous_sequence_with_sum.s
+
+# target to generate assembly for a file
+57_sum_equal_s/continuous_sequence_with_sum.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/continuous_sequence_with_sum.cpp.s
+.PHONY : 57_sum_equal_s/continuous_sequence_with_sum.cpp.s
+
+57_sum_equal_s/two_numbers_with_sum.o: 57_sum_equal_s/two_numbers_with_sum.cpp.o
+
+.PHONY : 57_sum_equal_s/two_numbers_with_sum.o
+
+# target to build an object file
+57_sum_equal_s/two_numbers_with_sum.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/two_numbers_with_sum.cpp.o
+.PHONY : 57_sum_equal_s/two_numbers_with_sum.cpp.o
+
+57_sum_equal_s/two_numbers_with_sum.i: 57_sum_equal_s/two_numbers_with_sum.cpp.i
+
+.PHONY : 57_sum_equal_s/two_numbers_with_sum.i
+
+# target to preprocess a source file
+57_sum_equal_s/two_numbers_with_sum.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/two_numbers_with_sum.cpp.i
+.PHONY : 57_sum_equal_s/two_numbers_with_sum.cpp.i
+
+57_sum_equal_s/two_numbers_with_sum.s: 57_sum_equal_s/two_numbers_with_sum.cpp.s
+
+.PHONY : 57_sum_equal_s/two_numbers_with_sum.s
+
+# target to generate assembly for a file
+57_sum_equal_s/two_numbers_with_sum.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/two_numbers_with_sum.cpp.s
+.PHONY : 57_sum_equal_s/two_numbers_with_sum.cpp.s
+
+58_reverse_string/left_rotate_string.o: 58_reverse_string/left_rotate_string.cpp.o
+
+.PHONY : 58_reverse_string/left_rotate_string.o
+
+# target to build an object file
+58_reverse_string/left_rotate_string.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/58_reverse_string/left_rotate_string.cpp.o
+.PHONY : 58_reverse_string/left_rotate_string.cpp.o
+
+58_reverse_string/left_rotate_string.i: 58_reverse_string/left_rotate_string.cpp.i
+
+.PHONY : 58_reverse_string/left_rotate_string.i
+
+# target to preprocess a source file
+58_reverse_string/left_rotate_string.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/58_reverse_string/left_rotate_string.cpp.i
+.PHONY : 58_reverse_string/left_rotate_string.cpp.i
+
+58_reverse_string/left_rotate_string.s: 58_reverse_string/left_rotate_string.cpp.s
+
+.PHONY : 58_reverse_string/left_rotate_string.s
+
+# target to generate assembly for a file
+58_reverse_string/left_rotate_string.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/58_reverse_string/left_rotate_string.cpp.s
+.PHONY : 58_reverse_string/left_rotate_string.cpp.s
+
+58_reverse_string/reverse_sentence.o: 58_reverse_string/reverse_sentence.cpp.o
+
+.PHONY : 58_reverse_string/reverse_sentence.o
+
+# target to build an object file
+58_reverse_string/reverse_sentence.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/58_reverse_string/reverse_sentence.cpp.o
+.PHONY : 58_reverse_string/reverse_sentence.cpp.o
+
+58_reverse_string/reverse_sentence.i: 58_reverse_string/reverse_sentence.cpp.i
+
+.PHONY : 58_reverse_string/reverse_sentence.i
+
+# target to preprocess a source file
+58_reverse_string/reverse_sentence.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/58_reverse_string/reverse_sentence.cpp.i
+.PHONY : 58_reverse_string/reverse_sentence.cpp.i
+
+58_reverse_string/reverse_sentence.s: 58_reverse_string/reverse_sentence.cpp.s
+
+.PHONY : 58_reverse_string/reverse_sentence.s
+
+# target to generate assembly for a file
+58_reverse_string/reverse_sentence.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/58_reverse_string/reverse_sentence.cpp.s
+.PHONY : 58_reverse_string/reverse_sentence.cpp.s
+
+59_max_value_in_queue/max_in_sliding_window.o: 59_max_value_in_queue/max_in_sliding_window.cpp.o
+
+.PHONY : 59_max_value_in_queue/max_in_sliding_window.o
+
+# target to build an object file
+59_max_value_in_queue/max_in_sliding_window.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.o
+.PHONY : 59_max_value_in_queue/max_in_sliding_window.cpp.o
+
+59_max_value_in_queue/max_in_sliding_window.i: 59_max_value_in_queue/max_in_sliding_window.cpp.i
+
+.PHONY : 59_max_value_in_queue/max_in_sliding_window.i
+
+# target to preprocess a source file
+59_max_value_in_queue/max_in_sliding_window.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.i
+.PHONY : 59_max_value_in_queue/max_in_sliding_window.cpp.i
+
+59_max_value_in_queue/max_in_sliding_window.s: 59_max_value_in_queue/max_in_sliding_window.cpp.s
+
+.PHONY : 59_max_value_in_queue/max_in_sliding_window.s
+
+# target to generate assembly for a file
+59_max_value_in_queue/max_in_sliding_window.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.s
+.PHONY : 59_max_value_in_queue/max_in_sliding_window.cpp.s
+
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
 .PHONY : backtracking/path_in_matrix.o
@@ -1830,6 +1965,21 @@ help:
 	@echo "... 56_number_appears_times_in_array/two_numbers_appear_once.o"
 	@echo "... 56_number_appears_times_in_array/two_numbers_appear_once.i"
 	@echo "... 56_number_appears_times_in_array/two_numbers_appear_once.s"
+	@echo "... 57_sum_equal_s/continuous_sequence_with_sum.o"
+	@echo "... 57_sum_equal_s/continuous_sequence_with_sum.i"
+	@echo "... 57_sum_equal_s/continuous_sequence_with_sum.s"
+	@echo "... 57_sum_equal_s/two_numbers_with_sum.o"
+	@echo "... 57_sum_equal_s/two_numbers_with_sum.i"
+	@echo "... 57_sum_equal_s/two_numbers_with_sum.s"
+	@echo "... 58_reverse_string/left_rotate_string.o"
+	@echo "... 58_reverse_string/left_rotate_string.i"
+	@echo "... 58_reverse_string/left_rotate_string.s"
+	@echo "... 58_reverse_string/reverse_sentence.o"
+	@echo "... 58_reverse_string/reverse_sentence.i"
+	@echo "... 58_reverse_string/reverse_sentence.s"
+	@echo "... 59_max_value_in_queue/max_in_sliding_window.o"
+	@echo "... 59_max_value_in_queue/max_in_sliding_window.i"
+	@echo "... 59_max_value_in_queue/max_in_sliding_window.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"

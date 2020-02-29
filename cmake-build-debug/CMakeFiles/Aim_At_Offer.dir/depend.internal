@@ -152,6 +152,22 @@ CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.
 CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/56_number_appears_times_in_array/two_numbers_appear_once.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/56_number_appears_times_in_array/two_numbers_appear_once.h
+CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/continuous_sequence_with_sum.cpp.o
+ /Volumes/数据/mxq/program/Aim-At-Offer/57_sum_equal_s/continuous_sequence_with_sum.cpp
+ /Volumes/数据/mxq/program/Aim-At-Offer/57_sum_equal_s/continuous_sequence_with_sum.h
+CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/two_numbers_with_sum.cpp.o
+ /Volumes/数据/mxq/program/Aim-At-Offer/57_sum_equal_s/two_numbers_with_sum.cpp
+ /Volumes/数据/mxq/program/Aim-At-Offer/57_sum_equal_s/two_numbers_with_sum.h
+CMakeFiles/Aim_At_Offer.dir/58_reverse_string/left_rotate_string.cpp.o
+ /Volumes/数据/mxq/program/Aim-At-Offer/58_reverse_string/left_rotate_string.cpp
+ /Volumes/数据/mxq/program/Aim-At-Offer/58_reverse_string/left_rotate_string.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/58_reverse_string/reverse_sentence.h
+CMakeFiles/Aim_At_Offer.dir/58_reverse_string/reverse_sentence.cpp.o
+ /Volumes/数据/mxq/program/Aim-At-Offer/58_reverse_string/reverse_sentence.cpp
+ /Volumes/数据/mxq/program/Aim-At-Offer/58_reverse_string/reverse_sentence.h
+CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.o
+ /Volumes/数据/mxq/program/Aim-At-Offer/59_max_value_in_queue/max_in_sliding_window.cpp
+ /Volumes/数据/mxq/program/Aim-At-Offer/59_max_value_in_queue/max_in_sliding_window.h
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.cpp
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.h
@@ -202,6 +218,11 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o
  /Volumes/数据/mxq/program/Aim-At-Offer/53_binary_search_sorted_array/number_of_k.h
  /Volumes/数据/mxq/program/Aim-At-Offer/56_number_appears_times_in_array/number_appear_once.h
  /Volumes/数据/mxq/program/Aim-At-Offer/56_number_appears_times_in_array/two_numbers_appear_once.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/57_sum_equal_s/continuous_sequence_with_sum.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/57_sum_equal_s/two_numbers_with_sum.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/58_reverse_string/left_rotate_string.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/58_reverse_string/reverse_sentence.h
+ /Volumes/数据/mxq/program/Aim-At-Offer/59_max_value_in_queue/max_in_sliding_window.h
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.h
  /Volumes/数据/mxq/program/Aim-At-Offer/backtracking/robot_attend_aray.h
  /Volumes/数据/mxq/program/Aim-At-Offer/duplicate_number/duplicate.h

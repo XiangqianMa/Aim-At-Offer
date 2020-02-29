@@ -811,6 +811,71 @@ CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/56_number_appears_times_in_array/number_appear_once.cpp -o CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.s
 
+CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/two_numbers_with_sum.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/two_numbers_with_sum.cpp.o: ../57_sum_equal_s/two_numbers_with_sum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/two_numbers_with_sum.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/two_numbers_with_sum.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/57_sum_equal_s/two_numbers_with_sum.cpp
+
+CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/two_numbers_with_sum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/two_numbers_with_sum.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/57_sum_equal_s/two_numbers_with_sum.cpp > CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/two_numbers_with_sum.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/two_numbers_with_sum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/two_numbers_with_sum.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/57_sum_equal_s/two_numbers_with_sum.cpp -o CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/two_numbers_with_sum.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/continuous_sequence_with_sum.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/continuous_sequence_with_sum.cpp.o: ../57_sum_equal_s/continuous_sequence_with_sum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/continuous_sequence_with_sum.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/continuous_sequence_with_sum.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/57_sum_equal_s/continuous_sequence_with_sum.cpp
+
+CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/continuous_sequence_with_sum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/continuous_sequence_with_sum.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/57_sum_equal_s/continuous_sequence_with_sum.cpp > CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/continuous_sequence_with_sum.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/continuous_sequence_with_sum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/continuous_sequence_with_sum.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/57_sum_equal_s/continuous_sequence_with_sum.cpp -o CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/continuous_sequence_with_sum.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/58_reverse_string/reverse_sentence.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/58_reverse_string/reverse_sentence.cpp.o: ../58_reverse_string/reverse_sentence.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/Aim_At_Offer.dir/58_reverse_string/reverse_sentence.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/58_reverse_string/reverse_sentence.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/58_reverse_string/reverse_sentence.cpp
+
+CMakeFiles/Aim_At_Offer.dir/58_reverse_string/reverse_sentence.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/58_reverse_string/reverse_sentence.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/58_reverse_string/reverse_sentence.cpp > CMakeFiles/Aim_At_Offer.dir/58_reverse_string/reverse_sentence.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/58_reverse_string/reverse_sentence.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/58_reverse_string/reverse_sentence.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/58_reverse_string/reverse_sentence.cpp -o CMakeFiles/Aim_At_Offer.dir/58_reverse_string/reverse_sentence.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/58_reverse_string/left_rotate_string.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/58_reverse_string/left_rotate_string.cpp.o: ../58_reverse_string/left_rotate_string.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/Aim_At_Offer.dir/58_reverse_string/left_rotate_string.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/58_reverse_string/left_rotate_string.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/58_reverse_string/left_rotate_string.cpp
+
+CMakeFiles/Aim_At_Offer.dir/58_reverse_string/left_rotate_string.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/58_reverse_string/left_rotate_string.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/58_reverse_string/left_rotate_string.cpp > CMakeFiles/Aim_At_Offer.dir/58_reverse_string/left_rotate_string.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/58_reverse_string/left_rotate_string.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/58_reverse_string/left_rotate_string.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/58_reverse_string/left_rotate_string.cpp -o CMakeFiles/Aim_At_Offer.dir/58_reverse_string/left_rotate_string.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.o: ../59_max_value_in_queue/max_in_sliding_window.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/59_max_value_in_queue/max_in_sliding_window.cpp
+
+CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/59_max_value_in_queue/max_in_sliding_window.cpp > CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/59_max_value_in_queue/max_in_sliding_window.cpp -o CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.s
+
 # Object files for target Aim_At_Offer
 Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/main.cpp.o" \
@@ -870,7 +935,12 @@ Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/binary_depth.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.o" \
-"CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.o"
+"CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/two_numbers_with_sum.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/continuous_sequence_with_sum.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/58_reverse_string/reverse_sentence.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/58_reverse_string/left_rotate_string.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.o"
 
 # External object files for target Aim_At_Offer
 Aim_At_Offer_EXTERNAL_OBJECTS =
@@ -933,9 +1003,14 @@ Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_bina
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/55_binary_tree_depth_and_balanced_binary_tree/is_balanced_binary_tree.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/two_numbers_appear_once.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/56_number_appears_times_in_array/number_appear_once.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/two_numbers_with_sum.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/57_sum_equal_s/continuous_sequence_with_sum.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/58_reverse_string/reverse_sentence.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/58_reverse_string/left_rotate_string.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/build.make
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Linking CXX executable Aim_At_Offer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Linking CXX executable Aim_At_Offer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Aim_At_Offer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
