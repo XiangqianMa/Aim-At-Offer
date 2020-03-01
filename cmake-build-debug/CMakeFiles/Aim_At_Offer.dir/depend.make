@@ -171,6 +171,15 @@ CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.o: .
 CMakeFiles/Aim_At_Offer.dir/60_dices_probability/dicies_probability.cpp.o: ../60_dices_probability/dicies_probability.cpp
 CMakeFiles/Aim_At_Offer.dir/60_dices_probability/dicies_probability.cpp.o: ../60_dices_probability/dicies_probability.h
 
+CMakeFiles/Aim_At_Offer.dir/61_continous_cards/continuous_cards.cpp.o: ../61_continous_cards/continuous_cards.cpp
+CMakeFiles/Aim_At_Offer.dir/61_continous_cards/continuous_cards.cpp.o: ../61_continous_cards/continuous_cards.h
+
+CMakeFiles/Aim_At_Offer.dir/62_last_number_in_circle/last_number_in_circle.cpp.o: ../62_last_number_in_circle/last_number_in_circle.cpp
+CMakeFiles/Aim_At_Offer.dir/62_last_number_in_circle/last_number_in_circle.cpp.o: ../62_last_number_in_circle/last_number_in_circle.h
+
+CMakeFiles/Aim_At_Offer.dir/63_max_stock_profit/max_stock_profit.cpp.o: ../63_max_stock_profit/max_stock_profit.cpp
+CMakeFiles/Aim_At_Offer.dir/63_max_stock_profit/max_stock_profit.cpp.o: ../63_max_stock_profit/max_stock_profit.h
+
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.cpp
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.h
 
@@ -227,6 +236,9 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../58_reverse_string/reverse_sentence.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../59_max_value_in_queue/max_in_sliding_window.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../59_max_value_in_queue/queue_with_max.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../60_dices_probability/dicies_probability.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../61_continous_cards/continuous_cards.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../62_last_number_in_circle/last_number_in_circle.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../63_max_stock_profit/max_stock_profit.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/path_in_matrix.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/robot_attend_aray.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../duplicate_number/duplicate.h

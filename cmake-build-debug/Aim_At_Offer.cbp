@@ -392,6 +392,24 @@
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/60_dices_probability/dicies_probability.h">
 			<Option target="Aim_At_Offer"/>
 		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/61_continous_cards/continuous_cards.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/61_continous_cards/continuous_cards.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/62_last_number_in_circle/last_number_in_circle.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/62_last_number_in_circle/last_number_in_circle.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/63_max_stock_profit/max_stock_profit.cpp">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
+		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/63_max_stock_profit/max_stock_profit.h">
+			<Option target="Aim_At_Offer"/>
+		</Unit>
 		<Unit filename="/Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.cpp">
 			<Option target="Aim_At_Offer"/>
 		</Unit>

@@ -4,5 +4,5 @@ using namespace std;
 
 
 int main() {
-    PrintProbabilityIterate(6, 6);
+    cout << GetMaxStockProfit({9, 11});
 }

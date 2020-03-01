@@ -1473,6 +1473,87 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/60_dices_probability/dicies_probability.cpp.s
 .PHONY : 60_dices_probability/dicies_probability.cpp.s
 
+61_continous_cards/continuous_cards.o: 61_continous_cards/continuous_cards.cpp.o
+
+.PHONY : 61_continous_cards/continuous_cards.o
+
+# target to build an object file
+61_continous_cards/continuous_cards.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/61_continous_cards/continuous_cards.cpp.o
+.PHONY : 61_continous_cards/continuous_cards.cpp.o
+
+61_continous_cards/continuous_cards.i: 61_continous_cards/continuous_cards.cpp.i
+
+.PHONY : 61_continous_cards/continuous_cards.i
+
+# target to preprocess a source file
+61_continous_cards/continuous_cards.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/61_continous_cards/continuous_cards.cpp.i
+.PHONY : 61_continous_cards/continuous_cards.cpp.i
+
+61_continous_cards/continuous_cards.s: 61_continous_cards/continuous_cards.cpp.s
+
+.PHONY : 61_continous_cards/continuous_cards.s
+
+# target to generate assembly for a file
+61_continous_cards/continuous_cards.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/61_continous_cards/continuous_cards.cpp.s
+.PHONY : 61_continous_cards/continuous_cards.cpp.s
+
+62_last_number_in_circle/last_number_in_circle.o: 62_last_number_in_circle/last_number_in_circle.cpp.o
+
+.PHONY : 62_last_number_in_circle/last_number_in_circle.o
+
+# target to build an object file
+62_last_number_in_circle/last_number_in_circle.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/62_last_number_in_circle/last_number_in_circle.cpp.o
+.PHONY : 62_last_number_in_circle/last_number_in_circle.cpp.o
+
+62_last_number_in_circle/last_number_in_circle.i: 62_last_number_in_circle/last_number_in_circle.cpp.i
+
+.PHONY : 62_last_number_in_circle/last_number_in_circle.i
+
+# target to preprocess a source file
+62_last_number_in_circle/last_number_in_circle.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/62_last_number_in_circle/last_number_in_circle.cpp.i
+.PHONY : 62_last_number_in_circle/last_number_in_circle.cpp.i
+
+62_last_number_in_circle/last_number_in_circle.s: 62_last_number_in_circle/last_number_in_circle.cpp.s
+
+.PHONY : 62_last_number_in_circle/last_number_in_circle.s
+
+# target to generate assembly for a file
+62_last_number_in_circle/last_number_in_circle.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/62_last_number_in_circle/last_number_in_circle.cpp.s
+.PHONY : 62_last_number_in_circle/last_number_in_circle.cpp.s
+
+63_max_stock_profit/max_stock_profit.o: 63_max_stock_profit/max_stock_profit.cpp.o
+
+.PHONY : 63_max_stock_profit/max_stock_profit.o
+
+# target to build an object file
+63_max_stock_profit/max_stock_profit.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/63_max_stock_profit/max_stock_profit.cpp.o
+.PHONY : 63_max_stock_profit/max_stock_profit.cpp.o
+
+63_max_stock_profit/max_stock_profit.i: 63_max_stock_profit/max_stock_profit.cpp.i
+
+.PHONY : 63_max_stock_profit/max_stock_profit.i
+
+# target to preprocess a source file
+63_max_stock_profit/max_stock_profit.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/63_max_stock_profit/max_stock_profit.cpp.i
+.PHONY : 63_max_stock_profit/max_stock_profit.cpp.i
+
+63_max_stock_profit/max_stock_profit.s: 63_max_stock_profit/max_stock_profit.cpp.s
+
+.PHONY : 63_max_stock_profit/max_stock_profit.s
+
+# target to generate assembly for a file
+63_max_stock_profit/max_stock_profit.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/63_max_stock_profit/max_stock_profit.cpp.s
+.PHONY : 63_max_stock_profit/max_stock_profit.cpp.s
+
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
 .PHONY : backtracking/path_in_matrix.o
@@ -2010,6 +2091,15 @@ help:
 	@echo "... 60_dices_probability/dicies_probability.o"
 	@echo "... 60_dices_probability/dicies_probability.i"
 	@echo "... 60_dices_probability/dicies_probability.s"
+	@echo "... 61_continous_cards/continuous_cards.o"
+	@echo "... 61_continous_cards/continuous_cards.i"
+	@echo "... 61_continous_cards/continuous_cards.s"
+	@echo "... 62_last_number_in_circle/last_number_in_circle.o"
+	@echo "... 62_last_number_in_circle/last_number_in_circle.i"
+	@echo "... 62_last_number_in_circle/last_number_in_circle.s"
+	@echo "... 63_max_stock_profit/max_stock_profit.o"
+	@echo "... 63_max_stock_profit/max_stock_profit.i"
+	@echo "... 63_max_stock_profit/max_stock_profit.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"

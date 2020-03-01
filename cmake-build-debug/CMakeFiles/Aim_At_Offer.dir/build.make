@@ -889,6 +889,45 @@ CMakeFiles/Aim_At_Offer.dir/60_dices_probability/dicies_probability.cpp.s: cmake
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/60_dices_probability/dicies_probability.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/60_dices_probability/dicies_probability.cpp -o CMakeFiles/Aim_At_Offer.dir/60_dices_probability/dicies_probability.cpp.s
 
+CMakeFiles/Aim_At_Offer.dir/61_continous_cards/continuous_cards.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/61_continous_cards/continuous_cards.cpp.o: ../61_continous_cards/continuous_cards.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/Aim_At_Offer.dir/61_continous_cards/continuous_cards.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/61_continous_cards/continuous_cards.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/61_continous_cards/continuous_cards.cpp
+
+CMakeFiles/Aim_At_Offer.dir/61_continous_cards/continuous_cards.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/61_continous_cards/continuous_cards.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/61_continous_cards/continuous_cards.cpp > CMakeFiles/Aim_At_Offer.dir/61_continous_cards/continuous_cards.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/61_continous_cards/continuous_cards.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/61_continous_cards/continuous_cards.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/61_continous_cards/continuous_cards.cpp -o CMakeFiles/Aim_At_Offer.dir/61_continous_cards/continuous_cards.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/62_last_number_in_circle/last_number_in_circle.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/62_last_number_in_circle/last_number_in_circle.cpp.o: ../62_last_number_in_circle/last_number_in_circle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/Aim_At_Offer.dir/62_last_number_in_circle/last_number_in_circle.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/62_last_number_in_circle/last_number_in_circle.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/62_last_number_in_circle/last_number_in_circle.cpp
+
+CMakeFiles/Aim_At_Offer.dir/62_last_number_in_circle/last_number_in_circle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/62_last_number_in_circle/last_number_in_circle.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/62_last_number_in_circle/last_number_in_circle.cpp > CMakeFiles/Aim_At_Offer.dir/62_last_number_in_circle/last_number_in_circle.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/62_last_number_in_circle/last_number_in_circle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/62_last_number_in_circle/last_number_in_circle.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/62_last_number_in_circle/last_number_in_circle.cpp -o CMakeFiles/Aim_At_Offer.dir/62_last_number_in_circle/last_number_in_circle.cpp.s
+
+CMakeFiles/Aim_At_Offer.dir/63_max_stock_profit/max_stock_profit.cpp.o: CMakeFiles/Aim_At_Offer.dir/flags.make
+CMakeFiles/Aim_At_Offer.dir/63_max_stock_profit/max_stock_profit.cpp.o: ../63_max_stock_profit/max_stock_profit.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/Aim_At_Offer.dir/63_max_stock_profit/max_stock_profit.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aim_At_Offer.dir/63_max_stock_profit/max_stock_profit.cpp.o -c /Volumes/数据/mxq/program/Aim-At-Offer/63_max_stock_profit/max_stock_profit.cpp
+
+CMakeFiles/Aim_At_Offer.dir/63_max_stock_profit/max_stock_profit.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aim_At_Offer.dir/63_max_stock_profit/max_stock_profit.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/数据/mxq/program/Aim-At-Offer/63_max_stock_profit/max_stock_profit.cpp > CMakeFiles/Aim_At_Offer.dir/63_max_stock_profit/max_stock_profit.cpp.i
+
+CMakeFiles/Aim_At_Offer.dir/63_max_stock_profit/max_stock_profit.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aim_At_Offer.dir/63_max_stock_profit/max_stock_profit.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/数据/mxq/program/Aim-At-Offer/63_max_stock_profit/max_stock_profit.cpp -o CMakeFiles/Aim_At_Offer.dir/63_max_stock_profit/max_stock_profit.cpp.s
+
 # Object files for target Aim_At_Offer
 Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/main.cpp.o" \
@@ -954,7 +993,10 @@ Aim_At_Offer_OBJECTS = \
 "CMakeFiles/Aim_At_Offer.dir/58_reverse_string/reverse_sentence.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/58_reverse_string/left_rotate_string.cpp.o" \
 "CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.o" \
-"CMakeFiles/Aim_At_Offer.dir/60_dices_probability/dicies_probability.cpp.o"
+"CMakeFiles/Aim_At_Offer.dir/60_dices_probability/dicies_probability.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/61_continous_cards/continuous_cards.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/62_last_number_in_circle/last_number_in_circle.cpp.o" \
+"CMakeFiles/Aim_At_Offer.dir/63_max_stock_profit/max_stock_profit.cpp.o"
 
 # External object files for target Aim_At_Offer
 Aim_At_Offer_EXTERNAL_OBJECTS =
@@ -1023,9 +1065,12 @@ Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/58_reverse_string/reverse_sentence.cpp
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/58_reverse_string/left_rotate_string.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/60_dices_probability/dicies_probability.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/61_continous_cards/continuous_cards.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/62_last_number_in_circle/last_number_in_circle.cpp.o
+Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/63_max_stock_profit/max_stock_profit.cpp.o
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/build.make
 Aim_At_Offer: CMakeFiles/Aim_At_Offer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Linking CXX executable Aim_At_Offer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Linking CXX executable Aim_At_Offer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Aim_At_Offer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

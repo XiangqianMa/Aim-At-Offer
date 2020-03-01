@@ -8,6 +8,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
+#include <ctime>
 #include "duplicate_number/duplicate.h"
 #include "find_number_in_matrix/find_number_in_matrix.h"
 #include "string/replace_black.h"
@@ -53,5 +54,8 @@
 #include "59_max_value_in_queue/max_in_sliding_window.h"
 #include "59_max_value_in_queue/queue_with_max.h"
 #include "60_dices_probability/dicies_probability.h"
+#include "61_continous_cards/continuous_cards.h"
+#include "62_last_number_in_circle/last_number_in_circle.h"
+#include "63_max_stock_profit/max_stock_profit.h"
 
 #endif //AIM_AT_OFFER_INCLUDE_H
