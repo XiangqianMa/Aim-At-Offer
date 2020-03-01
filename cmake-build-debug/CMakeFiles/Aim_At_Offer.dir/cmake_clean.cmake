@@ -50,6 +50,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Aim_At_Offer.dir/58_reverse_string/left_rotate_string.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/58_reverse_string/reverse_sentence.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.o"
+  "CMakeFiles/Aim_At_Offer.dir/60_dices_probability/dicies_probability.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/backtracking/robot_attend_aray.cpp.o"
   "CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.o"

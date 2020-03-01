@@ -1446,6 +1446,33 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.s
 .PHONY : 59_max_value_in_queue/max_in_sliding_window.cpp.s
 
+60_dices_probability/dicies_probability.o: 60_dices_probability/dicies_probability.cpp.o
+
+.PHONY : 60_dices_probability/dicies_probability.o
+
+# target to build an object file
+60_dices_probability/dicies_probability.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/60_dices_probability/dicies_probability.cpp.o
+.PHONY : 60_dices_probability/dicies_probability.cpp.o
+
+60_dices_probability/dicies_probability.i: 60_dices_probability/dicies_probability.cpp.i
+
+.PHONY : 60_dices_probability/dicies_probability.i
+
+# target to preprocess a source file
+60_dices_probability/dicies_probability.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/60_dices_probability/dicies_probability.cpp.i
+.PHONY : 60_dices_probability/dicies_probability.cpp.i
+
+60_dices_probability/dicies_probability.s: 60_dices_probability/dicies_probability.cpp.s
+
+.PHONY : 60_dices_probability/dicies_probability.s
+
+# target to generate assembly for a file
+60_dices_probability/dicies_probability.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/60_dices_probability/dicies_probability.cpp.s
+.PHONY : 60_dices_probability/dicies_probability.cpp.s
+
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
 .PHONY : backtracking/path_in_matrix.o
@@ -1980,6 +2007,9 @@ help:
 	@echo "... 59_max_value_in_queue/max_in_sliding_window.o"
 	@echo "... 59_max_value_in_queue/max_in_sliding_window.i"
 	@echo "... 59_max_value_in_queue/max_in_sliding_window.s"
+	@echo "... 60_dices_probability/dicies_probability.o"
+	@echo "... 60_dices_probability/dicies_probability.i"
+	@echo "... 60_dices_probability/dicies_probability.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"

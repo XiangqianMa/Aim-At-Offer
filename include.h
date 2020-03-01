@@ -51,5 +51,7 @@
 #include "58_reverse_string/reverse_sentence.h"
 #include "58_reverse_string/left_rotate_string.h"
 #include "59_max_value_in_queue/max_in_sliding_window.h"
+#include "59_max_value_in_queue/queue_with_max.h"
+#include "60_dices_probability/dicies_probability.h"
 
 #endif //AIM_AT_OFFER_INCLUDE_H

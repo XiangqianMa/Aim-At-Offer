@@ -168,6 +168,9 @@ CMakeFiles/Aim_At_Offer.dir/58_reverse_string/reverse_sentence.cpp.o: ../58_reve
 CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.o: ../59_max_value_in_queue/max_in_sliding_window.cpp
 CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.o: ../59_max_value_in_queue/max_in_sliding_window.h
 
+CMakeFiles/Aim_At_Offer.dir/60_dices_probability/dicies_probability.cpp.o: ../60_dices_probability/dicies_probability.cpp
+CMakeFiles/Aim_At_Offer.dir/60_dices_probability/dicies_probability.cpp.o: ../60_dices_probability/dicies_probability.h
+
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.cpp
 CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o: ../backtracking/path_in_matrix.h
 
@@ -222,6 +225,8 @@ CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../57_sum_equal_s/two_numbers_with_sum.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../58_reverse_string/left_rotate_string.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../58_reverse_string/reverse_sentence.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../59_max_value_in_queue/max_in_sliding_window.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../59_max_value_in_queue/queue_with_max.h
+CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../60_dices_probability/dicies_probability.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/path_in_matrix.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../backtracking/robot_attend_aray.h
 CMakeFiles/Aim_At_Offer.dir/main.cpp.o: ../duplicate_number/duplicate.h

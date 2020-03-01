@@ -53,6 +53,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Volumes/数据/mxq/program/Aim-At-Offer/58_reverse_string/left_rotate_string.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/58_reverse_string/left_rotate_string.cpp.o"
   "/Volumes/数据/mxq/program/Aim-At-Offer/58_reverse_string/reverse_sentence.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/58_reverse_string/reverse_sentence.cpp.o"
   "/Volumes/数据/mxq/program/Aim-At-Offer/59_max_value_in_queue/max_in_sliding_window.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/59_max_value_in_queue/max_in_sliding_window.cpp.o"
+  "/Volumes/数据/mxq/program/Aim-At-Offer/60_dices_probability/dicies_probability.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/60_dices_probability/dicies_probability.cpp.o"
   "/Volumes/数据/mxq/program/Aim-At-Offer/backtracking/path_in_matrix.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/backtracking/path_in_matrix.cpp.o"
   "/Volumes/数据/mxq/program/Aim-At-Offer/backtracking/robot_attend_aray.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/backtracking/robot_attend_aray.cpp.o"
   "/Volumes/数据/mxq/program/Aim-At-Offer/duplicate_number/duplicate.cpp" "/Volumes/数据/mxq/program/Aim-At-Offer/cmake-build-debug/CMakeFiles/Aim_At_Offer.dir/duplicate_number/duplicate.cpp.o"
