@@ -58,3 +58,45 @@ void ProbabilityRecursiveCore(int min_sum, int current_dice, int sum, vector<int
         }
     }
 }
+
+
+/**
+ * @brief 使用动态规划求解骰子之和问题，每一加入一个骰子，状态转移表表示当前可以达到的和所对应的次数
+ * @param dices_number 骰子数目
+ * @param dice_max_value 骰子点数的最大值
+ */
+void PrintProbabilityIterate(const int& dices_number, const int& dice_max_value){
+    if (dices_number <= 0)
+        return;
+    // 状态转移表
+    vector<vector<int>> sum_times_state(2, vector<int>(dice_max_value * dices_number + 1, 0));
+    // 初始化起始状态
+    for (int i = 1; i <= dice_max_value; i++)
+        sum_times_state[0][i] = 1;
+    int state_flag = 1;
+    // 进行状态转移
+    for (int dice_index = 2; dice_index <= dices_number; dice_index++){
+        // 将小于dice_index的次数都置为0
+        for (int i = 0; i < dice_index; i++)
+            sum_times_state[state_flag][i] = 0;
+
+        for (int sum_value = dice_index; sum_value <= dice_index * dice_max_value; sum_value++){
+            sum_times_state[state_flag][sum_value] = 0;  // 将当前sum值对应的次数置0，重新计算
+            for (int current_dice_value = 1; current_dice_value <= sum_value && current_dice_value <= dice_max_value;
+                current_dice_value++){  // 取上次状态的sum_value - 1, sum_value - 2, sum_value - 3,... , sum_value - 6的次数之和
+                sum_times_state[state_flag][sum_value] += sum_times_state[1 - state_flag][sum_value - current_dice_value];
+            }
+        }
+        state_flag = 1 - state_flag;
+    }
+
+    double total = pow((double)(dice_max_value), dices_number);
+    cout << total << endl;
+    int sum_times = 0;
+    for (int index = dices_number; index <= dice_max_value * dices_number; index++){
+        double probability = sum_times_state[1 - state_flag][index] / total;
+        sum_times += sum_times_state[1 - state_flag][index];
+        cout << "Sum: " << index << " Probability: " << probability << endl;
+    }
+    cout << sum_times;
+}

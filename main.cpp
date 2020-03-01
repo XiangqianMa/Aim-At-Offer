@@ -4,5 +4,5 @@ using namespace std;
 
 
 int main() {
-    PrintProbability(6, 6);
+    PrintProbabilityIterate(6, 6);
 }
