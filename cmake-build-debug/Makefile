@@ -1554,6 +1554,87 @@ Aim_At_Offer/fast:
 	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/63_max_stock_profit/max_stock_profit.cpp.s
 .PHONY : 63_max_stock_profit/max_stock_profit.cpp.s
 
+64_accumulate/accumulate.o: 64_accumulate/accumulate.cpp.o
+
+.PHONY : 64_accumulate/accumulate.o
+
+# target to build an object file
+64_accumulate/accumulate.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/64_accumulate/accumulate.cpp.o
+.PHONY : 64_accumulate/accumulate.cpp.o
+
+64_accumulate/accumulate.i: 64_accumulate/accumulate.cpp.i
+
+.PHONY : 64_accumulate/accumulate.i
+
+# target to preprocess a source file
+64_accumulate/accumulate.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/64_accumulate/accumulate.cpp.i
+.PHONY : 64_accumulate/accumulate.cpp.i
+
+64_accumulate/accumulate.s: 64_accumulate/accumulate.cpp.s
+
+.PHONY : 64_accumulate/accumulate.s
+
+# target to generate assembly for a file
+64_accumulate/accumulate.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/64_accumulate/accumulate.cpp.s
+.PHONY : 64_accumulate/accumulate.cpp.s
+
+65_add_two_numbers/add_two_numbers.o: 65_add_two_numbers/add_two_numbers.cpp.o
+
+.PHONY : 65_add_two_numbers/add_two_numbers.o
+
+# target to build an object file
+65_add_two_numbers/add_two_numbers.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/65_add_two_numbers/add_two_numbers.cpp.o
+.PHONY : 65_add_two_numbers/add_two_numbers.cpp.o
+
+65_add_two_numbers/add_two_numbers.i: 65_add_two_numbers/add_two_numbers.cpp.i
+
+.PHONY : 65_add_two_numbers/add_two_numbers.i
+
+# target to preprocess a source file
+65_add_two_numbers/add_two_numbers.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/65_add_two_numbers/add_two_numbers.cpp.i
+.PHONY : 65_add_two_numbers/add_two_numbers.cpp.i
+
+65_add_two_numbers/add_two_numbers.s: 65_add_two_numbers/add_two_numbers.cpp.s
+
+.PHONY : 65_add_two_numbers/add_two_numbers.s
+
+# target to generate assembly for a file
+65_add_two_numbers/add_two_numbers.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/65_add_two_numbers/add_two_numbers.cpp.s
+.PHONY : 65_add_two_numbers/add_two_numbers.cpp.s
+
+66_construct_array/construct_array.o: 66_construct_array/construct_array.cpp.o
+
+.PHONY : 66_construct_array/construct_array.o
+
+# target to build an object file
+66_construct_array/construct_array.cpp.o:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/66_construct_array/construct_array.cpp.o
+.PHONY : 66_construct_array/construct_array.cpp.o
+
+66_construct_array/construct_array.i: 66_construct_array/construct_array.cpp.i
+
+.PHONY : 66_construct_array/construct_array.i
+
+# target to preprocess a source file
+66_construct_array/construct_array.cpp.i:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/66_construct_array/construct_array.cpp.i
+.PHONY : 66_construct_array/construct_array.cpp.i
+
+66_construct_array/construct_array.s: 66_construct_array/construct_array.cpp.s
+
+.PHONY : 66_construct_array/construct_array.s
+
+# target to generate assembly for a file
+66_construct_array/construct_array.cpp.s:
+	$(MAKE) -f CMakeFiles/Aim_At_Offer.dir/build.make CMakeFiles/Aim_At_Offer.dir/66_construct_array/construct_array.cpp.s
+.PHONY : 66_construct_array/construct_array.cpp.s
+
 backtracking/path_in_matrix.o: backtracking/path_in_matrix.cpp.o
 
 .PHONY : backtracking/path_in_matrix.o
@@ -2100,6 +2181,15 @@ help:
 	@echo "... 63_max_stock_profit/max_stock_profit.o"
 	@echo "... 63_max_stock_profit/max_stock_profit.i"
 	@echo "... 63_max_stock_profit/max_stock_profit.s"
+	@echo "... 64_accumulate/accumulate.o"
+	@echo "... 64_accumulate/accumulate.i"
+	@echo "... 64_accumulate/accumulate.s"
+	@echo "... 65_add_two_numbers/add_two_numbers.o"
+	@echo "... 65_add_two_numbers/add_two_numbers.i"
+	@echo "... 65_add_two_numbers/add_two_numbers.s"
+	@echo "... 66_construct_array/construct_array.o"
+	@echo "... 66_construct_array/construct_array.i"
+	@echo "... 66_construct_array/construct_array.s"
 	@echo "... backtracking/path_in_matrix.o"
 	@echo "... backtracking/path_in_matrix.i"
 	@echo "... backtracking/path_in_matrix.s"

@@ -8,7 +8,7 @@
 /*
  * 将字符串数组中的空格全部替换为"%20" ，要注意的是传入的字符串数组要保证有足够的空间容纳替换后的字符串
  * 输入参数：
- *      char string[]: 字符串数组
+ *      char 5_string[]: 字符串数组
  *      const int length: 字符串数组的长度
  */
 bool replace_blank(char string[], int length)

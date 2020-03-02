@@ -23,7 +23,7 @@
     if (replace_result)
         cout << string << endl;
     else
-        cout << "Replace string failure." << endl;
+        cout << "Replace 5_string failure." << endl;
 
     // 反向打印链表中的元素
     ListNode* list_head = nullptr;
